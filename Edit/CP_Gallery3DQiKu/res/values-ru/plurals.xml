@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="share_limit_error">
+        <item quantity="other">You can share at most %d pictures at a time.</item>
+        <item quantity="one">You can share at most %d picture at a time.</item>
+    </plurals>
+    <plurals name="number_of_items_total">
+        <item quantity="other">%d items in total</item>
+        <item quantity="one">%d item in total</item>
+    </plurals>
+    <plurals name="sequence_in_set">
+        <item quantity="other">%d item</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="sequence_in_set1">
+        <item quantity="other">(%d in total):</item>
+        <item quantity="one">(%d in total):</item>
+    </plurals>
+    <plurals name="rename_album_has_image">
+        <item quantity="other">The album already exists and contains %d pictures. Do you want to move the selected album pictures to this album?</item>
+        <item quantity="one">The album already exists and contains %d picture. Do you want to move the selected album pictures to this album?</item>
+    </plurals>
+    <plurals name="onekeyshare_result">
+        <item quantity="other">%d pieces have been shared successfully by one key,</item>
+        <item quantity="one">%d pieces have been shared successfully by one key,</item>
+    </plurals>
+    <plurals name="onekeyshare_result1">
+        <item quantity="other">but %d pieces failed.</item>
+        <item quantity="one">but %d piece failed.</item>
+    </plurals>
+    <plurals name="timeline_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+    </plurals>
+    <plurals name="albumset_picture_count">
+        <item quantity="other">%d photos</item>
+        <item quantity="one">%d photo</item>
+    </plurals>
+    <plurals name="albumset_video_count">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="coolcloud_pic_rec_folder_content">
+        <item quantity="other">%d pictures,</item>
+        <item quantity="one">%d picture,</item>
+    </plurals>
+    <plurals name="coolcloud_pic_rec_folder_content1">
+        <item quantity="other">%d videos</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="other_str">
+        <item quantity="other">%d another folds.</item>
+        <item quantity="one">%d another fold</item>
+    </plurals>
+    <plurals name="save_tip">
+        <item quantity="other">Click OK to save the selected pictures, and the remaining pictures will be deleted. Do you sure save these %d pictures?</item>
+        <item quantity="one">Click OK to save the selected pictures, and the remaining pictures will be deleted. Do you sure save these %d picture?</item>
+    </plurals>
+    <plurals name="delete_null_album">
+        <item quantity="other">Are you sure you want to delete it?</item>
+        <item quantity="one">Are you sure you want to delete it?</item>
+    </plurals>
+    <plurals name="delete_selection">
+        <item quantity="other">Are you sure to delete the selected %1$d items?</item>
+        <item quantity="one">Are you sure to delete the selected %1$d item?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selected</item>
+        <item quantity="zero">%1$d selected</item>
+        <item quantity="one">%1$d selected</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Allow offline viewing of album</item>
+        <item quantity="one">Allow offline viewing of album</item>
+    </plurals>
+</resources>

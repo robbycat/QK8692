@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demo Mode</string>
+    <string name="recovery_apps">Recovery Apps</string>
+    <string name="no_new_version">No new version</string>
+    <string name="not_existed_string_format">%1$s is not existed</string>
+    <string name="querying">Querying…</string>
+    <string name="new_version_found">New version found</string>
+    <string name="update">Update</string>
+    <string name="recover">Recover</string>
+    <string name="done">Done</string>
+    <string name="recover_info">Recovering apps…</string>
+    <string name="recover_done_info">Rocovering apps done</string>
+    <string name="play">Play</string>
+    <string name="installShortcutsToLauncher">Add demo mode and recover app shortcuts to Launcher</string>
+    <string name="uninstallShortcutsFromLauncher">Remove demo mode shortcuts</string>
+    <string name="downloadVideo">Download video</string>
+    <string name="downloadingVideo">Downloading :</string>
+    <string name="downloadingVideoWithEllipsis">Downloading video…</string>
+    <string name="downloadVideoCompleted">"Download completed : "</string>
+    <string name="resumeDownloadingVideo">Resume downloading…</string>
+    <string name="wifi_not_connected">Wifi is not connected</string>
+    <string name="finish_to_replace_video_file">Finish demo mode to replace new video</string>
+</resources>

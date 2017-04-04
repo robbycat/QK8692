@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="desk_lyric_front_color_value">
+        <item>0xFFFF3467</item>
+        <item>0xFFFFCD2D</item>
+        <item>0xFF34A0F0</item>
+        <item>0xFF33FF99</item>
+        <item>0xFFB400E8</item>
+    </integer-array>
+    <integer-array name="desklyr_text_size_default_value">
+        <item>24</item>
+        <item>28</item>
+        <item>32</item>
+    </integer-array>
+    <string-array name="pay_type_array">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+    <string-array name="gift_num_array">
+        <item>比翼双飞(9999个)</item>
+        <item>生生世世(3344个)</item>
+        <item>一生一世(1314个)</item>
+        <item>一见钟情(999个)</item>
+        <item>I LOVE U(520个)</item>
+        <item>爱(300个)</item>
+        <item>Miss U(200个)</item>
+        <item>心(99个)</item>
+        <item>笑脸(50个)</item>
+        <item>20个</item>
+        <item>10个</item>
+        <item>5个</item>
+        <item>1个</item>
+        <item>其他</item>
+    </string-array>
+</resources>

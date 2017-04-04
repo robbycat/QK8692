@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="APKTOOL_DUMMYVAL_0x7f090005">屏幕旋转已开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090006">屏幕旋转已关闭</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090007">移动数据已开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090008">移动数据已关闭</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090009">请插入SIM卡</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000a">请先关闭飞行模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000b">抱歉，你的手机没有开放开关移动数据的方法~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000c">屏幕亮度自动</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000d">屏幕亮度%d%%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000e">手电筒已开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09000f">手电筒已关闭</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090010">"请不要频繁开关手电筒, 
+以免损坏硬件"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090011">"你的手机不支持手电筒, 
+或者手机卫士未获得 拍照/录像 权限"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090012">明天</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090013">%s个重要应用需要保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090014">您的隐私安全状态下降了</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090015">新加了%s个应用，去加层隐私保护吧。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090016">给%s加层保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090017">防止他人偷看你的隐私</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090018">立即保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090019">信息</string>
+    <string name="app_name"> 360卫士</string>
+    <string name="barcode_shortcut_name">360安全扫码</string>
+    <string name="lotus_shortcut_name">手心远程协助</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001d">建议开启隐私保护，防止他人偷看你的个人信息。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001e">建议将下列应用加层隐私保护，防止聊天记录和个人信息被偷看。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09001f">下次再说</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090020">一键加锁</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090021">温馨提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090022">%s款软件可优化</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090023">5款需优化</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090024">要使用完整功能，需要开启超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090025">开启超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090026">检测到您安装了极客版，为了避免冲突本功能已关闭，请到极客版中继续使用本功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090027">进入极客版</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090028">正在开启超强模式…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090029">授予卫士ROOT权限，才能开启超强模式，请到MIUI系统中手动授予</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002a">授予ROOT权限</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002b">手机未root，开启超强模式失败</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002c">开启超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002d">暂不支持您的x86手机系统，请等待版本升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002e">查看是否有新版本</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09002f">暂不支持您的手机系统，请等待版本升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090030">"手机未ROOT,开启超强模式失败
+（推荐使用超级ROOT工具获取root权限）"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090031">使用超级ROOT工具</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090032">手机频繁重启，建议手动开启超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090033">Android 频繁重启，建议手动开启超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090034">建议手动开启超强模式(code=1)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090035">建议手动开启超强模式(code=2)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090036">手动开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090037">可优化软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090038">超过5款</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090039">%d款软件权限需优化</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003a">去试试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003b">抢一个</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003c">开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003d">去领取</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003e">"卫士还有很多黑科技 
+嘘~别告诉别人"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09003f">人脸识别</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090040">用生物科技保护您的隐私</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090041">自动抢红包</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090042">不错过任何一个红包</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090043">广告拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090044">过滤广告插件，上网好清爽</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090045">闪电手</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090046">单手操作手机的神器</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090047">免费十万保险</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090048">拿去花！拿去花！拿去花！</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090049">360卫士拦截到%d条垃圾短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004a">360卫士拦截到%d个骚扰电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004b">拦截到%1$d条垃圾短信，%2$d个骚扰电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004c">拦截到垃圾短信(%s)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004d">拦截到骚扰电话(%s)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004e">WAP PUSH</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09004f">[彩信]</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090050">发现白名单短信 包含危险网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090051">发现联系人短信 包含危险网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090052">发现白名单短信 包含可疑网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090053">发现联系人短信 包含可疑网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090054">%1$s：%2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090055">想睡个安稳觉？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090056">开启“勿扰模式”，电话不该响时就不响</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090057">骚扰拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090058">勿扰模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090059">黑名单号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005a">按地区拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005b">按标记拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005c">按标记拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005d">响一声</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005e">响一声</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09005f">只接受通讯录模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090060">只接受白名单模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090061">只接受白名单和联系人模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090062">全部拦截模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090063">智能拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090064">按关键字拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090065">伪装号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090066">黑号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090067">疑似伪基站</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090068">诈骗短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090069">包含可疑网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006a">包含危险网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006b">通讯录号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006c">陌生人号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006d">隐藏号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006e">彩信智能拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09006f">WAP PUSH智能拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090070">已举报信息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090071">WAP PUSH</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090072">这是一条彩信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090073">被%1$d人标记为%2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090074">未知号码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090075">%d个电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090076">%d条信息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090077">%1$d信息/%2$d电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090078">拦截骚扰电话短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090079">未开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007a">360手机卫士提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007b">拦截到垃圾短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007c">为保证来电秀正常显示，请按照下图打开显示窗开关</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007d">360手机卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007e">去开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09007f">我知道了</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090080">骚扰电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090081">疑似欺诈</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090082">广告推销</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090083">房产中介</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090084">保险理财</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090085">招聘猎头</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090086">亲情短号</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090087">集团短号</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090088">下次不再提醒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090089">存储空间不足</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008a">您的手机存储空间已不足20%，是否立刻清理手机，释放更多可用空间？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008b">立刻清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008c">删除安装包</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008d">%1$s已安装，删除安装包可释放%2$s的空间，建议删除</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008e">删除卸载残留</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09008f">监测到%1$s存在%2$s卸载残留文件，建议清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090090">监测到%1$s存在卸载残留文件，建议清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090091">删除</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090092">锁屏省电记录</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090093">%1$s 进行一次锁屏省电，关闭%2$d款应用，想要更快更省电吗？走起~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090094">有新的系统消息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090095">消息发送失败</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090096">点击查看</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090097">回拨通话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090098">消息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090099">通讯录服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009a">分</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009b">立即修复</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009c">立即优化</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009d">猜你喜欢</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009e">为爱守卫 轻装上阵~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09009f">7.0=Qing.0</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a0">100分了耶，真能干</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a1">更轻快 更清爽 更青春</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a2">不要戳个不停嘛</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a3">试试1秒变青春</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a4">我的偶像是卫星</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a5">有任何不爽请反馈~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a6">感谢你们带给我的每一件事</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a7">不只是手机安全</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a8">恭喜您，体检已获满分！</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900a9">开启锁屏保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900aa">开启后，保护您远离隐私泄露和财产损失。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ab">开启保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ac">继续使用代表您：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ad">已阅读并同意</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ae"><u>允许自动开启超强模式</u></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900af"><u>参加用户体验改进计划</u></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b0">《<u>安装许可协议</u>》</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b1">《<u>隐私保护白皮书</u>》</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b2">同意并使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b3">咦，没有发现浏览器，暂时无法查看</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b4">同意升级新版通讯录</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b5">您的隐私信息存在泄漏风险</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b6">建议开启自我防护功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b7">开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b8">欢迎使用360手机卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900b9">"为了向您提供全方位的服务，需要使用到如下权限：
+*更新病毒库等功能需消耗少量数据流量或wifi流量
+*手机清理等功能会读软件列表
+*开启防盗等功能会发送短信、拍照、定位
+*骚扰拦截等功能会读短信记录或通话记录
+*备份等功能会读联系人、图片、音乐、视频
+
+承诺：本软件绝对不会收集、处理或泄露用户的个人隐私
+
+点击“确定”即表示您已清楚了解本软件使用的权限并同意使用本软件。"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ba">同意</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bb">退出</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bc">问题反馈</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bd">关于卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900be">V%1$s.%2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900bf">特别鸣谢</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c0">谁说点击版本号就会有彩蛋</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c1">法律许可和联系方式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c2">手机诊断</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c3">©2016 360.cn Inc.All Rights Reserved.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c4">感谢有你</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c5">"360手机卫士7.0
+更轻快 更清爽 更青春
+感谢内测期间听到你们的声音
+樊宁宁
+王勇鹏
+随心所欲2060
+胡靖宇
+李昊鑫
+终结者_VX
+张振奇
+陈英健
+三生石wl
+楊，偉景
+景超
+林铭剑
+杨阳
+天空也会哭
+Ti安
+陳子康
+王增辉
+孙宁波
+卖大麦的麦
+余世林
+……
+360手机卫士7.0
+轻盈而至 轻装前行
+不负时光不负卿"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c6">官方信息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c7">官方网站</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c8">官方论坛</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900c9">官方微博</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ca">登录成功</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cb">已注册成功并登录</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cc">首页换肤</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cd">获取图片失败, 换张图片试试：）</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ce">优化建议</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900cf">今日已用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d0">流量剩余</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d1">话费余额</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d2">流量超额</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d3">已欠费</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d4">元</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d5">查看更多</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d6">剩余空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d7">照片</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d8">安装包</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900d9">立即深度清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900da">发现%s款重要应用需要隐私保护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900db">开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900dc">发现大量微信垃圾，定期清理可节省更多空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900dd">立即清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900de">还在手动加速内存？锁屏后帮你关闭应用，省心，省电 !</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900df">点我关闭偷电应用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e0">安心搜索</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e1">搜索或输入网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e2">搜索</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e3">理财精选</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e4">新人送8000元理财体验金</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e5">360旗下理财安全产品</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e6">卫士公益</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e7">寻找宝宝</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e8">帮助失踪儿童早日回家</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900e9">360手机卫士已保护您</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ea">360正在守护您的移动安全</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900eb">查看防护记录</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ec">天</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ed">流量剩余</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ee">闲时剩余</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ef">设置流量</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f0">流量超额</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f1">今日已用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f2">闲时已用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f3">套餐</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f4">流量监控已关闭无法校准，请打开流量监控开关！</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f5">另一张卡正在进行短信校准，请稍后重试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f6">请允许卫士发送免费短信查询流量，再尝试校准流量哦</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f7">由于您的手机中没有安装SIM卡或处于飞行模式，目前无法发送短信或拨打电话</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f8">无法连接网络，请检查网络设置。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900f9">正在查询中，请稍候…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fa">运营商哥哥不支持查询，没有获取到神奇的查询口令</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fb">运营商哥哥不支持查询，没有获取到神奇的流量查询口令</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fc">正在查询您的套餐使用情况</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fd">流量信息不完整，快去设置流量总量</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900fe">流量校准成功</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0900ff">流量校准超时，请一会再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090100">%1$s%2$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090101">锁屏流量消耗提醒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090102">锁屏流量消耗超过安全阈值</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090103">"锁屏期间消耗流量超过&lt;font color='#ff0000'>%1$s&lt;/font>，触发智能断网，现已恢复网络"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090104">自%1$s锁屏起，智能断网模式开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090105">"%1$s个应用消耗流量&lt;font color='#e68237'>%2$s&lt;/font>（%3$s起）"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090106">"您的话费已不足&lt;font color='#FF0000'>%1$s&lt;/font>元,点击一键充值"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090107">卫士充话费 优惠享不停</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090108">安全服务已启动</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090109">今日已用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010a">流量剩余</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010b">设置套餐</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010c">网络不给力，请稍后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010d">活动参与人数太多，请稍后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010e">活动已结束</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09010f">立即修复</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090110">下次再说</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090111">立即修复</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090112">通知栏失效，安全通知无法第一时间告知您。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090113">勾选\"显示通知\"，找回你的通知栏</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090114">手机卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090115">通知栏不显示？点击修复</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090116">通知栏已正常显示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090117">谨慎软件：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090118">危险软件：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090119">木马软件：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011a">盗版软件：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011b">假冒软件：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011c">谨慎使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011d">危险</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011e">木马</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09011f">盗版</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090120">假冒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090121">未知</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090122">安全</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090123">保护支付短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090124">拦截诈骗短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090125">360支付保镖提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090126">诈骗短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090127">票务诈骗</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090128">网络诈骗多，切勿泄漏验证码给他人</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090129">我知道了</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012a">不再提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012b">诈骗短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012c">建议卸载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012d">木马(%1$d)　危险(%2$d)　谨慎使用(%3$d)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012e">联网升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09012f">提示：如果等待时间较长，您可以选择“隐藏窗口”，升级将在后台继续完成。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090130">连接网络…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090131">版本：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090132">大小：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090133">已下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090134">不再自动提醒此版本</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090135">省流量升级%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090136">隐藏窗口</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090137">取消升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090138">升级提醒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090139">"您的病毒库已升级到最新
+病毒库版本：%s
+您的手机卫士已经是最新版本"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013a">确定</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013b">取消</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013c">"正在下载升级包，已下载 %1$s
+总共 %2$s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013d">正在升级，已完成 %d %%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013e">正在更新 360卫士，已完成 %d %%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09013f">正在下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090140">360卫士有新版本(%s)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090141">点击更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090142">安装包已下载，点击安装</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090143">病毒库更新完成</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090144">病毒库版本(%s)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090145">升级失败</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090146">由于升级服务器异常，导致升级失败，请稍后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090147">由于未发现SD卡，导致升级文件无法下载，建议您检查SD卡后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090148">由于SD卡没有足够的空间，导致升级文件无法下载，建议您清理SD卡后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090149">无法连接网络，请检查网络设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014a">由于所下载的数据文件出错，导致升级失败，请稍后再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014b">去设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014c">我知道了</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014d">非WiFi网络将消耗一些流量，确认继续</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014e">360手机卫士更新啦~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09014f">愉快的升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090150">残忍的拒绝</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090151">360手机卫士提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090152">“%s”是危险软件，请马上删除</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090153">“%s”需谨慎使用，请注意</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090154">“%s”未发现安全风险，点击打开</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090155">下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090156">取消</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090157">无法连接网络，请检查网络设置。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090158">下载参数错误，请稍后重试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090159">下载失败</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015a">创建下载目录失败，请稍后重试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015b">"正在下载\"%1$s\"，请稍候。
+下载完成后会自动安装。"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015c">正在下载%s (点击取消)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015d">0%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015e">已取消下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09015f">网站申诉</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090160">您正在访问包含木马程序的网站!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090161">"包含木马:
+%s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090162">"木马名称:
+%s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090163">"正在访问:
+%s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090164">正在访问:</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090165">当前访问的网址存在风险!</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090166">经360互联网安全中心确认，当前页面存在风险，继续访问可能有帐号被盗、财产损失的风险。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090167">360手机卫士提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090168">发现恶意网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090169">用户关闭</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016a">用户忽略</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016b">拦截欺诈网址</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016c">360浏览器</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016d">未发现安全风险</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016e">发现%d个谨慎使用的软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09016f">发现%d个危险软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090170">扫描已安装软件…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090171">扫描已安装软件及安装包…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090172">%1$d个后台软件，内存已用%2$d%%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090173">手机运行状态良好</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090174">正在扫描缓存中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090175">正在扫描安装包中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090176">正在扫描卸载残留中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090177">正在扫描无用大文件中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090178">正在扫描系统拉圾文件中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090179">正在扫描广告拉圾中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017a">发现%1$s个安装包,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017b">发现%1$s个缓存文件,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017c">发现%1$s个卸载残留文件,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017d">发现%1$s个系统拉圾文件,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017e">发现%1$s个广告拉圾文件,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09017f">发现%1$s个无用大文件文件,占用%2$s手机空间</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090180">温馨提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090181">“%1$s”功能需要下载才能使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090182">“%1$s”已有新版本可用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090183">"
+
+文件大小："</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090184">正在估算</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090185">无法估算</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090186">下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090187">更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090188">重新下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090189">“%1$s”下载失败，重新下载试试？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018a">联网失败，请检查网络设置后重新尝试。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018b">网络设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018c">正在下载，已完成%1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018d">正在加载，已完成%1$s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018e">%1$s已取消下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09018f">"首次加载较慢
+ 请耐心等待"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090190">设置中心</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090191">通用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090192">权限</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090193">更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090194">通知栏</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090195">悬浮窗</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090196">摇一摇</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090197">清理加速</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090198">流量监控</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090199">骚扰拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019a">支付保镖</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019b">软件管理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019c">手机杀毒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019d">来电秀</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019e">卫士精选</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09019f">关于</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a0">通用设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a1">通话防窃听</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a2">WiFi下自动更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a3">用户体验改进计划</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a4">推送卫士消息</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a5">账号同步</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a6">发现免费WIFI时提醒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a7">360自我防护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a8">"开启后，防止360手机卫士被恶意卸载，
+更好地保护您的隐私和支付安全"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901a9">关闭</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901aa">取消</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ab">"建议您立即开启手机卫士自我防护功能，开启后，如需卸载卫士则必须先解除保护，使您的手机更加安全！
+请点击“激活”开启手机卫士自我防护功能！"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ac">退出卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ad">温馨提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ae">退出卫士，可能会受到木马病毒、骚扰电话的侵扰，并造成流量监控不准。现在卫士内存占用很小，建议不要退出哦~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901af">确认退出</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b0">暂不退出</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b1">软件更新提醒频率</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b2">设置软件更新提醒频率</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b3">权限管理设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b4">软件管理设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b5">卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b6">工具箱</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b7">安心服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b8">我</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901b9">清理加速</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ba">流量监控</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bb">骚扰拦截</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bc">手机杀毒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bd">权限管理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901be">软件管理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901bf">支付保镖</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c0">安全支付</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c1">360理财</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c2">手机性能检测</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c3">跳过</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c4">点击登录</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c5">看看流量去哪了</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c6">三重引擎防护中</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c7">管理自启软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c8">自启管理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901c9">剩余存储空间 %d%%</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ca">清理手机垃圾</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cb">连续%d天未清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cc">防骚扰反欺诈</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cd">手机支付零风险</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ce">获取10万赔付金</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901cf">财产隔离系统</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d0">送您8000元体验金</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d1">已装%d款软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d2">管理手机软件</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d3">了解手机硬件配置及性能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d4">昨天 %s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d5">病毒库已更新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d6">本地病毒库已升级到最新</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d7">病毒库版本：%s</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d8">超强模式</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901d9">什么是超强模式？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901da">超强模式中提供了卸载系统预装软件、防止软件自启动、软件联网管理、广告拦截等增强功能。开启超强模式，可以让你的手机更快更省电。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901db">如何开启超强模式？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901dc">进入超强模式界面后，点击“立即开启”按钮就可以开启超强模式了。但由于手机厂商和手机系统的限制，部分手机无法开启超强模式，360手机卫士会不断努力以支持更多的机型。此外，如果您的手机已经ROOT，只需要给360手机卫士进行授权，就可以开启超强模式。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901dd">超强模式会不会影响保修？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901de">360手机卫士独创超强模式功能，可以安全的使用，开启超强模式不会影响手机保修。如果您之前使用超强模式卸载了手机预装软件，请先恢复出厂设置后再进行保修；如果您的手机已经永久ROOT，建议您解除ROOT之后再进行保修。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901df">开启超强模式的风险？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e0">开启超强模式时，在极特殊的情况下，可能会出现一些不兼容的问题，导致手机无法通过OTA升级系统，甚至出现黑屏、卡死、重启等情况，如果出现以上这些情况请及时联系我们，我们会立即进行解决。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e1">抱歉，由于您的手机系统限制，此功能暂无法使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e2">咦，网络不畅通，一会儿再试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e3">啊，刚刚被UFO带走了，再试一次</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e4">啊，不要急，一个一个来~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e5">升级提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e6">360通讯录已正式更名为微通讯录，需要升级才能继续使用通讯录功能，建议您立即升级~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e7">放弃升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e8">零流量升级</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901e9">安全播报</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ea">分享</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901eb">揭秘2015年最逼真的九大骗局</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ec">提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ed">"您现在使用的是数据流量网络，继续下载可能会产生额外的费用
+
+文件大小：%s"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ee">文件异常，请重新下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ef">继续下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f0">360摇一摇</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f1">悲催！本地换肤无法使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f2">使用本地皮肤</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f3">默认</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f4">换肤完成</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f5">换肤失败~~</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f6">皮肤图片有损坏，请重新下载</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f7">好像没有联网，检查一下网络</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f8">下载失败了，再点击一次试试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901f9">正在换肤</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fa">360手机卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fb">360卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fc">卫士代理服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fd">卫士核心服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901fe">卫士界面服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f0901ff">插件安装服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090200">卫士消息服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090201">升级服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090202">升级管理服务</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090203">360账号</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090204">©2016 360.cn Inc. All Rights Reserved.</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090205">抱歉，手机卫士运行出错了，为了帮助我们尽快改进和修复问题，我们希望您向我们发送以下信息：IMEI、机型和系统错误日志。其中IMEI和机型用于识别设备，错误日志用来记录出错时系统的运行状态，这些日志并不涉及您的个人信息和隐私</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090206">现在发送</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090207">以后再说</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090208">正在发送报告，请稍候</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090209">感谢您提供了反馈信息，我们会尽快改进，提供更好的产品和服务。重新启动手机卫士？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020a">重新启动</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020b">返回</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020c">抱歉，因网络原因，反馈信息提交失败，感谢您的支持。重新启动手机卫士？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020d">错误反馈</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020e">联系方式：手机号/QQ</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09020f">黑链接</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090210">白链接</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090211">灰链接</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090212">黑短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090213">白短信</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090214">开启通知栏</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090215">通知栏显示电量</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090216">通知栏显示风格</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090217">设置通知栏显示风格</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090218">通知栏设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090219">屏幕亮度</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021a">WiFi</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021b">移动数据</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021c">手电筒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021d">GPS</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021e">截屏</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09021f">屏幕旋转</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090220">闹钟</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090221">计算器</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090222">手机系统不支持该功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090223">已开启默认功能：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090224">您还可以添加以下快捷功能：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090225">360自我防护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090226">您已开启了手机卫士的360自我防护，确定要关闭吗？</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090227">如果开启了防盗密码，关闭360自我防护需要验证防盗密码</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090228">开启后您可以方便的看到流量提醒、安全提醒、来电秀、清理缓存等功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090229">开启后可以自动清理通知栏</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022a">开启后才可以使用悬浮窗和快速切换应用功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022b">若智能防护未开启，该开关将提醒您开启智能防护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022c">开启后才能够正常使用安全通讯录、骚扰拦截、手机防盗等功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022d">开启后可以实时拦截骚扰电话、垃圾短信、保护支付安全、防止病毒入侵</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022e">开启提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09022f">开启提示：请点击“敏感行为监控”——>点击“按应用管理”——>开启360卫士信任权限</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090230">进入“权限管理”——>“应用管理”——>“360手机卫士”——>“信任此应用程序”点击开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090231">重要提示</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090232">智能防护开启失败</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090233">智能防护没有开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090234">自启权限需手动开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090235">自启权限开启后，可以实时拦截骚扰电话、垃圾短信、保护支付安全、防止病毒入侵。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090236">开启自启权限</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090237">立即开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090238">开启全面防护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090239">开启辅助功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023a">&lt;font color=#4d4d4d>您有&lt;/font> &lt;font color=#29a600>权限未开启无法获得全面防护&lt;/font> &lt;font color=#4d4d4d>（如骚扰拦截、强力加速等），您只需&lt;/font> &lt;font color=#29a600>开启全面防护&lt;/font> &lt;font color=#4d4d4d>即可。&lt;/font></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023b">&lt;font color=#4d4d4d>您有&lt;/font> &lt;font color=#29a600>权限未开启无法获得全面防护&lt;/font> &lt;font color=#4d4d4d>（如骚扰拦截、强力加速等），您只需&lt;/font> &lt;font color=#29a600>开启辅助功能&lt;/font> &lt;font color=#4d4d4d>即可一键获得防护。&lt;/font></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023c">&lt;font color=#4d4d4d>您有&lt;/font> &lt;font color=#f14c0c>重要权限未开启，将导致卫士无法使用完整功能&lt;/&lt;/font> &lt;font color=#4d4d4d>，建议立即开启。&lt;/font></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023d">&lt;font color=#4d4d4d>请开启&lt;/font> &lt;font color=#29a600>智能防护&lt;/font> &lt;font color=#4d4d4d>,确保&lt;/font> &lt;font color=#29a600>诈骗拦截、强力加速&lt;/font> &lt;font color=#4d4d4d>正常运行&lt;/font></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023e">&lt;font color=#4d4d4d>请开启&lt;/font> &lt;font color=#29a600>智能防护&lt;/font> &lt;font color=#4d4d4d>,确保&lt;/font> &lt;font color=#29a600>诈骗拦截、强力加速&lt;/font> &lt;font color=#4d4d4d>正常运行&lt;/font></string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09023f">建议全部开启以下权限，否则影响您的使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090240">显示悬浮窗</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090241">通知栏清理</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090242">信任卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090243">有权查看使用情况的应用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090244">智能防护开启提醒</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090245">自动启动</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090246">下滑界面至“权限管理”</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090247">下滑界面至“显示悬浮窗”</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090248">点击开启</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090249">360卫士-开启智能防护</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024a">360卫士</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024b">"请点击右上角开关，开启智能防护
+弹出提示框后，点击确定"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024c">开启辅助功能步骤：</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024d">1. 找到“360卫士”</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024e">2. 点击进入并开启辅助功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09024f">分享到</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090250">安全市场</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090251">加速中…</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090252">"让手机更轻松？
+试试超级加速"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090253">"内存清理又涨？
+试试自启管理"</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090254">体验期即将结束，建议继续免费续用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090255">体验期已结束，建议继续免费续用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090256">功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090257">更多工具</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090258">我的工具</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090259">推荐使用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025a">添加</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025b">取消</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025c">添加</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025d">移除</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025e">取消</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09025f">打开</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090260">更多工具</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090261">已添加(%d)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090262">未添加(%d)</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090263">实用工具</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090264">优质应用</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090265">可移除的功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090266">内置功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090267">功能添加成功</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090268">功能添加失败，请重试</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f090269">没有已添加的功能</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026a">当前所有功能都已添加</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026b">检查网络</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026c">您的手机网络可能有问题，请检查网络设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026d">打开网络设置</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026e">您的系统不支持此功能。</string>
+    <string name="APKTOOL_DUMMYVAL_0x7f09026f">屏幕已满，不能增加360快捷方式</string>
+</resources>

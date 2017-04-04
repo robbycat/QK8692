@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screenshot_saving_ticker">Saving screenrecord…</string>
+    <string name="screenshot_saving_title">Saving screenrecord…</string>
+    <string name="screenshot_saving_text">screenrecord is being saved.</string>
+    <string name="screenshot_saved_title">screenrecord captured.</string>
+    <string name="screenshot_saved_text">Touch to view your screenrecord.</string>
+    <string name="screenshot_failed_title">"Couldn't capture screenrecord."</string>
+    <string name="screenshot_failed_text">"Couldn't save screenrecord. Storage may be in use."</string>
+    <string name="screenshot_delete_text">Delete this vedio?</string>
+    <string name="screenshot_delete_title">Delete</string>
+    <string name="screenshot_start_screenrecord">Screenrecord start</string>
+    <string name="screenshot_stop_screenrecord">Screenrecord stop</string>
+    <string name="screenshot_shutoff_screenrecord">Screenrecord exit for functional confliction</string>
+    <string name="screenshot_cannot_start_screenrecord">Screenrecord cannot start for functional confliction</string>
+    <string name="screenshot_recording_message">Press power key to stop</string>
+    <string name="remind_insert_sdcard">Please insert SDcard</string>
+    <string name="remind_space_not_enough">SDcard space is not enough</string>
+    <string name="screenrecord_title">ScreenRecord time:</string>
+    <string name="screenrecord_time">00:00</string>
+    <string name="screenrecord_stop">stop</string>
+    <string name="soundrecord_stop">Soundrecord stop</string>
+    <string name="soundrecord_start">Soundrecord start</string>
+    <string name="application_name">Screenrecord Service</string>
+    <string name="screenrecord_share">share</string>
+    <string name="screenrecord_delete">delete</string>
+</resources>

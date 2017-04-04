@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTheme</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="common_ok">OK</string>
+    <string name="common_Cancel">Cancel</string>
+    <string name="common_time_to">To</string>
+    <string name="common_scheduled">Scheduled</string>
+    <string name="EyeModeAppName">Protection Eye Mode</string>
+    <string name="EyeModeDescription">Open the Protection Eye Mode to avoid the harm of the blue light</string>
+    <string name="TimerOpen">Scheduled</string>
+    <string name="StartEndTime">Start-stop time</string>
+    <string name="EyeLevelLabel">Eye Level</string>
+    <string name="EyeLevelDes">the higher level protect you eye more</string>
+    <string name="EyeLevelLowText">low</string>
+    <string name="EyeLevelMedText">medium</string>
+    <string name="EyeLevelHighText">high</string>
+    <string name="OpenImmediately">Open Immediately</string>
+    <string name="eyemode_no_remind">"Don't show me this again"</string>
+</resources>

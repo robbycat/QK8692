@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hf_default_value">
+        <item>5元</item>
+        <item>10元</item>
+        <item>30元</item>
+        <item>50元</item>
+        <item>100元</item>
+        <item>200元</item>
+    </string-array>
+    <string-array name="traffic_default_value">
+        <item>10M</item>
+        <item>30M</item>
+        <item>50M</item>
+        <item>100M</item>
+        <item>200M</item>
+        <item>500M</item>
+    </string-array>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="battery_mode_change_normal_title">Charging manager</string>
+    <string name="battery_mode_change_normal_message_fastmode">Efficient mode</string>
+    <string name="battery_mode_change_normal_message_normalmode">Common mode</string>
+    <string name="battery_mode_change_abnormal_title">Information</string>
+    <string name="battery_mode_change_work">Touch to change.</string>
+    <string name="battery_mode_change_abnormal_message">Exception occurred possibly due to unstable current in the charger. Please switch the charging mode.</string>
+    <string name="battery_overheat_temperature">Battery temperature is high. Please keep it within the normal range.</string>
+    <string name="battery_cold_temperature">Battery temperature is low. Please keep it within the normal range.</string>
+    <string name="battery_over_voltage">Battery voltage is high. Stop charging the phone.</string>
+    <string name="charger_over_voltage">The battery voltage is too high. Stop charging the phone.</string>
+    <string name="charger_low_voltage">The charging voltage is too low. Replace the charger to continue.</string>
+    <string name="internal_info">Less than %1$d MB of free space on your phone. Delete useless files.</string>
+    <string name="external_info">Less than %1$d MB of free space on external SD card. Delete useless files.</string>
+    <string name="internal_external_info">Less than %1$d MB of free space on your phone and external SD card. Delete useless files.</string>
+    <string name="qk_remember_choice_text">Remember this choice, not remind again</string>
+    <string name="message">Message</string>
+    <string name="global_action_new_shutdown_title">Shut Down</string>
+    <string name="global_action_new_reboot_title">Reboot</string>
+    <string name="global_action_affirm_shutdown_title">Shut Down</string>
+    <string name="global_action_affirm_reboot_title">Reboot</string>
+    <string name="global_toggle_new_airplane_mode_title">Airplane mode</string>
+    <string name="global_toggle_new_mute_mode_title">Mute mode</string>
+    <string name="global_toggle_new_standbypower_mode_log_button_text">log</string>
+    <string name="global_toggle_new_standby_power_saving_mode_title">Ultra Power</string>
+    <string name="hint_text">When open the standby power, standby will shut down the network connection, enter power saving mode, bright screen recovery network. Open the standby power, standby will shut down the network connection, when enter power saving mode, bright screen after restore the network connection.Whether open?</string>
+    <string name="sure_text">Ok</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="dont_alertme_agin">Do not ask me next time</string>
+    <string name="direct_restart_not_upgrade">Direct restart not upgrade</string>
+    <string name="reboot_for_updata">Upgrade reboot</string>
+    <string name="power_shortage">Power shortage</string>
+    <string name="please_charge_and_try_again">Please charge and try again</string>
+    <string name="insufficient_storage_space">Insufficient storage space</string>
+    <string name="please_clean_up_the_space_and_try_again">Please clean up the space and try again</string>
+    <string name="global_toggle_new_standbypower_mode_dialog_title1">"Mobile phone battery remaining "</string>
+    <string name="global_toggle_new_standbypower_mode_dialog_title2">"%, whether to open the standby super?
+
+After the screen will shut down the network connection, access to power saving mode, restore the network connection.
+Open after long press the power button on the shutdown restart the function of the page.
+Friendship tip: pro, use this feature as far as possible do not frequent the screen out screen oh."</string>
+    <string name="global_toggle_new_standbypower_mode_dialog_button_ok">Turn on Super standby</string>
+    <string name="qiku_usb_rndis_notification_title">Sharing via USB network</string>
+    <string name="lockscreen_carrier_default">No service</string>
+    <string name="noApplications">No apps can perform this action.</string>
+    <string name="permission_remember_choice">Remember</string>
+    <string name="permission">Permission</string>
+    <string name="allow">Allow</string>
+    <string name="deny">Deny</string>
+    <string name="toast_system_alert_window_reject">Floating window permission prohibited</string>
+    <string name="fingerprint_pay_alarm">Using fingerprint quick payment, please open network!</string>
+    <string name="qk_bgkill_desc">Block #app# doing irrelevant operations in background.</string>
+    <string name="qk_trust_app">Trust APP</string>
+    <string name="qk_deny_app">Allow OPT</string>
+    <string name="install_tips">Installation Tips:</string>
+    <string name="sure_install">Are you sure install“%1$s”app?</string>
+</resources>

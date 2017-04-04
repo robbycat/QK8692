@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, installGmsPackage!</string>
+    <string name="app_name">GmsUpdateAutomatic</string>
+    <string name="messageInstall">Your phone will reboot and install GMS package.</string>
+    <string name="messageNotfound">Do you want to download and install GMS package?</string>
+    <string name="gmstitle">GMS install.</string>
+    <string name="template_user_agent">%1$s/%2$s (Linux; Android)</string>
+    <string name="GMS_SERVER_PREFIX">http://ota1.os.qiku.com/updsvr/gms/</string>
+    <string name="GMS_MANAGE_SERVER">http://ota1.os.qiku.com</string>
+    <string name="GMS_DOWNLOADING">Downloading GMS package,please waiting!</string>
+    <string name="REMIND_INSERT_SDCARD">Please insert SDcard！</string>
+    <string name="REMIND_SPACE_NOT_ENOUGH">SDcard space is not enough!</string>
+    <string name="REMIND_SYSTEM_NOT_MOUNTE">System mounte failed!</string>
+    <string name="REMIND_SYSTEM_NOT_ENOUGH">System space is not enough,please uninstall some apps!</string>
+    <string name="REMIND_POWER_NOT_ENOUGH">Power is low，cancel install!</string>
+    <string name="REMIND_INTERNET_NOT_CONNECT">Please insert SIM card or open data network!</string>
+    <string name="GMS_CANCEL_DOWNLOADING">GMS Downloading,cancel or not!</string>
+    <string name="GMS_TITLE_DOWNLOADING">GMS Downlaod!</string>
+    <string name="REMIND_DOWNLOAD_FAILED">GMS download failed，please try again!</string>
+    <string name="REMIND_WAITING_SERVICE">Connecting server,please wait a moment!</string>
+    <string name="REMIND_COMPLETE_DOWNLOAD">GMS downlad complete，please click to install!</string>
+    <string name="REMIND_TITLE_DOWNLOAD">GMS Install!</string>
+    <string name="gms_uninstall_title">Uninstall the GMS package</string>
+    <string name="uninstall_messageNotfound">Do you want to download and uninstall GMS package?</string>
+    <string name="GMS_UNINSTALL_DOWNLOADING">Downloading GMS uninstall package, please wait!</string>
+    <string name="UNINSTALL_REMIND_COMPLETE_DOWNLOAD">GMS uninstall package has been downloaded, please click to uninstall.</string>
+    <string name="message_unInstall">Your phone will be restart to uninstall GMS applications.</string>
+    <string name="message_is_not_Install">GMS package is not installed.</string>
+    <string name="messageInstalled">GMS package has been installed.</string>
+    <string name="message_not_support_model">The phone does not support this feature</string>
+    <string name="message_zip_verify_fail">GMS package error,please redownload</string>
+</resources>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light" />
+    <style name="AppTheme" parent="@style/AppBaseTheme" />
+    <style name="NoTitleTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@color/opaque</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="qihoo_fc_style_progress_bar">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">@drawable/qihoo_fc_webview_loading_bg</item>
+        <item name="android:layout_width">50.0dip</item>
+        <item name="android:layout_height">50.0dip</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:indeterminateDrawable">@drawable/qihoo_fc_webview_loading_icon</item>
+    </style>
+    <style name="dialogWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/bottom_enter_with_alpha_anim</item>
+        <item name="android:windowExitAnimation">@anim/bottom_exit_with_alpha_anim</item>
+    </style>
+    <style name="UITableView">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="content_page_large_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/text_color_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="content_page_small_text">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@drawable/text_color_selector</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:duplicateParentState">true</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="content_page_large_count_text">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">#ff8295bf</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">8.0dip</item>
+    </style>
+    <style name="EvaluationDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    <style name="MyProgressBarStyleHorizontal">
+        <item name="android:focusable">false</item>
+        <item name="android:maxHeight">18.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/bm_progress</item>
+        <item name="android:minHeight">18.0dip</item>
+    </style>
+    <style name="blue_trans_progres">
+        <item name="android:focusable">false</item>
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/blue_trans</item>
+        <item name="android:minHeight">6.0dip</item>
+    </style>
+    <style name="yellow_trans_progres">
+        <item name="android:focusable">false</item>
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/yellow_trans_bar</item>
+        <item name="android:minHeight">6.0dip</item>
+    </style>
+    <style name="green_trans_progres">
+        <item name="android:focusable">false</item>
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/green_trans_bar</item>
+        <item name="android:minHeight">6.0dip</item>
+    </style>
+    <style name="download_progress">
+        <item name="android:focusable">false</item>
+        <item name="android:maxHeight">6.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/download_seek</item>
+        <item name="android:minHeight">6.0dip</item>
+    </style>
+    <style name="dialogBottomWindowAnim" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/bottom_enter_with_alpha_anim</item>
+        <item name="android:windowExitAnimation">@anim/bottom_exit_with_alpha_anim</item>
+    </style>
+    <style name="Transparent">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+    </style>
+    <style name="common_dialog_anim_style">
+        <item name="android:windowEnterAnimation">@anim/common_dialog_enter_anim</item>
+        <item name="android:windowExitAnimation">@anim/common_dialog_exit_anim</item>
+    </style>
+    <style name="common_edittext_style">
+        <item name="android:textSize">@dimen/et_ts</item>
+        <item name="android:textColor">@color/et_tc</item>
+        <item name="android:textColorHint">@color/et_tc_hint</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/et_height</item>
+    </style>
+    <style name="Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="DialogText">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="DialogText.Title" parent="@style/DialogText">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="security_AlertDialogButtonRigoStyle">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textColor">@color/common_alert_dialog_bottom_font_color</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/common_alert_dialog_button_selector</item>
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:minWidth">64.0dip</item>
+        <item name="android:minHeight">36.0dip</item>
+    </style>
+    <style name="uac_textview_style">
+        <item name="android:textSize">@dimen/tv_ts</item>
+        <item name="android:textColor">@color/tv_tc</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Progress" parent="@style/Material.Drawable.Progress" />
+    <style name="Material.Drawable.Progress" parent="@style/Material.Drawable">
+        <item name="progress_Indeterminate">true</item>
+        <item name="progress_barColor">#ff0099e6</item>
+        <item name="progress_rimWidth">3.0dip</item>
+        <item name="progress_circleRadius">26.0dip</item>
+        <item name="progress_barWidth">3.0dip</item>
+    </style>
+    <style name="CheckBoxDrawable" parent="@style/Material.Drawable.CheckBox" />
+    <style name="Material.Drawable.CheckBox" parent="@style/Material.Drawable">
+        <item name="cbd_width">36.0dip</item>
+        <item name="cbd_height">36.0dip</item>
+        <item name="cbd_boxSize">22.0dip</item>
+        <item name="cbd_strokeSize">1.0dip</item>
+        <item name="cbd_checkColor">#ff03a4ed</item>
+        <item name="cbd_unCheckColor">#d9dbdbdb</item>
+        <item name="cbd_strokeColor">#ff03a4ed</item>
+        <item name="cbd_animDuration">200</item>
+    </style>
+    <style name="CheckBoxDrawableNewStyle" parent="@style/Material.Drawable.CheckBox.NewStyle" />
+    <style name="Material.Drawable.CheckBox.NewStyle" parent="@style/Material.Drawable.CheckBox">
+        <item name="cbd_width">36.0dip</item>
+        <item name="cbd_height">36.0dip</item>
+        <item name="cbd_boxSize">22.0dip</item>
+        <item name="cbd_strokeSize">1.0dip</item>
+        <item name="cbd_checkColor">#ff087dff</item>
+        <item name="cbd_unCheckColor">#d9dbdbdb</item>
+        <item name="cbd_strokeColor">#ff087dff</item>
+        <item name="cbd_animDuration">200</item>
+    </style>
+    <style name="RadioButtonDrawable" parent="@style/Material.Drawable.RadioButton" />
+    <style name="Material.Drawable.RadioButton" parent="@style/Material.Drawable">
+        <item name="rbd_checkColor">#ff0099e6</item>
+        <item name="rbd_unCheckColor">#ffd9d9d9</item>
+        <item name="rbd_width">36.0dip</item>
+        <item name="rbd_height">36.0dip</item>
+        <item name="rbd_strokeSize">1.0dip</item>
+        <item name="rbd_radius">11.0dip</item>
+        <item name="rbd_innerRadius">6.0dip</item>
+        <item name="rbd_animDuration">200</item>
+    </style>
+    <style name="Material" />
+    <style name="Material.Drawable" parent="@style/Material" />
+    <style name="Material.Widget" parent="@style/Material" />
+    <style name="CustomProgressStyle" parent="@android:attr/progressBarStyleSmall">
+        <item name="android:maxWidth">48.0dip</item>
+        <item name="android:maxHeight">48.0dip</item>
+        <item name="android:minWidth">48.0dip</item>
+        <item name="android:minHeight">48.0dip</item>
+    </style>
+    <style name="Material.Drawable.CircularProgress" parent="@style/Material.Drawable">
+        <item name="pv_progressMode">indeterminate</item>
+        <item name="cpd_padding">0.0dip</item>
+        <item name="cpd_initialAngle">0</item>
+        <item name="cpd_maxSweepAngle">270</item>
+        <item name="cpd_minSweepAngle">1</item>
+        <item name="cpd_strokeSize">4.0dip</item>
+        <item name="cpd_strokeColor">#ff0099e6</item>
+        <item name="cpd_strokeSecondaryColor">@android:color/transparent</item>
+        <item name="cpd_reverse">false</item>
+        <item name="cpd_rotateDuration">1000</item>
+        <item name="cpd_transformDuration">600</item>
+        <item name="cpd_keepDuration">200</item>
+        <item name="cpd_transformInterpolator">@android:anim/decelerate_interpolator</item>
+        <item name="cpd_inAnimDuration">0</item>
+        <item name="cpd_outAnimDuration">@android:integer/config_mediumAnimTime</item>
+        <item name="pv_autostart">true</item>
+        <item name="pv_circular">true</item>
+    </style>
+    <style name="Material.Drawable.CircularProgressItem" parent="@style/Material.Drawable">
+        <item name="pv_progressMode">indeterminate</item>
+        <item name="cpd_padding">0.0dip</item>
+        <item name="cpd_initialAngle">0</item>
+        <item name="cpd_maxSweepAngle">270</item>
+        <item name="cpd_minSweepAngle">1</item>
+        <item name="cpd_strokeSize">2.0dip</item>
+        <item name="cpd_strokeColor">#ff0f9d58</item>
+        <item name="cpd_strokeSecondaryColor">@android:color/transparent</item>
+        <item name="cpd_reverse">false</item>
+        <item name="cpd_rotateDuration">1000</item>
+        <item name="cpd_transformDuration">600</item>
+        <item name="cpd_keepDuration">200</item>
+        <item name="cpd_transformInterpolator">@android:anim/decelerate_interpolator</item>
+        <item name="cpd_inAnimDuration">0</item>
+        <item name="cpd_outAnimDuration">@android:integer/config_mediumAnimTime</item>
+        <item name="pv_autostart">true</item>
+        <item name="pv_circular">true</item>
+    </style>
+    <style name="Material.Drawable.CircularProgress.InAnim" parent="@style/Material.Drawable.CircularProgress">
+        <item name="cpd_inAnimDuration">400</item>
+    </style>
+    <style name="Material.Drawable.CircularProgress.InAnimItem" parent="@style/Material.Drawable.CircularProgressItem">
+        <item name="cpd_inAnimDuration">400</item>
+    </style>
+    <style name="Material.Drawable.LinearProgress" parent="@style/Material.Drawable">
+        <item name="pv_progressMode">indeterminate</item>
+        <item name="lpd_maxLineWidth">75.0%</item>
+        <item name="lpd_minLineWidth">10.000002%</item>
+        <item name="lpd_strokeSize">4.0dip</item>
+        <item name="lpd_strokeColor">#ff0099e6</item>
+        <item name="lpd_reverse">false</item>
+        <item name="lpd_travelDuration">1000</item>
+        <item name="lpd_transformDuration">600</item>
+        <item name="lpd_keepDuration">200</item>
+        <item name="lpd_transformInterpolator">@android:anim/decelerate_interpolator</item>
+        <item name="lpd_inAnimDuration">@android:integer/config_mediumAnimTime</item>
+        <item name="lpd_outAnimDuration">@android:integer/config_mediumAnimTime</item>
+        <item name="lpd_verticalAlign">bottom</item>
+    </style>
+    <style name="FullBleedThemeTrans" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="windowBackground">@color/transparent</item>
+    </style>
+    <style name="title_back_style">
+        <item name="android:background">@drawable/bg_btn_back_light</item>
+        <item name="android:layout_width">52.0dip</item>
+        <item name="android:layout_height">52.0dip</item>
+    </style>
+    <style name="first_list_item_text_style">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textColor">@drawable/coolcloud_list_item_selector</item>
+    </style>
+    <style name="first_list_item_subtext_style">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textColor">@drawable/common_list_subitem_selector</item>
+    </style>
+    <style name="list_item_style">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55.0dip</item>
+        <item name="android:layout_marginLeft">10.0dip</item>
+        <item name="android:layout_marginRight">10.0dip</item>
+    </style>
+    <style name="progress_style_circle">
+        <item name="android:maxWidth">60.0dip</item>
+        <item name="android:maxHeight">60.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/qiku_progressbar_circle</item>
+        <item name="android:minWidth">25.0dip</item>
+        <item name="android:minHeight">25.0dip</item>
+    </style>
+    <style name="putao_ProgressDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:backgroundDimAmount">0.0</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

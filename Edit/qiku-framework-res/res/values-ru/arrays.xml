@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_locationProviderPackageNames">
+        <item>com.google.android.gms</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames_baidu">
+        <item>com.baidu.map.location</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <string-array name="config_locationProviderPackageNames_amap">
+        <item>com.amap.android.location</item>
+        <item>com.android.location.fused</item>
+    </string-array>
+    <integer-array name="config_autoBrightnessLevels">
+        <item>12</item>
+        <item>45</item>
+        <item>65</item>
+        <item>150</item>
+        <item>250</item>
+        <item>800</item>
+        <item>1000</item>
+        <item>1280</item>
+        <item>1600</item>
+        <item>1920</item>
+        <item>2560</item>
+        <item>3200</item>
+        <item>4000</item>
+        <item>6000</item>
+    </integer-array>
+    <integer-array name="config_autoBrightnessLcdBacklightValues">
+        <item>18</item>
+        <item>36</item>
+        <item>36</item>
+        <item>70</item>
+        <item>70</item>
+        <item>96</item>
+        <item>96</item>
+        <item>120</item>
+        <item>120</item>
+        <item>150</item>
+        <item>150</item>
+        <item>200</item>
+        <item>225</item>
+        <item>240</item>
+        <item>255</item>
+    </integer-array>
+    <string-array name="config_fingerprint_auth_no_fail_attmept_apps">
+        <item>com.yulong.android.coolsafe</item>
+        <item>com.qiku.android.privacyspace</item>
+        <item>com.android.settings</item>
+        <item>android</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to use vibrator</item>
+        <item>Attempt to read contacts</item>
+        <item>Attempt to write contacts</item>
+        <item>Attempt to read call record</item>
+        <item>Attempt to write call record</item>
+        <item>Attempt to read schedule</item>
+        <item>Attempt to modify schedule</item>
+        <item>Attempt to find nearby Wi-Fi</item>
+        <item>Attempt to send notification</item>
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to make a call</item>
+        <item>Attempt to read SMS</item>
+        <item>Attempt to write SMS</item>
+        <item>Attempt to receive SMS</item>
+        <item>Attempt to receive urgent SMS</item>
+        <item>Attempt to receive MMS</item>
+        <item>Attempt to receive WAP-PUSH message</item>
+        <item>Attempt to send SMS</item>
+        <item>Attempt to read ICC message</item>
+        <item>Attempt to write ICC message</item>
+        <item>Attempt to modify settings</item>
+        <item>Attempt to draw on top</item>
+        <item>Attempt to obtain notification</item>
+        <item>Attempt to use camera</item>
+        <item>Attempt to record</item>
+        <item>Attempt to play</item>
+        <item>Attempt to read clipboard</item>
+        <item>Attempt to modify clipboard</item>
+        <item>Attempt to control multimedia buttons</item>
+        <item>Attempt to control audio focus</item>
+        <item>Attempt to control main volume</item>
+        <item>Attempt to control voice volume</item>
+        <item>Attempt to control ringing volume</item>
+        <item>Attempt to control multimedia volume</item>
+        <item>Attempt to control alarm volume</item>
+        <item>Attempt to control notification volume</item>
+        <item>Attempt to control Bluetooth volume</item>
+        <item>Attempt to prevent sleeping state of the phone</item>
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to obtain location information</item>
+        <item>Attempt to obtain usage statistics</item>
+        <item>Attempt to mute microphone</item>
+        <item>Attempt to display pop-up window</item>
+        <item>Attempt to project media</item>
+        <item>Attempt to activate VPN</item>
+        <item>Attempt to modify wallpaper</item>
+        <item>Attempt to assist structure</item>
+        <item>Attempt to take screenshot</item>
+        <item>Attempt to read phone status</item>
+        <item>Attempt to create voicemail</item>
+        <item>Attempt to make a SIP call</item>
+        <item>Attempt to intercept incoming call</item>
+        <item>Attempt to use fingerprint</item>
+        <item>Attempt to use sensor</item>
+        <item>Attempt to read cell broadcast</item>
+        <item>Attempt to simulate geolocation</item>
+        <item>Attempt to read external storage</item>
+        <item>Attempt to write external storage</item>
+        <item>Attempt to light up screen</item>
+        <item>Attempt to obtain account information</item>
+        <item>Attempt to turn on/off WLAN</item>
+        <item>Attempt to trun on/off bluetooth</item>
+        <item>Attempt to turn on mobile data</item>
+        <item>Attempt to send MMS</item>
+        <item>Attempt to read MMS</item>
+        <item>Attempt to write MMS</item>
+        <item>Attempt to get phone number</item>
+        <item>Attempt to get installed packages</item>
+    </string-array>
+    <string-array name="qk_default_app_names">
+        <item>Launcher</item>
+        <item>Dialer</item>
+        <item>Sms</item>
+        <item>Browser</item>
+        <item>Gallery</item>
+        <item>Camera</item>
+        <item>Contact</item>
+    </string-array>
+</resources>

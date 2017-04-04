@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widget3D</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="temperature">%1$s ℃</string>
+    <string name="Mon">Mon</string>
+    <string name="Tue">Tue</string>
+    <string name="Wed">Wed</string>
+    <string name="Thur">Thur</string>
+    <string name="Fri">Fri</string>
+    <string name="Sat">Sat</string>
+    <string name="Sun">Sun</string>
+    <string name="default_city">Beijing</string>
+    <string name="default_weather">Sun</string>
+    <string name="default_temp">0</string>
+    <string name="train_station">%1$s Departure</string>
+    <string name="train_seat">%1$sCar%2$sNum</string>
+    <string name="timeleft">%1$02d</string>
+    <string name="timeright">%1$02d</string>
+    <string name="flight_number_label">Flight</string>
+    <string name="flight_station">%1$s Departure</string>
+    <string name="Train_line">Line</string>
+    <string name="Train_num">Num</string>
+    <string name="data_total">Total Data %1$sMB</string>
+    <string name="health_card_wanshui1">you %1$s man</string>
+    <string name="health_card_wanshui">Sleep Late</string>
+    <string name="health_card_shuohaode">"It's time"</string>
+    <string name="health_card_xiuxishijian">to have rest</string>
+    <string name="drive_Mode">Drive Mode</string>
+    <string name="vip_Mode">VIP Mode</string>
+    <string name="eye_Mode">Eye Mode</string>
+    <string name="children_Mode">Children Mode</string>
+    <string name="none_mode">Please Select Mode</string>
+    <string name="storage_space">Storage Space</string>
+    <string name="storage_label1">Remain Storage</string>
+    <string name="storage_label2">Process</string>
+    <string name="dataUsage_buy">Buy</string>
+    <string name="dataUsage_remain">Data Below</string>
+    <string name="garbage_clean">Clean</string>
+    <string name="garbage_label1">System Garbage</string>
+    <string name="garbage_label2">Beyond</string>
+    <string name="button_open">Open</string>
+    <string name="button_close">Close</string>
+    <string name="setting">Setting</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="b">JD.COM</string>
+    <string name="dc">推送服务</string>
+    <string name="dd">取消</string>
+    <string name="de">收藏</string>
+    <string name="df">点击收藏后，将在桌面自动生成一个“通知收藏”的图标，以后可从桌面直接点击查看。</string>
+    <string name="dg">知道了</string>
+    <string name="dh">删除</string>
+    <string name="di">删除通知</string>
+    <string name="dj">已收藏 1000 条通知信息，需要删除部分通知才能继续收藏，是否继续？</string>
+    <string name="dk">继续</string>
+    <string name="dl">收藏已达上限</string>
+    <string name="dm">前进</string>
+    <string name="dn">后退</string>
+    <string name="do">正在加载，请稍候...</string>
+    <string name="dp">通知收藏</string>
+    <string name="dq">通知收藏</string>
+    <string name="dr">没有通知收藏</string>
+    <string name="ds">刷新</string>
+    <string name="dt">存储消息</string>
+    <string name="du">富媒体</string>
+    <string name="dv">全选</string>
+    <string name="dw">取消全选</string>
+</resources>

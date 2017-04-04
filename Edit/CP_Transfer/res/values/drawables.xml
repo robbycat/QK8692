@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="mer_item_normal">#ffffffff</item>
+    <item type="drawable" name="mer_item_h">#ff0d7fe7</item>
+    <item type="drawable" name="download_bg">#ffdfe0e1</item>
+    <item type="drawable" name="download_progress">#ff0d7fe7</item>
+    <item type="drawable" name="coolcloud_gray">#fff0f0f0</item>
+    <item type="drawable" name="coolcloud_transpant">#00000000</item>
+    <item type="drawable" name="coolcloud_activity_cbg">#ff0099e5</item>
+    <item type="drawable" name="coolcloud_activity_white_bg">#fff9f9f9</item>
+    <item type="drawable" name="button_install">#ff3391ef</item>
+    <item type="drawable" name="button_install_pressed">#ff00549f</item>
+</resources>

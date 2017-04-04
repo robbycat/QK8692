@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="LegalTerms_Arr">
+        <item>Accept</item>
+        <item>Reject</item>
+    </string-array>
+    <string-array name="alert_btn_d">
+        <item>Confirm</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="alert_btn_fix_openfail">
+        <item>Fix Error</item>
+        <item>Open</item>
+    </string-array>
+    <string-array name="alert_btn_tip_exit_pcode">
+        <item>Continue</item>
+        <item>Return</item>
+    </string-array>
+    <string-array name="alert_btn_tip_exit_tts">
+        <item>Continue TTS</item>
+        <item>Quit</item>
+    </string-array>
+    <string-array name="alert_btn_tip_install_dict">
+        <item>Install</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="alert_btn_tip_install_tts">
+        <item>Install</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="alert_btn_tip_login">
+        <item>Ok</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="alert_btn_tip_netinvalid_tts">
+        <item>Offline TTS</item>
+        <item>Quit</item>
+    </string-array>
+    <string-array name="alert_btn_tip_offline_tts">
+        <item>Offline TTS</item>
+        <item>Continue</item>
+    </string-array>
+    <string-array name="alert_btn_tip_update_tts">
+        <item>Update</item>
+        <item>Cancle</item>
+    </string-array>
+    <string-array name="alert_btn_update">
+        <item>Update</item>
+        <item>Not Now</item>
+    </string-array>
+    <string-array name="alert_btn_update_force">
+        <item>Update</item>
+        <item>Exit</item>
+    </string-array>
+    <string-array name="alert_cloud_cancel">
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="alert_cloud_login">
+        <item>Bindng</item>
+        <item>Not Now</item>
+    </string-array>
+    <string-array name="apk_download_wifi_tips">
+        <item>Continue</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="book_arry">
+        <item>Move to</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="book_arry_cloud">
+        <item>Move to</item>
+        <item>Add to Cloud Bookshelf</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="bookshelf_item">
+        <item>Book Info</item>
+        <item>Delete</item>
+        <item>Empty Bookshelf</item>
+    </string-array>
+    <string-array name="bookshelf_item_state">
+        <item>Delete</item>
+        <item>Empty Bookshelf</item>
+    </string-array>
+    <string-array name="bookshelf_sort">
+        <item>By Book Name</item>
+        <item>By Reading Time</item>
+    </string-array>
+    <integer-array name="brush_colors">
+        <item>0xFFFF0000</item>
+        <item>0xFFFFCC00</item>
+        <item>0xFFFFFF00</item>
+        <item>0xFF00FF00</item>
+        <item>0xFFAA3366</item>
+        <item>0xFF0000FF</item>
+    </integer-array>
+    <string-array name="btn_cancel">
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="btn_ok">
+        <item>Confirm</item>
+    </string-array>
+    <string-array name="cancel">
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="cartoon_download_net_alert">
+        <item>Cancel</item>
+        <item>Continue download</item>
+    </string-array>
+    <string-array name="cartoon_download_net_alert2">
+        <item>Continue download</item>
+        <item>Pause all</item>
+    </string-array>
+    <string-array name="cartoon_net_alert">
+        <item>Cancel</item>
+        <item>Continue read</item>
+    </string-array>
+    <string-array name="chap_cache_download">
+        <item>Ok</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="charset_array">
+        <item>Auto-Detect</item>
+        <item>Unicode(UTF-8)</item>
+        <item>Simplified Chinese(GBK)</item>
+        <item>Simplified Chinese(GB2312)</item>
+        <item>Traditional Chinese(BIG5)</item>
+        <item>Traditional Chinese(Big5_HKSCS)</item>
+        <item>Western(ISO-8859-1)</item>
+        <item>Western(Windows)</item>
+        <item>Central European(ISO-8859-2)</item>
+        <item>Central European(Windows)</item>
+        <item>Unicode(UTF-16LE)</item>
+        <item>Unicode(UTF-16BE)</item>
+        <item>Arabic(ISO-8859-6)</item>
+        <item>Arabic(Windows)</item>
+        <item>Baltic(ISO-8859-4)</item>
+        <item>Baltic(Windows)</item>
+        <item>Cyrillic(ISO-8859-5)</item>
+        <item>Cyrillic(Windows)</item>
+        <item>Cyrillic(KOI8-R)</item>
+        <item>Greek(ISO-8859-7)</item>
+        <item>Greek(Windows)</item>
+        <item>Hebrew(ISO-8859-8)</item>
+        <item>Hebrew(Windows)</item>
+        <item>Japanese(EUC-JP)</item>
+        <item>Japanese(Windows)</item>
+        <item>Korean(EUC-KR)</item>
+        <item>Korean(Windows)</item>
+        <item>Turkish(ISO-8859-9)</item>
+        <item>Turkish(Windows)</item>
+        <item>Thai(Windows)</item>
+        <item>Vietnamese(Windows)</item>
+    </string-array>
+    <string-array name="charset_value">
+        <item>auto</item>
+        <item>UTF-8</item>
+        <item>GBK</item>
+        <item>GB2312</item>
+        <item>BIG5</item>
+        <item>BIG5-HKSCS</item>
+        <item>ISO-8859-1</item>
+        <item>windows-1252</item>
+        <item>ISO-8859-2</item>
+        <item>windows-1250</item>
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+        <item>ISO-8859-6</item>
+        <item>windows-1256</item>
+        <item>ISO-8859-4</item>
+        <item>windows-1257</item>
+        <item>ISO-8859-5</item>
+        <item>windows-1251</item>
+        <item>KOI8-R</item>
+        <item>ISO-8859-7</item>
+        <item>windows-1253</item>
+        <item>ISO-8859-8</item>
+        <item>windows-1255</item>
+        <item>EUC-JP</item>
+        <item>Shift_JIS</item>
+        <item>EUC-KR</item>
+        <item>ISO-2022-KR</item>
+        <item>ISO-8859-9</item>
+        <item>windows-1254</item>
+        <item>windows-874</item>
+        <item>windows-1258</item>
+    </string-array>
+    <string-array name="cloudSave">
+        <item>Save changes</item>
+    </string-array>
+    <integer-array name="custom_color_bg_array">
+        <item>0xFF816768</item>
+        <item>0xFF7C7364</item>
+        <item>0xFF596476</item>
+        <item>0xFF6B7D65</item>
+        <item>0xFF688080</item>
+        <item>0xFF321010</item>
+        <item>0xFFB69B94</item>
+        <item>0xFFC5BBAE</item>
+        <item>0xFFCACBBB</item>
+        <item>0xFFB5BA9A</item>
+        <item>0xFFBACABD</item>
+        <item>0xFF20321A</item>
+        <item>0xFFDBD1C5</item>
+        <item>0xFFFFFAFA</item>
+        <item>0xFFC0C0C0</item>
+        <item>0xFF5E5E5E</item>
+        <item>0xFF333333</item>
+        <item>0xFF000000</item>
+    </integer-array>
+    <integer-array name="custom_color_font_array">
+        <item>0xFFFFFFFF</item>
+        <item>0xFFC0C0C0</item>
+        <item>0xFF8C8C8C</item>
+        <item>0xFF666666</item>
+        <item>0xFF333333</item>
+        <item>0xFF000000</item>
+        <item>0xFFE2DBD2</item>
+        <item>0xFFD0DFD1</item>
+        <item>0xFFB8D2CF</item>
+        <item>0xFFDCDFCE</item>
+        <item>0xFFD9C7C2</item>
+        <item>0xFF212936</item>
+        <item>0xFF454039</item>
+        <item>0xFF374234</item>
+        <item>0xFF3D4E4E</item>
+        <item>0xFF44393A</item>
+        <item>0xFF5F5353</item>
+        <item>0xFF271010</item>
+    </integer-array>
+    <string-array name="diagnose_net_type">
+        <item>wifi</item>
+        <item>2g_cmnet</item>
+        <item>3g_cmnet</item>
+        <item>4g_cmnet</item>
+        <item>2g_cmwap</item>
+        <item>3g_cmwap</item>
+        <item>4g_cmwap</item>
+        <item>2g_ctnet</item>
+        <item>3g_ctnet</item>
+        <item>4g_ctnet</item>
+        <item>2g_ctwap</item>
+        <item>3g_ctwap</item>
+        <item>4g_ctwap</item>
+        <item>2g_cunet</item>
+        <item>3g_cunet</item>
+        <item>4g_cunet</item>
+        <item>2g_cuwap</item>
+        <item>3g_cuwap</item>
+        <item>4g_cuwap</item>
+        <item>other network</item>
+    </string-array>
+    <string-array name="endingAudio">
+        <item>mp3</item>
+        <item>wav</item>
+        <item>ogg</item>
+        <item>mid</item>
+        <item>wma</item>
+    </string-array>
+    <string-array name="endingExcel">
+        <item>xlsx</item>
+        <item>xls</item>
+        <item>xlsm</item>
+        <item>xlsb</item>
+        <item>xlam</item>
+        <item>xltx</item>
+        <item>xltm</item>
+        <item>xlt</item>
+    </string-array>
+    <string-array name="endingImage">
+        <item>png</item>
+        <item>gif</item>
+        <item>jpg</item>
+        <item>jpeg</item>
+        <item>bmp</item>
+    </string-array>
+    <string-array name="endingIreader">
+        <item>chm</item>
+        <item>umd</item>
+        <item>ebk2</item>
+        <item>ebk3</item>
+        <item>txt</item>
+        <item>epub</item>
+        <item>pdf</item>
+        <item>pdb</item>
+        <item>htm</item>
+        <item>html</item>
+    </string-array>
+    <string-array name="endingOutSideText">
+        <item>php</item>
+        <item>lrc</item>
+    </string-array>
+    <string-array name="endingPackage">
+        <item>jar</item>
+        <item>zip</item>
+        <item>rar</item>
+        <item>gz</item>
+    </string-array>
+    <string-array name="endingPowerPoint">
+        <item>pptx</item>
+        <item>ppt</item>
+        <item>pptm</item>
+        <item>ppsx</item>
+        <item>pps</item>
+        <item>ppsm</item>
+        <item>potx</item>
+        <item>pot</item>
+        <item>potm</item>
+    </string-array>
+    <string-array name="endingVideo">
+        <item>mp4</item>
+        <item>rm</item>
+        <item>mpg</item>
+        <item>avi</item>
+        <item>mpeg</item>
+        <item>3gp</item>
+    </string-array>
+    <string-array name="endingWord">
+        <item>docx</item>
+        <item>doc</item>
+        <item>docm</item>
+        <item>dotx</item>
+        <item>dotm</item>
+        <item>dot</item>
+    </string-array>
+    <string-array name="font_size">
+        <item>Smaller</item>
+        <item>Bigger</item>
+    </string-array>
+    <string-array name="go_setting">
+        <item>Setting</item>
+    </string-array>
+    <string-array name="gps_setting_btn_d">
+        <item>Set</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="inforBar">
+        <item>Top</item>
+        <item>Bottom</item>
+        <item>Close</item>
+    </string-array>
+    <string-array name="lbs_btn_steal">
+        <item>Steal</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="ok">
+        <item>Confirm</item>
+    </string-array>
+    <string-array name="read_chap_mark_list">
+        <item>Directory</item>
+        <item>Bookmarks</item>
+        <item>Notes</item>
+    </string-array>
+    <string-array name="read_custom_bg_array">
+        <item>Select Background Image</item>
+    </string-array>
+    <string-array name="read_custom_layout">
+        <item>Big</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="read_font_bold">
+        <item>文字减弱</item>
+        <item>文字增强</item>
+    </string-array>
+    <string-array name="read_jump">
+        <item>Back</item>
+    </string-array>
+    <string-array name="read_style_bj">
+        <item>Default Layout</item>
+        <item>Compact</item>
+        <item>Modern</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="read_style_pb">
+        <item>Default Layout</item>
+        <item>Compact</item>
+        <item>Modern</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="reading_style_color">
+        <item>\#000000</item>
+        <item>\#3c4f61</item>
+        <item>\#190f09</item>
+        <item>\#0f212d</item>
+        <item>\#d4b999</item>
+        <item>\#6e1f39</item>
+    </string-array>
+    <string-array name="reading_style_font">
+        <item>Day</item>
+        <item>Night</item>
+        <item>Parchment</item>
+        <item>Eye Protection</item>
+        <item>Reminiscence</item>
+        <item>Girl Style</item>
+    </string-array>
+    <string-array name="related_book">
+        <item>Confirm</item>
+        <item>Related Books</item>
+    </string-array>
+    <string-array name="run_scroller">
+        <item>Exit Automatic Reading</item>
+    </string-array>
+    <string-array name="setting_down_chap_nums">
+        <item>No Caching</item>
+        <item>Chapter 5</item>
+        <item>Chapter 20</item>
+    </string-array>
+    <string-array name="setting_down_chap_nums_value">
+        <item>0</item>
+        <item>5</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="setting_type_read">
+        <item>Reading Settings</item>
+    </string-array>
+    <string-array name="setting_type_read_value">
+        <item>1</item>
+    </string-array>
+    <string-array name="setting_type_value">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="sns_btn_d">
+        <item>Newest</item>
+        <item>Hottest</item>
+    </string-array>
+    <string-array name="software_about">
+        <item>Check Update</item>
+    </string-array>
+    <string-array name="theme_list10">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad100.xml</item>
+        <item>theme_layout_pad100_chuban.xml</item>
+        <item>theme_layout_pad100_wangwen.xml</item>
+        <item>theme_layout_pad100_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list3">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_bgfine.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_layout_phone35.xml</item>
+        <item>theme_layout_phone35_chuban.xml</item>
+        <item>theme_layout_phone35_wangwen.xml</item>
+        <item>theme_layout_phone35_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="theme_list7">
+        <item>theme_bg_huyan.xml</item>
+        <item>theme_bg_yejian7.xml</item>
+        <item>theme_bg_yejian8.xml</item>
+        <item>theme_bg_yejian9.xml</item>
+        <item>theme_bg_yejian6.xml</item>
+        <item>theme_pager.xml</item>
+        <item>theme_bg1.xml</item>
+        <item>theme_bg2.xml</item>
+        <item>theme_bg3.xml</item>
+        <item>theme_bg5.xml</item>
+        <item>theme_layout_pad70.xml</item>
+        <item>theme_layout_pad70_chuban.xml</item>
+        <item>theme_layout_pad70_wangwen.xml</item>
+        <item>theme_layout_pad70_qingsuan.xml</item>
+        <item>theme_layout_manhua.xml</item>
+        <item>theme_user.xml</item>
+    </string-array>
+    <string-array name="umd_charset_array">
+        <item>Unicode(UTF-16LE)</item>
+        <item>Unicode(UTF-16BE)</item>
+    </string-array>
+    <string-array name="umd_charset_value">
+        <item>UTF-16LE</item>
+        <item>UTF-16BE</item>
+    </string-array>
+    <string-array name="update_book_cover">
+        <item>Update Cover</item>
+        <item>Default Cover</item>
+    </string-array>
+    <string-array name="version_update_btn">
+        <item>Update Now</item>
+        <item>Remind Me Later</item>
+    </string-array>
+    <string-array name="version_update_force_btn">
+        <item>Install Now</item>
+        <item>Exit</item>
+    </string-array>
+</resources>

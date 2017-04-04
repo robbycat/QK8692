@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="provider_list">
+        <item>Auto</item>
+        <item>GPS</item>
+        <item>Network</item>
+    </string-array>
+    <string-array name="provider_list_value">
+        <item>auto</item>
+        <item>gps</item>
+        <item>network</item>
+    </string-array>
+    <string-array name="distance_list">
+        <item>1m</item>
+        <item>5m</item>
+        <item>10m</item>
+        <item>50m</item>
+        <item>100m</item>
+    </string-array>
+    <string-array name="distance_list_value">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>50</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="google_maps">
+        <item>Normal</item>
+        <item>Satellite</item>
+        <item>Hybrid</item>
+    </string-array>
+    <string-array name="interval_string">
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+        <item>20 seconds</item>
+        <item>30 seconds</item>
+    </string-array>
+    <string-array name="interval_value">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <array name="empty_values" />
+</resources>
