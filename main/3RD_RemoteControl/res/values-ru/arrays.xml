@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="feedback_ratings">
+        <item>Пожалуйста, оцените</item>
+        <item>Очень плохо</item>
+        <item>Не так хорошо</item>
+        <item>Я бы так смог</item>
+        <item>Удовлетворительно</item>
+        <item>Отлично</item>
+    </string-array>
+    <string-array name="admire">
+        <item>Банг клац-Банг~\\(≧▽≦)/~</item>
+        <item>Это так умно O(∩_∩)O</item>
+        <item>Упс, ну да ладно ( ^_^ )</item>
+        <item>Менг Менг да (づ￣3￣)づ</item>
+        <item>Хорошая магия♪(^∇^*)</item>
+        <item>Пить больше воды и больше заниматься спортом (^ω^)↗</item>
+        <item>Молодец！ \\(^o^)/</item>
+    </string-array>
+    <string-array name="connectingTipsActive">
+        <item>@string/message_tips_paint</item>
+        <item>@string/message_tips_mute</item>
+        <item>@string/message_tips_pointer_up</item>
+        <item>@string/message_tips_end</item>
+        <item>@string/message_tips_pointer_down</item>
+    </string-array>
+    <string-array name="connectingTipsIconActive">
+        <item>@string/ic_paint</item>
+        <item>@string/ic_mute</item>
+        <item>@string/ic_pointer</item>
+        <item>@string/ic_phonelink_cancel</item>
+        <item>@string/ic_pointer_down</item>
+    </string-array>
+    <string-array name="connectingTipsIconInteractive">
+        <item>@string/ic_game_share_move</item>
+        <item>@string/ic_game_share_crop</item>
+        <item>@string/ic_game_share_move</item>
+    </string-array>
+    <string-array name="connectingTipsIconPassive">
+        <item>@string/ic_lotus_portrait</item>
+        <item>@string/ic_lotus_portrait</item>
+    </string-array>
+    <string-array name="connectingTipsInteractive">
+        <item>@string/message_tips_dual_move</item>
+        <item>@string/message_tips_dual_crop</item>
+        <item>@string/message_tips_dual_minimize</item>
+    </string-array>
+    <string-array name="connectingTipsPassive">
+        <item>@string/message_tips_ball_drag</item>
+        <item>@string/message_tips_ball_tap</item>
+    </string-array>
+</resources>

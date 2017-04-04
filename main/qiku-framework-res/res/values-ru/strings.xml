@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="battery_mode_change_normal_title">Менеджер зарядки</string>
+  <string name="battery_mode_change_normal_message_fastmode">Быстрый режим</string>
+  <string name="battery_mode_change_normal_message_normalmode">Обычный режим</string>
+  <string name="battery_mode_change_abnormal_title">Инфо</string>
+  <string name="battery_mode_change_work">Нажмите, чтобы изменить.</string>
+  <string name="battery_mode_change_abnormal_message">Ошибка, возможно из-за нестабильного тока в зарядном устройстве. Пожалуйста, переключите режим зарядки.</string>
+  <string name="battery_overheat_temperature">Слишком высокая температура батареи. Пожалуйста, держите её в пределах нормы.</string>
+  <string name="battery_cold_temperature">Температура батареи низкая. Пожалуйста, держите её в пределах нормы.</string>
+  <string name="battery_over_voltage">Напряжение батареи высокое. Прекратите зарядку телефона.</string>
+  <string name="charger_over_voltage">Напряжение зарядного устройства слишком высокое. Прекратите зарядку телефона.</string>
+  <string name="charger_low_voltage">Напряжение зарядного устройства слишком низкое. Замените зарядное устройство для продолжения.</string>
+  <string name="internal_info">Менее %1$d МБ свободного пространства на вашем телефоне. Удалите ненужные файлы.</string>
+  <string name="external_info">Менее %1$d МБ свободного пространства на внешней SD карте. Удалите ненужные файлы.</string>
+  <string name="internal_external_info">Менее %1$d МБ свободного места на вашем телефоне и внешней SD-карте. Удалите ненужные файлы.</string>
+  <string name="qk_remember_choice_text">Запомнить этот выбор, не напоминать далее</string>
+  <string name="message">Сообщение</string>
+  <string name="global_action_new_shutdown_title">Отключение устройства</string>
+  <string name="global_action_new_reboot_title">Перезагрузка устройства</string>
+  <string name="global_action_affirm_shutdown_title">Отключение устройства</string>
+  <string name="global_action_affirm_reboot_title">Перезагрузка устройства</string>
+  <string name="global_toggle_new_airplane_mode_title">Режим полета</string>
+  <string name="global_toggle_new_mute_mode_title">Тихий режим</string>
+  <string name="global_toggle_new_standbypower_mode_log_button_text">Логи</string>
+  <string name="global_toggle_new_standby_power_saving_mode_title">Ультра сбережение</string>
+  <string name="hint_text">Если подключить питание в режиме энергопотребления, режим отключит подключение к сети, введите режим энергосбережения, включение экрана восстановит сеть. Подключить питание в режиме энергопотребления, режим отключит подключение к сети, При входе в режим энергосбережения, экран включиться после восстановления подключения с сетью. Выполнить?</string>
+  <string name="sure_text">Ок</string>
+  <string name="cancel_text">Отмена</string>
+  <string name="dont_alertme_agin">Не спрашивать меня, в следующий раз</string>
+  <string name="direct_restart_not_upgrade">Только перезагрузка без обновления</string>
+  <string name="reboot_for_updata">Обновление, затем перезагрузить</string>
+  <string name="power_shortage">Малый заряд</string>
+  <string name="please_charge_and_try_again">Пожалуйста, зарядите и попробуйте снова</string>
+  <string name="insufficient_storage_space">Недостаточно места для хранения</string>
+  <string name="please_clean_up_the_space_and_try_again">Очистите место для хранения и попробуйте еще раз</string>
+  <string name="global_toggle_new_standbypower_mode_dialog_title1">"Оставшийся заряд батареи телефона"</string>
+  <string name="global_toggle_new_standbypower_mode_dialog_title2">"%, Включить режим super энергосбережения?
+
+После предупреждения на экране будет отключено подключение к сети, при переходе в режим power saving подключение к сети будет восстановлено.
+После длительного нажатия на кнопку Power отключение перегрузка откроется соответствующая функция.
+Friendship tip: pro, use this feature as far as possible do not frequent the screen out screen oh."</string>
+  <string name="global_toggle_new_standbypower_mode_dialog_button_ok">Включить режим Super standby</string>
+  <string name="qiku_usb_rndis_notification_title">Общий доступ через сеть USB</string>
+  <string name="lockscreen_carrier_default">Нет сервиса</string>
+  <string name="noApplications">Нет приложений для выполнения этого действия.</string>
+  <string name="permission_remember_choice">Запомнить</string>
+  <string name="permission">Разрешить</string>
+  <string name="allow">Разрешено</string>
+  <string name="deny">Запрещено</string>
+  <string name="toast_system_alert_window_reject">Плавающие окна - разрешение отсутствует</string>
+  <string name="fingerprint_pay_alarm">Для использования отпечатков пальцев в функции  быстрая оплата, пожалуйста, включите сеть!</string>
+  <string name="qk_bgkill_desc">Блокирование #app# производятся неуместные операции в фоновом режиме.</string>
+  <string name="qk_trust_app">Доверять APP</string>
+  <string name="qk_deny_app">Разрешить OPT</string>
+  <string name="install_tips">Советы По Установке:</string>
+  <string name="sure_install">Вы уверены, установлено “%1$s” app?</string>
+</resources>

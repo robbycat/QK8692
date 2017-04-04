@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Настройки A-GPS</string>
+    <string name="basic_title">Основной заголовок</string>
+    <string name="a_gps">A-GPS</string>
+    <string name="sync_time">Время синхр.</string>
+    <string name="mode">Режим A-GPS</string>
+    <string name="start_mode">Режим запуска</string>
+    <string name="net_cfg">Конфигурация сети</string>
+    <string name="ip">IP-адрес</string>
+    <string name="port">Порт</string>
+    <string name="reset_title">Сброс</string>
+    <string name="reset">Восстановить значения по умолчанию</string>
+    <string name="gps_info_title">Информация о GPS</string>
+    <string name="gps_info">Состояние GPS</string>
+    <string name="a_gps_on">A-GPS вкл.</string>
+    <string name="a_gps_off">A-GPS выкл.</string>
+    <string name="sync_time_summary">Автоматическая синхронизация времени по GPS</string>
+    <string name="ip_toast">Подтвердите сервер</string>
+    <string name="port_toast">Подтвердите порт</string>
+</resources>

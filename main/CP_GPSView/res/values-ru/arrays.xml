@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="startmode_entries">
+        <item>Горячий старт</item>
+        <item>Холодный старт</item>
+    </string-array>
+    <string-array name="brcm_log_entries">
+        <item>Открыть</item>
+        <item>Закрыть</item>
+    </string-array>
+</resources>

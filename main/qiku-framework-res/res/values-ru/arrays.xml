@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="config_locationProviderPackageNames">
+    <item>com.google.android.gms</item>
+    <item>com.android.location.fused</item>
+  </string-array>
+  <string-array name="config_locationProviderPackageNames_baidu">
+    <item>com.baidu.map.location</item>
+    <item>com.android.location.fused</item>
+  </string-array>
+  <string-array name="config_locationProviderPackageNames_amap">
+    <item>com.amap.android.location</item>
+    <item>com.android.location.fused</item>
+  </string-array>
+  <integer-array name="config_autoBrightnessLevels">
+    <item>12</item>
+    <item>45</item>
+    <item>65</item>
+    <item>150</item>
+    <item>250</item>
+    <item>800</item>
+    <item>1000</item>
+    <item>1280</item>
+    <item>1600</item>
+    <item>1920</item>
+    <item>2560</item>
+    <item>3200</item>
+    <item>4000</item>
+    <item>6000</item>
+  </integer-array>
+  <integer-array name="config_autoBrightnessLcdBacklightValues">
+    <item>18</item>
+    <item>36</item>
+    <item>36</item>
+    <item>70</item>
+    <item>70</item>
+    <item>96</item>
+    <item>96</item>
+    <item>120</item>
+    <item>120</item>
+    <item>150</item>
+    <item>150</item>
+    <item>200</item>
+    <item>225</item>
+    <item>240</item>
+    <item>255</item>
+  </integer-array>
+  <string-array name="config_fingerprint_auth_no_fail_attmept_apps">
+    <item>com.yulong.android.coolsafe</item>
+    <item>com.qiku.android.privacyspace</item>
+    <item>com.android.settings</item>
+    <item>android</item>
+  </string-array>
+  <string-array name="app_ops_labels">
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка использовать вибратор</item>
+    <item>Попытка чтения контактов</item>
+    <item>Попытка записи контактов</item>
+    <item>Попытка прочитать запись вызова</item>
+    <item>Попытка произвести запись вызова</item>
+    <item>Попытка прочитать расписание</item>
+    <item>Attempt to modify schedule</item>
+    <item>Попытка найти поблизости Wi-Fi</item>
+    <item>Попытка отправить уведомление</item>
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка сделать звонок</item>
+    <item>Попытка прочитать СМС</item>
+    <item>Попытка написать СМС</item>
+    <item>Попытка получения СМС</item>
+    <item>Попытка получения срочных СМС</item>
+    <item>Попытка получения ММС</item>
+    <item>Попытка получения WAP-push сообщения</item>
+    <item>Попытка отправить СМС</item>
+    <item>Попытка чтения сообщения ICC</item>
+    <item>Попытка написать ICC сообщение</item>
+    <item>Попытки изменить настройки</item>
+    <item>Попытка переместить выше</item>
+    <item>Попытка получить уведомление</item>
+    <item>Попытка использовать камеру</item>
+    <item>Попытка записи</item>
+    <item>Попытка проигрывания</item>
+    <item>Попытка чтения буфера обмена</item>
+    <item>Попытка изменить буфер обмена</item>
+    <item>Попытка управления мультимедийными кнопками</item>
+    <item>Попытка контроля аудио фокуса</item>
+    <item>Попытка контроля основной громкости</item>
+    <item>Попытка контроля громкости голоса</item>
+    <item>Попытка регулировки громкость звонка</item>
+    <item>Попытка управления громкостью мультимедиа</item>
+    <item>Попытка контроля громкости будильника</item>
+    <item>Попытка контроля громкости уведомлений</item>
+    <item>Попытка регулировки громкости по Bluetooth</item>
+    <item>Попытка воспрепятствовать засыпанию телефона</item>
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка получить информацию о местоположении</item>
+    <item>Попытка получить статистику использования</item>
+    <item>Попытка отключения микрофона</item>
+    <item>Попытка отобразить всплывающее окно</item>
+    <item>Попытка проекта медиа</item>
+    <item>Попытка активации VPN</item>
+    <item>Попытка изменить обои</item>
+    <item>Попытка запуска вспомогательной структуры</item>
+    <item>Попытка сделать скриншот</item>
+    <item>Попытка прочитать статус телефона</item>
+    <item>Попытка создать голосовую почту</item>
+    <item>Попытка сделать SIP звонок</item>
+    <item>Попытка перехватить входящий вызов</item>
+    <item>Попытка использования датчика отпечатков пальцев</item>
+    <item>Попытка использовать датчик</item>
+    <item>Попытка чтения широковещательных сообщений</item>
+    <item>Попытка симуляции местоположения</item>
+    <item>Попытка чтения внешнего накопителя</item>
+    <item>Попытка записи внешнего накопителя</item>
+    <item>Попытка включения экрана</item>
+    <item>Попытка получить информацию об учетной записи</item>
+    <item>Попытка вкл./выкл. WLAN</item>
+    <item>Попытка вкл./выкл. Bluetooth</item>
+    <item>Попытка включения мобильных данных</item>
+    <item>Попытка отправки MMS</item>
+    <item>Попытка чтения ММС</item>
+    <item>Попытка записи ММС</item>
+    <item>Попытка получения номеров телефонов</item>
+    <item>Попытка получить установленные пакеты</item>
+  </string-array>
+  <string-array name="qk_default_app_names">
+    <item>Лаунчер</item>
+    <item>Набор номера</item>
+    <item>СМС</item>
+    <item>Браузер</item>
+    <item>Галерея</item>
+    <item>Камера</item>
+    <item>Контакты</item>
+  </string-array>
+</resources>

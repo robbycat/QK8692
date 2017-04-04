@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_information_type">
+        <item>QQ Быстр.сообщения</item>
+        <item>Мобильный</item>
+        <item>Почта</item>
+        <item>Аноним</item>
+    </string-array>
+</resources>

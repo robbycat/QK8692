@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сетевое расположение</string>
+    <string name="location_warning_title">Используйте службы расположения в AutoNavi</string>
+    <string name="location_warning_message">Пусть AutoNavi помочь получить данные о местоположении приложения. Это означает, отправка данных о местоположении анонимных AutoNavi. Эта служба может генерировать сетевой трафик.</string>
+    <string name="agree">Согласен</string>
+    <string name="disagree">Не согласен</string>
+    <string name="location_warning_do_not_show_again">"Не показывать снова"</string>
+    <string name="persmission_notification_title">Расположение в сети требуются разрешения</string>
+    <string name="persmission_notification_text">Коснитесь экрана, чтобы разрешить</string>
+    <string name="persmission_message">Для правильной работы этой службы требуются дополнительные разрешения. Просьба предоставить разрешения, при запросе.</string>
+    <string name="persmission_message2">Для правильной работы эта служба должна получить доступ к вашей. Просьба дать разрешение, при запросе.</string>
+    <string name="persmission_message3">Для правильной работы этой службе требуется доступ к вашему местоположению. Просьба дать разрешение, при запросе.</string>
+    <string name="persmission_message4">Для правильной работы эта служба должна получить доступ к телефон. Просьба дать разрешение, при запросе.</string>
+    <string name="persmission_message5">"Для правильной работы этой службы требуются дополнительные разрешения. Можно управлять разрешениями сетевого расположения в настройках"</string>
+    <string name="persmission_message6">"Для правильной работы этой службы требуется доступ к вашему местоположению. Можно управлять разрешениями сетевого расположения в настройках."</string>
+    <string name="persmission_message7">"Для правильной работы этой службы требуется доступ к телефон. Можно управлять разрешениями сетевого расположения в настройках."</string>
+    <string name="persmission_message8">"Для правильной работы эта служба должна получить доступ. Можно управлять разрешениями сетевого расположения в настройках."</string>
+    <string name="persmission_ok">ОК</string>
+    <string name="persmission_close">Закрыть</string>
+    <string name="persmission_settings">Параметры</string>
+</resources>

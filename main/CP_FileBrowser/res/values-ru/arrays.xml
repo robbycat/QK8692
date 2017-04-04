@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="order_file_hreshold">
+        <item>Имя (А-Я)</item>
+        <item>Имя (Я-А)</item>
+        <item>Тип</item>
+        <item>Время (нов.-стар.)</item>
+        <item>Время (стар.-нов.)</item>
+        <item>Размер (мал.-больш.)</item>
+        <item>Размер (больш.-мал.)</item>
+    </string-array>
+    <string-array name="menu_view_items">
+        <item>Поиск больших файлов</item>
+        <item>Удаленное управление</item>
+        <item>Настройки</item>
+    </string-array>
+    <string-array name="menu_view_bottom_items">
+        <item>Копировать</item>
+        <item>Сжать</item>
+        <item>Распаковать</item>
+        <item>Добавить в Избранное</item>
+        <item>Переименовать</item>
+        <item>Сведения</item>
+        <item>Открыть каталог расположения файла</item>
+    </string-array>
+    <string-array name="gif_menu_view_bottom_items">
+        <item>Удалить</item>
+        <item>Избранное</item>
+    </string-array>
+    <string-array name="larger_file_hreshold">
+        <item>3 Мб</item>
+        <item>10 МБ</item>
+        <item>50 МБ</item>
+        <item>500 Мб</item>
+        <item>1 Гб</item>
+    </string-array>
+    <string-array name="opene_with_items">
+        <item>Документы</item>
+        <item>Аудио</item>
+        <item>Видео</item>
+        <item>Фото</item>
+        <item>Приложения</item>
+        <item>Другое</item>
+    </string-array>
+</resources>
