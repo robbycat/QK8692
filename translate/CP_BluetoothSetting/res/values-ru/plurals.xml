@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы почти у цели. Осталось %1$d шагов.</item>
+        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">%1$d fingerprints set up</item>
+        <item quantity="one">%1$d fingerprint set up</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать хотя бы %d букв.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать хотя бы %d строчных букв.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d строчную букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать хотя бы %d заглавных букв.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d заглавную букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать хотя бы %d цифр.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d цифру.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать хотя бы %d специальных символов.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d специальный символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать хотя бы %d не буквенных символов.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d не буквенный символ.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код SIM, у вас осталось %d попыток.</item>
+        <item quantity="one">Неверный PIN-код SIM, у вас осталось %d попыток, затем необходимо связаться с оператором для разблокировки устройства.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d приложений с доступом к уведомлениям</item>
+        <item quantity="one">%d приложение с доступом к уведомлениям</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Изменение будильника на %1$d мин.(до %2$s)</item>
+        <item quantity="one">Изменение будильника на 1 минуту до %2$s.</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Изменение будильника на %1$d час. до %2$s</item>
+        <item quantity="one">Изменение будильника на 1 час.до %2$</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d предоставлено разрешений</item>
+        <item quantity="one">%d предоставлено разрешение</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d из %2$d разрешено</item>
+        <item quantity="one">%1$d из %2$d разрешено</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d дополнительно разрешено</item>
+        <item quantity="one">%d дополнительно разрешен</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d приложений(я) могут открывать ссылки</item>
+        <item quantity="zero">Нет приложений для открытия ссылок</item>
+        <item quantity="one">Одно приложение может открывать ссылки</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d приложения игнорируют оптимизацию батареи</item>
+        <item quantity="one">1 приложение игнорирует оптимизацию батареи</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d приложения использовали память за последние %2$s</item>
+        <item quantity="one">1 приложение использовало память за последние %2$s</item>
+    </plurals>
+</resources>
