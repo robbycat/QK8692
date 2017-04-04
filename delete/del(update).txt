@@ -1,0 +1,21 @@
+Удалено (обновил):
+
+system\app\360BBS
+system\app\BasicDreams
+system\app\BY_3RD_360browser
+system\app\BY_3RD_360mall
+system\app\BY_3RD_ShouxinIME
+system\app\FreeCall
+system\app\Galaxy4
+system\app\HoloSpiralWallpaper
+system\app\NoiseField
+system\app\PhaseBeam
+system\app\QK_Moving
+system\customapp\*
+system\presetapp\*
+system\priv-app\3RD_AvatarMaster
+system\priv-app\3RD_coolmart
+system\priv-app\3RD_RemoteControl
+system\priv-app\3RD_RemoteControl_Stub
+system\priv-app\BY_3RD_GameCenter
+system\recovery-from-boot.p
