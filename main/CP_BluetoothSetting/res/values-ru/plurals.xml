@@ -5,8 +5,8 @@
         <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
     </plurals>
     <plurals name="security_settings_fingerprint_preference_summary">
-        <item quantity="other">%1$d fingerprints set up</item>
-        <item quantity="one">%1$d fingerprint set up</item>
+        <item quantity="other">%1$d настроить отпечатки</item>
+        <item quantity="one">%1$d настроить отпечатки</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Пароль должен содержать хотя бы %d букв.</item>

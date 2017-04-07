@@ -25,8 +25,8 @@
         <item quantity="one">Пароль должен содержать хотя бы %d специальный символ.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Пароль должен содержать хотя бы %d не буквенных символов.</item>
-        <item quantity="one">Пароль должен содержать хотя бы %d не буквенный символ.</item>
+        <item quantity="other">Пароль должен содержать хотя бы %d небуквенных символов.</item>
+        <item quantity="one">Пароль должен содержать хотя бы %d небуквенный символ.</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">Неверный PIN-код. Осталось %d попыток. После этого SIM-карта будет заблокирована и вам придется обратиться к оператору связи.</item>

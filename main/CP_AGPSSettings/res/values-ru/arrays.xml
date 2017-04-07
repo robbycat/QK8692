@@ -9,7 +9,7 @@
         <item>1</item>
     </string-array>
     <string-array name="start_mode_entries">
-        <item>Авто режим</item>
+        <item>Авто-режим</item>
         <item>Горячий старт</item>
         <item>Холодный старт</item>
     </string-array>

@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="tobar_text_font">sans-serif-light</string>
+    <string name="key_tag_holder">KEY_TAG_HOLDER</string>
+    <string name="key_tag_scroll_move">KEY_TAG_SCROLL_MOVE</string>
+    <string name="key_tag_click_listener">KEY_TAG_CLICK_LISTENER</string>
+    <string name="key_tag_desc">KEY_TAG_DESC</string>
+    <string name="key_tag_image">KEY_IMAGE_ASYNC_TESK</string>
+    <string name="key_tag_name">KEY_NAME_ASYNC_TESK</string>
+    <string name="doc">doc</string>
+    <string name="txt">txt</string>
+    <string name="pdf">pdf</string>
+    <string name="ppt">ppt</string>
+    <string name="xls">xls</string>
+    <string name="html">html</string>
+    <string name="operation_select_path_copy">1110</string>
+    <string name="operation_select_path_move">1120</string>
+    <string name="operation_select_path_zip">1130</string>
+    <string name="operation_select_path_upzip">1140</string>
+    <string name="operation_order">0000</string>
+    <string name="operation_copy">0010</string>
+    <string name="operation_move">0020</string>
+    <string name="operation_zip">0030</string>
+    <string name="operation_upzip">0040</string>
+    <string name="operation_reName">0050</string>
+    <string name="operation_newFolder">0060</string>
+    <string name="operation_favorite">0070</string>
+    <string name="operation_un_favorite">0080</string>
+    <string name="operation_open_local">0090</string>
+    <string name="operation_remove">0100</string>
+    <string name="operation_detail">0110</string>
+    <string name="operation_share">0120</string>
+    <string name="operation_search">0130</string>
+    <string name="operation_brower_zip">0130</string>
+    <string name="operation_uncollect">0140</string>
+    <string name="operation_collect">0150</string>															
     <string name="pull_to_refresh_pull_label">Потяните, чтобы обновить</string>
     <string name="pull_to_refresh_release_label">Выпуск для обновления</string>
     <string name="pull_to_refresh_refreshing_label">Обновление</string>
@@ -400,8 +434,10 @@
     <string name="dialog_collect_failed">Любимая не удалось!</string>
     <string name="dialog_copy_success">Успешно скопировано.</string>
     <string name="dialog_collect_success">Успех коллекции</string>
-    <string name="dialog_banch_collect_failed">Ошибка сбора пакета</string>
-    <string name="dialog_banch_copy_success">Пакетное копирование завершено</string>
+	<string name="dialog_banch_copy_failed">Не удалось пакетное копирование</string>
+    <string name="dialog_banch_collect_failed">Пакетное сборка не удалась</string>
+    <string name="dialog_banch_copy_success">Пакетное сборка готово</string>
+    <string name="dialog_banch_collect_success">Пакетное коллекция готово</string>
     <string name="dialog_delete_doing">Удаление. Подождите</string>
     <string name="dialog_uncollect_doing">Отмена сбора... Подождите</string>
     <string name="dialog_delete_success">Успешно удалено</string>
@@ -424,7 +460,7 @@
     <string name="dialog_confire_deleteFile">Вы уверены, что хотите удалить файл?</string>
     <string name="dialog_confire_uncollectFile">Вы уверены, что хотите отказаться от подписки?</string>
     <string name="dialog_compress_failed">Не удалось сжать.</string>
-    <string name="dialog_compress_sucess">Архивировано успешно.</string>
+    <string name="dialog_compress_sucess">Архивация успешно.</string>
     <string name="dialog_compress_cancel">Отменено сжатие.</string>
     <string name="dialog_uncompress_failed">"Не удалось распаковать.
  Файл был зашифрован или неизвестный алгоритм сжатия."</string>
@@ -512,7 +548,7 @@
     <string name="cancle">Отмена</string>
     <string name="select_all">Выбрать</string>
     <string name="select_nothing">Отмените выбор</string>
-    <string name="batch_content">%1$s выбранно</string>
+    <string name="batch_content">%1$s выбрано</string>
     <string name="storage_data">Встроенная память</string>
     <string name="storage_sdcard">SD карта</string>
     <string name="storage_usb">Запоминающее устройство USB</string>

@@ -4,8 +4,16 @@
         <item>Горячий старт</item>
         <item>Холодный старт</item>
     </string-array>
+    <string-array name="startmode_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="brcm_log_entries">
         <item>Открыть</item>
         <item>Закрыть</item>
+    </string-array>
+    <string-array name="brcm_log_values">
+        <item>true</item>
+        <item>false</item>
     </string-array>
 </resources>

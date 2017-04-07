@@ -378,14 +378,14 @@
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Откл.</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>	
+        <item>На экране в виде полосок</item>
+        <item>На экране в виде полосок</item>	
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>Откл.</item>
-        <item>Show overdraw areas</item>
-        <item>Show areas for Deuteranomaly</item>		
+        <item>Показать области overdraw</item>
+        <item>Показать зоны для Deuteranomaly</item>		
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Стандартное ограничение</item>

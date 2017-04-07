@@ -39,7 +39,7 @@
 
 После предупреждения на экране будет отключено подключение к сети, при переходе в режим power saving подключение к сети будет восстановлено.
 После длительного нажатия на кнопку Power отключение перегрузка откроется соответствующая функция.
-Friendship tip: pro, use this feature as far as possible do not frequent the screen out screen oh."</string>
+Friendship совет: pro, используйте эту функцию в максимально возможной степени не часто на экране."</string>
   <string name="global_toggle_new_standbypower_mode_dialog_button_ok">Включить режим Super standby</string>
   <string name="qiku_usb_rndis_notification_title">Общий доступ через сеть USB</string>
   <string name="lockscreen_carrier_default">Нет сервиса</string>

@@ -33,7 +33,7 @@
     <string name="enable_emergency_alerts_title">Включить оповещения</string>
     <string name="enable_emergency_alerts_summary">Показывать трансляции аварийного оповещения</string>
     <string name="alert_sound_duration_title">Длительность звукового сигнала</string>
-    <string name="alert_reminder_interval_title">Периодичность напоминаний</string>
+    <string name="alert_sound_duration_summary" />
     <string name="alert_reminder_interval_title">Напоминание оповещения</string>
     <string name="alert_reminder_interval_summary" />																							 
     <string name="enable_alert_speech_title">Читать оповещения голосом</string>
@@ -41,11 +41,11 @@
     <string name="category_etws_settings_title">Настройки системы предупреждения о землетрясении и цунами</string>
     <string name="enable_etws_test_alerts_title">Тестовые рассылки</string>
     <string name="enable_etws_test_alerts_summary">Показывать тестовые трансляции для системы предупреждения о землетрясении и цунами</string>
-    <string name="enable_cmas_presidential_alerts_title">Показывать национальные оповещения</string>
-    <string name="enable_cmas_presidential_alerts_summary">Всегда отображать национальные оповещения</string>
+    <string name="enable_cmas_extreme_threat_alerts_title">Показывать экстремальные угрозы</string>
+    <string name="enable_cmas_extreme_threat_alerts_summary">Отображение оповещений для экстремальных угроз для жизни и имущества</string>
     <string name="enable_cmas_severe_threat_alerts_title">Серьезные угрозы</string>
     <string name="enable_cmas_severe_threat_alerts_summary">Сообщать о серьезных угрозах жизни и имуществу</string>
-    <string name="enable_cmas_amber_alerts_title">Оповещения AMBER</string>
+    <string name="enable_cmas_amber_alerts_title">Оповещения AMBER поиск детей</string>
     <string name="enable_cmas_amber_alerts_summary">Показывать сообщения о пропавших детях</string>
     <string name="enable_cmas_test_alerts_title">Тестовые рассылки CMAS</string>
     <string name="enable_cmas_test_alerts_summary">Показывать тестовые рассылки системы CMAS</string>
