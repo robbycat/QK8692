@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/dial_bottom_bar" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/people_dialpad_bottom_dial_bar_height" android:layout_marginBottom="@dimen/people_dialpad_bottom_dial_bar_bottom_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center" android:id="@id/dialpad_disturb_intercept_and_free_layout" android:background="@drawable/smsmms_topbar_button_bg_selector" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_marginBottom="-21.0dip" android:layout_alignParentLeft="true">
+        <ImageView android:id="@id/dialpad_disturb_intercept_and_free_incon" android:layout_width="0.0dip" android:layout_height="0.0dip" android:src="@drawable/people_dial_disturb_intercept_button" android:layout_centerHorizontal="true" />
+        <ImageView android:id="@id/dialpad_disturb_intercept_qihoo_notify_indicator" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:src="@drawable/people_dial_disturb_intercept_qihoo_indicator" android:layout_alignRight="@id/dialpad_disturb_intercept_and_free_incon" />
+        <TextView android:textSize="@dimen/bottom_bar_size" android:textColor="@color/people_dial_disturb_intercept_text_color" android:gravity="center" android:id="@id/dialpad_disturb_intercept_and_free_text" android:layout_width="0.0dip" android:layout_height="0.0dip" android:text="@string/people_phone_intercept" android:layout_below="@id/dialpad_disturb_intercept_and_free_incon" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/dialpad_keyboard_button" android:background="@drawable/smsmms_topbar_button_bg_selector" android:layout_width="70.0dip" android:layout_height="70.0dip" android:layout_marginBottom="21.0dip" android:layout_alignParentRight="true">
+        <ImageView android:layout_width="32.0dip" android:layout_height="32.0dip" android:src="@drawable/people_dial_keyboard" />
+        <TextView android:textSize="@dimen/bottom_bar_size" android:textColor="@color/people_dial_disturb_intercept_text_color" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/people_hide_keyboard" />
+    </LinearLayout>
+</RelativeLayout>
