@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Сработает менее чем через минуту</item>
+        <item>Сработает через %1$s</item>
+        <item>Сработает через %2$s</item>
+        <item>Сработает через %1$s и %2$s</item>
+        <item>Сработает через %3$s</item>
+        <item>Сработает через %1$s и %3$s</item>
+        <item>Сработает через %2$s и %3$s</item>
+        <item>Сработает через %1$s, %2$s и %3$s</item>
+    </string-array>
+    <string-array name="frequency_entries">
+        <item>1 сек.</item>
+        <item>5 сек.</item>
+        <item>10 сек.</item>
+        <item>30 сек.</item>
+    </string-array>
+    <string-array name="frequency_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+    </string-array>
+    <string-array name="mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="startmode_entries">
+        <item>Автоматический режим</item>
+        <item>Горячая загрузка</item>
+        <item>Холодная загрузка</item>
+    </string-array>
+    <string-array name="startmode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="charge_settings_entries">
+        <item>"Эффективное (рекомендуется)&lt;font size=12 fgcolor=#7f000000>
+Минимизировать время зарядки с оригинальным или мощным зарядным устройством.&lt;/font>"</item>
+        <item>"Общее&lt;font size=12 fgcolor=#7f000000>
+Ограничение тока, подходит для большинства зарядных устройств, чтобы продлить жизненный цикл аккумулятора.&lt;/font>"</item>
+    </string-array>
+    <string-array name="tile_mode">
+        <item>Выкл</item>
+        <item>Наклон головы</item>
+        <item>Наклон устройства</item>
+    </string-array>
+    <string-array name="tile_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="flashlight_longpress_time_entry">
+        <item>Короткий (0.5 сек.)</item>
+        <item>Средний (1 сек.)</item>
+        <item>Длинный (1.5 сек.)</item>
+    </string-array>
+    <string-array name="flashlight_longpress_time_value">
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+    </string-array>
+    <string-array name="view_window_stay_times_names">
+        <item>3 сек</item>
+        <item>5 сек</item>
+        <item>10 сек</item>
+        <item>15 сек</item>
+        <item>20 сек</item>
+        <item>25 сек</item>
+        <item>30 сек</item>
+        <item>&lt;font fgcolor=#7fff0000>Никогда не выключать (Потребляет энергию батареи.)&lt;/font></item>
+    </string-array>
+    <string-array name="view_window_stay_times_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="god_click_action_entries">
+        <item>Видео</item>
+        <item>Запись</item>
+        <item>QQ</item>
+        <item>Weibo</item>
+    </string-array>
+    <string-array name="god_click_action_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item> </item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <integer-array name="BASIC_FONT_SIZE_ARRAY">
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </integer-array>
+</resources>

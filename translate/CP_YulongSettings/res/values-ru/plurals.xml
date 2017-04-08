@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Вы почти у цели. Осталось %1$d раз.</item>
+        <item quantity="one">Вы почти у цели. Остался %1$d шаг.</item>
+    </plurals>
+</resources>
