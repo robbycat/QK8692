@@ -1,0 +1,1680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_drawables">
+        <item>@drawable/arrow_normal</item>
+        <item>@drawable/arrow_pressed</item>
+        <item>@drawable/common_background_bottom_menu_pressed</item>
+        <item>@drawable/common_background_composited_text_transparent</item>
+        <item>@drawable/common_background_list_devider</item>
+        <item>@drawable/common_background_list_group_angle</item>
+        <item>@drawable/common_background_list_group_bg</item>
+        <item>@drawable/common_background_search_total</item>
+        <item>@drawable/common_search_clear_button_selector</item>
+        <item>@drawable/common_search_layout_background_selector</item>
+        <item>@drawable/common_background_select_center_btn_normal</item>
+        <item>@drawable/common_background_select_center_btn_pressed</item>
+        <item>@drawable/common_background_select_center_btn_selected</item>
+        <item>@drawable/common_background_select_left_btn_normal</item>
+        <item>@drawable/common_background_select_left_btn_pressed</item>
+        <item>@drawable/common_background_select_left_btn_selected</item>
+        <item>@drawable/common_background_select_right_btn_normal</item>
+        <item>@drawable/common_background_select_right_btn_pressed</item>
+        <item>@drawable/common_background_select_right_btn_selected</item>
+        <item>@drawable/common_background_text_right_image</item>
+        <item>@drawable/common_checkbox_label_background</item>
+        <item>@drawable/common_list_drag_drop_flag_normal</item>
+        <item>@drawable/common_list_single_choice_flag</item>
+        <item>@drawable/common_title_layout_background</item>
+        <item>@drawable/common_vertical_scroll_bar_big</item>
+        <item>@drawable/divider_horizontal_bright</item>
+        <item>@drawable/droplistbutton_arrow_normal</item>
+        <item>@drawable/droplistbutton_arrow_pressed</item>
+        <item>@drawable/numberpicker_selection_divider</item>
+        <item>@drawable/round_list_background</item>
+        <item>@drawable/yl_bottombar_background</item>
+        <item>@drawable/yl_clipboard_window_background</item>
+        <item>@drawable/yl_menu_center_down_bg</item>
+        <item>@drawable/yl_menu_center_up_bg</item>
+        <item>@drawable/yl_menu_half_bg</item>
+        <item>@drawable/yl_menu_item_divider</item>
+        <item>@drawable/yl_menu_left_down_bg</item>
+        <item>@drawable/yl_menu_left_up_bg</item>
+        <item>@drawable/yl_menu_more</item>
+        <item>@drawable/yl_menu_right_down_bg</item>
+        <item>@drawable/yl_menu_right_up_bg</item>
+        <item>@drawable/yl_menu_total_bg</item>
+        <item>@drawable/yl_progressed_bg</item>
+        <item>@drawable/yl_tab_divider</item>
+        <item>@drawable/yl_title_btn_divider_vertical</item>
+        <item>@drawable/yl_title_divider_horizontal</item>
+        <item>@drawable/yl_back_light</item>
+        <item>@drawable/action_bar_general_button_background</item>
+        <item>@drawable/actionbar_droplistbutton_background</item>
+        <item>@drawable/alertdialog_button_background_selector</item>
+        <item>@drawable/checked_background</item>
+        <item>@drawable/common_background_progress_style</item>
+        <item>@drawable/common_background_seekbar_style</item>
+        <item>@drawable/common_checkbox</item>
+        <item>@drawable/common_edittext_background_selector</item>
+        <item>@drawable/common_general_button_selector</item>
+        <item>@drawable/common_list_item_background_selector</item>
+        <item>@drawable/common_seekbar_thumb</item>
+        <item>@drawable/common_tabbar</item>
+        <item>@drawable/coolpad_edittext_background</item>
+        <item>@drawable/list_selector_background</item>
+        <item>@drawable/pop_item_arrow_down_background</item>
+        <item>@drawable/pop_item_arrow_up_background</item>
+        <item>@drawable/popup_button_background</item>
+        <item>@drawable/progress_cancel</item>
+        <item>@drawable/common_radio_button</item>
+        <item>@drawable/yl_expander_group</item>
+        <item>@drawable/batch_close_btn_holo_light</item>
+        <item>@drawable/activity_background</item>
+        <item>@drawable/topbar_background</item>
+        <item>@drawable/topbar_button_divider</item>
+        <item>@drawable/topbar_up_view</item>
+        <item>@drawable/topbar_tab_bg_left_normal</item>
+        <item>@drawable/topbar_tab_bg_left_pressed</item>
+        <item>@drawable/topbar_tab_bg_left_selected</item>
+        <item>@drawable/topbar_tab_bg_middle_normal</item>
+        <item>@drawable/topbar_tab_bg_middle_pressed</item>
+        <item>@drawable/topbar_tab_bg_middle_selected</item>
+        <item>@drawable/topbar_tab_bg_right_normal</item>
+        <item>@drawable/topbar_tab_bg_right_pressed</item>
+        <item>@drawable/topbar_tab_bg_right_selected</item>
+        <item>@drawable/topbar_tab_indicator_arrow</item>
+        <item>@drawable/topbar_tab_indicator_bg</item>
+        <item>@drawable/bottombar_background</item>
+        <item>@drawable/bottombar_adornment_left</item>
+        <item>@drawable/bottombar_adornment_right</item>
+        <item>@drawable/bottombar_item_bracket_normal</item>
+        <item>@drawable/bottombar_item_bracket_pressed</item>
+        <item>@drawable/bottombar_item_bracket_highlight</item>
+        <item>@drawable/bottombar_expand_menu_normal</item>
+        <item>@drawable/bottombar_expand_slider_normal</item>
+        <item>@drawable/bottombar_icon_add_contact</item>
+        <item>@drawable/bottombar_icon_search</item>
+        <item>@drawable/bottombar_icon_locator</item>
+        <item>@drawable/bottombar_icon_compose</item>
+    </array>
+    <string-array name="reminder_minutes_labels">
+        <item>В срок</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
+        <item>1 ч</item>
+        <item>2 ч</item>
+        <item>3 ч</item>
+        <item>1 день</item>
+    </string-array>
+    <string-array name="reminder_snooze_set_labels">
+        <item>5 мин</item>
+        <item>10 мин</item>
+        <item>30 мин</item>
+        <item>1 ч</item>
+        <item>2 ч</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>В срок</item>
+        <item>Через 10 мин</item>
+        <item>Через 30 мин</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Уведомление</item>
+        <item>Мелодия</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_values">
+        <item>0</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Маршалловы острова</item>
+        <item>Средиземноморье</item>
+        <item>Гавайи</item>
+        <item>Аляска</item>
+        <item>По Тихоокеанскому времени</item>
+        <item>Тихуана</item>
+        <item>Аризона</item>
+        <item>Чихуахуа</item>
+        <item>Горное время</item>
+        <item>Центральная Америка</item>
+        <item>Центральное время</item>
+        <item>Мехико</item>
+        <item>Саскачеван</item>
+        <item>Богота</item>
+        <item>По Восточному времени</item>
+        <item>Венесуэла</item>
+        <item>Атлантическое время(Барбадос)</item>
+        <item>Атлантическое время (Канада)</item>
+        <item>Манаус</item>
+        <item>Сантьяго</item>
+        <item>Ньюфаундленд</item>
+        <item>Бразилиа</item>
+        <item>Буэнос-Айрес</item>
+        <item>Гренландия</item>
+        <item>Монтевидео</item>
+        <item>Средне-Атлантическое</item>
+        <item>Азорские острова</item>
+        <item>Острова Кабо-Верде</item>
+        <item>Касабланка</item>
+        <item>Лондон, Дублин</item>
+        <item>Амстердам, Берлин</item>
+        <item>Белград</item>
+        <item>Брюссель</item>
+        <item>Сараево</item>
+        <item>Виндхук</item>
+        <item>Западно-африканское время</item>
+        <item>Амман, Иордания</item>
+        <item>Афины, Стамбул</item>
+        <item>Бейрут, Ливан</item>
+        <item>Каир</item>
+        <item>Хельсинки</item>
+        <item>Иерусалим</item>
+        <item>Минск</item>
+        <item>Хараре</item>
+        <item>Багдад</item>
+        <item>Москва</item>
+        <item>Кувейт</item>
+        <item>Найроби</item>
+        <item>Тегеран</item>
+        <item>Баку</item>
+        <item>Тбилиси</item>
+        <item>Ереван</item>
+        <item>Дубай</item>
+        <item>Кабул</item>
+        <item>Исламабад, Карачи</item>
+        <item>Уральск</item>
+        <item>Екатеринбург</item>
+        <item>Калькутта</item>
+        <item>Шри-Ланка</item>
+        <item>Катманду</item>
+        <item>Астана</item>
+        <item>Янгон</item>
+        <item>Красноярск</item>
+        <item>Бангкок</item>
+        <item>Пекин</item>
+        <item>Гонконг</item>
+        <item>Иркутск</item>
+        <item>Куала-Лумпур</item>
+        <item>Перт</item>
+        <item>Тайбэй</item>
+        <item>Сеул</item>
+        <item>Токио, Осака</item>
+        <item>Якутск</item>
+        <item>Аделаида</item>
+        <item>Дарвин</item>
+        <item>Брисбен</item>
+        <item>Хобарт</item>
+        <item>Сидней, Канберра</item>
+        <item>Владивосток</item>
+        <item>Гуам</item>
+        <item>Магадан</item>
+        <item>Окленд</item>
+        <item>Фиджи</item>
+        <item>Тонга</item>
+    </string-array>
+	<string-array name="timezone_values">
+        <item>Pacific/Majuro</item>
+        <item>Pacific/Midway</item>
+        <item>Pacific/Honolulu</item>
+        <item>America/Anchorage</item>
+        <item>America/Los_Angeles</item>
+        <item>America/Tijuana</item>
+        <item>America/Phoenix</item>
+        <item>America/Chihuahua</item>
+        <item>America/Denver</item>
+        <item>America/Costa_Rica</item>
+        <item>America/Chicago</item>
+        <item>America/Mexico_City</item>
+        <item>America/Regina</item>
+        <item>America/Bogota</item>
+        <item>America/New_York</item>
+        <item>America/Caracas</item>
+        <item>America/Barbados</item>
+        <item>America/Manaus</item>
+        <item>America/Santiago</item>
+        <item>America/St_Johns</item>
+        <item>America/Sao_Paulo</item>
+        <item>America/Argentina/Buenos_Aires</item>
+        <item>America/Godthab</item>
+        <item>America/Montevideo</item>
+        <item>Atlantic/South_Georgia</item>
+        <item>Atlantic/Azores</item>
+        <item>Atlantic/Cape_Verde</item>
+        <item>Africa/Casablanca</item>
+        <item>Europe/London</item>
+        <item>Europe/Amsterdam</item>
+        <item>Europe/Belgrade</item>
+        <item>Europe/Brussels</item>
+        <item>Europe/Sarajevo</item>
+        <item>Europe/Paris</item>
+        <item>Africa/Windhoek</item>
+        <item>Africa/Brazzaville</item>
+        <item>Asia/Amman</item>
+        <item>Europe/Athens</item>
+        <item>Asia/Beirut</item>
+        <item>Africa/Cairo</item>
+        <item>Europe/Helsinki</item>
+        <item>Asia/Jerusalem</item>
+        <item>Europe/Minsk</item>
+        <item>Africa/Harare</item>
+        <item>Asia/Baghdad</item>
+        <item>Europe/Moscow</item>
+        <item>Asia/Kuwait</item>
+        <item>Africa/Nairobi</item>
+        <item>Asia/Tehran</item>
+        <item>Asia/Baku</item>
+        <item>Asia/Tbilisi</item>
+        <item>Asia/Yerevan</item>
+        <item>Asia/Dubai</item>
+        <item>Asia/Kabul</item>
+        <item>Asia/Karachi</item>
+        <item>Asia/Oral</item>
+        <item>Asia/Yekaterinburg</item>
+        <item>Asia/Calcutta</item>
+        <item>Asia/Colombo</item>
+        <item>Asia/Katmandu</item>
+        <item>Asia/Almaty</item>
+        <item>Asia/Rangoon</item>
+        <item>Asia/Krasnoyarsk</item>
+        <item>Asia/Bangkok</item>
+        <item>Asia/Shanghai</item>
+        <item>Asia/Hong_Kong</item>
+        <item>Asia/Irkutsk</item>
+        <item>Asia/Kuala_Lumpur</item>
+        <item>Australia/Perth</item>
+        <item>Asia/Taipei</item>
+        <item>Asia/Seoul</item>
+        <item>Asia/Tokyo</item>
+        <item>Asia/Yakutsk</item>
+        <item>Australia/Adelaide</item>
+        <item>Australia/Darwin</item>
+        <item>Australia/Brisbane</item>
+        <item>Australia/Hobart</item>
+        <item>Australia/Sydney</item>
+        <item>Asia/Vladivostok</item>
+        <item>Pacific/Guam</item>
+        <item>Asia/Magadan</item>
+        <item>Pacific/Auckland</item>
+        <item>Pacific/Fiji</item>
+        <item>Pacific/Tongatapu</item>
+    </string-array>
+    <string-array name="preferences_alert_type_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Занято</item>
+        <item>Доступно</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>По умолчанию</item>
+        <item>Личное</item>
+        <item>Общее</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>Первый</item>
+        <item>Второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+        <item>последний</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Нет ответа)</item>
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Да</item>
+        <item>Может быть</item>
+        <item>Нет</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+        <item>Только это событие</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Это и будущие события</item>
+        <item>Все события</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Только этот экземпляр</item>
+        <item>Все события в серии</item>
+    </string-array>
+    <string-array name="weekdays">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="week_for_view">
+        <item>Сб</item>
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+    </string-array>
+    <string-array name="lunar_day_labels">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="lunar_HeavenlyStems">
+        <item>цзя</item>
+        <item>и</item>
+        <item>бин</item>
+        <item>динь</item>
+        <item>у</item>
+        <item>сам</item>
+        <item>ген</item>
+        <item>хин</item>
+        <item>ван</item>
+        <item>гуй</item>
+    </string-array>
+    <string-array name="lunar_EarthlyBranches">
+        <item>цзы</item>
+        <item>чоу</item>
+        <item>инь</item>
+        <item>мао</item>
+        <item>чэнь</item>
+        <item>сы</item>
+        <item>у</item>
+        <item>вэй</item>
+        <item>шэнь</item>
+        <item>ю</item>
+        <item>ксю</item>
+        <item>хай</item>
+    </string-array>
+    <string-array name="soluar_terms">
+        <item>Легкая простуда</item>
+        <item>Холод</item>
+        <item>Начало весны</item>
+        <item>Дождь</item>
+        <item>Пробуждение насекомых</item>
+        <item>Весеннее равноденствие</item>
+        <item>Цинмин</item>
+        <item>Посадка ерна</item>
+        <item>Начало лета</item>
+        <item>Полное зерно</item>
+        <item>Зерно в ухо</item>
+        <item>Летнее солнцестояние</item>
+        <item>Лёгкий</item>
+        <item>Большая жара</item>
+        <item>Начало осени</item>
+        <item>Тепло</item>
+        <item>Белые росы</item>
+        <item>Осеннее равноденствие</item>
+        <item>Холодная роса</item>
+        <item>Первый морозец</item>
+        <item>Начало зимы</item>
+        <item>Легкий снег</item>
+        <item>Снегопад</item>
+        <item>Зимнее солнцестояние</item>
+    </string-array>
+    <string-array name="startday_list_preferenc">
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+    </string-array>
+    <string-array name="startdayvalue_list_preference">
+        <item>7</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="preference_alert_delay">
+        <item>1 мин</item>
+        <item>3 мин</item>
+        <item>5 мин</item>
+    </string-array>
+    <string-array name="activityNames">
+        <item>com.yulong.android.calendar.ui.ReciprocalActivity</item>
+        <item>com.yulong.android.calendar.toolbox.AlmanacActivity</item>
+        <item>com.yulong.android.calendar.toolbox.ConstellationActivity</item>
+        <item>com.coolpad.android.calendar.toolbox.DayCalculateActivity</item>
+        <item>com.coolpad.android.calendar.toolbox.DayCalculateActivity</item>
+    </string-array>
+    <string-array name="textTitle">
+        <item>Обратный отсчет</item>
+        <item>Альманах</item>
+        <item>Астрология</item>
+        <item>Мечты</item>
+        <item>Подсчет дней</item>
+    </string-array>
+    <string-array name="direction_label">
+        <item>Назад</item>
+        <item>Вперед</item>
+    </string-array>
+    <string-array name="day_view_agenda_process">
+        <item>Просмотр события</item>
+        <item>Удалить событие</item>
+        <item>Редактировать событие</item>
+        <item>Отправить событие</item>
+    </string-array>
+    <string-array name="agenda_process_share1">
+        <item>Bluetooth</item>
+        <item>Облако</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share2">
+        <item>Bluetooth</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share3">
+        <item>Облако</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share4">
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share5">
+        <item>Bluetooth</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share6">
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="agenda_process_share_issec">
+        <item>Bluetooth</item>
+        <item>SMS</item>
+        <item>Файл</item>
+    </string-array>
+    <string-array name="pop_menu_items">
+        <item>Поиск</item>
+        <item>Выберите дату</item>
+        <item>Массовое удаление</item>
+        <item>Инструменты</item>
+        <item>Импорт событий</item>
+        <item>Set</item>
+    </string-array>
+    <string-array name="calendar_setting_values">
+        <item>preferences_account_title</item>
+        <item>account_selected_key</item>
+        <item>default_account_key</item>
+        <item>disable_calendar_view_setting</item>
+        <item>week_start_day_key</item>
+        <item>reminder_setting</item>
+        <item>preferences_reminder_status</item>
+        <item>preferences_noreminder_begin</item>
+        <item>preferences_noreminder_end</item>
+        <item>alerts_setting</item>
+        <item>preferences_alerts_type</item>
+        <item>preferences_alerts_ringtone</item>
+        <item>preferences_alerts_vibrate</item>
+        <item>preferences_alert_delay</item>
+        <item>preferences_alerts_notify</item>
+        <item>preferences_default_reminder</item>
+        <item>about_title</item>
+        <item>about_content</item>
+    </string-array>
+    <string-array name="CONSTELLATION_DESC_MALE">
+        <item>"Aries man 
+Eager for the brand new day, pawing impatiently at the ground, he’ll always be the first to head-butt his way in to new ground. Charismatic and chockfull of leadership skills, the Aries man is unafraid to explore the unknown. He is a dynamo of energy and magnetism, the Pied Piper of his people, whether they be friends, family or colleagues. 
+Symbolized by the Ram, the Aries man is impulsive, stubborn, and a force of nature. He has the inner strength to take on the entire universe, and to be honest, hell probably win. You dont really want to cross an Arian. His vitality, eagerness and aggression will eventually wear everyone but the most stalwart down."</item>
+        <item>"Taurus man 
+He is set in his ways and stubborn once a decision has been reached. The Taurus man is patient and a workaholic. He is happy to be a beast of burden for a period of time, if it means that he will be able to reap the rewards later. He is the sort to chase the big payoff and the pot of gold at the end of the rainbow. 
+Taurus is an Earth sign, and the Taurean man loves all things physical and material. Wallowing in the mud of delicious excess is one of the Bulls favorite hobbies. Tactile and appreciative of the finer things, the Taurus man will surround himself with comfort and luxury – fine food and expensive wine, the classical arts, and the good life are what he strives for. Toil and struggle are dandy, but at the finish line, a Taurus man will want his just rewards."</item>
+        <item>"Gemini man 
+The Gemini man is a jack of all trades, his intelligent mind bounding from project to project, and darting from one hobby to the next in a short space of time. He will have many interests, for example; gardening, reading, rocket science, telepathy, ancient history. Everything fascinates him and he is ever curious. He loves problem solving and approaches challenges like a game, applying his cool logic to reason himself out of hairy situations. 
+A social sign, the Gemini man is most comfortable in social situations, holding forth on a variety of topics, ideas, and opinions. Gemini men love interesting company and are fascinated by the different and the exotic. Charming and congenial, the Gemini man is popular and effusive with his friends. Many celebrity Twins are authors or songwriters, for example Bob Dylan and Paul McCartney. Other famous Geminis include Donald Trump, John F. Kennedy and Johnny Depp."</item>
+        <item>"Cancer man 
+A Cancer man is reserved when he first meets someone new and it will take many more meetings before you can get close to him. At the first sign of overly aggressive friendliness, the crab will sidle out of sight and bury himself in the tide. Tread softly, and wait for him to open up of his own accord. Doing things by force never works with a Cancer. 
+Waving his pincers around but really using them only for self-defense, the Crab will retreat into his shell if he feels threatened. His is a sensitive soul, so handle him with care and be mindful of hurting his feelings. If the Cancer man initially appears a little crabby, sarcastic, or distant, remember that its just his outward persona - a smokescreen to scare off the world. Inside, he is gentle, kind, and affectionate, if you can get behind his walls."</item>
+        <item>"Leo man 
+The Leo man is a natural born leader and his animal magnetism draws followers to him by the dozen. In a team situation, he is quite happy to work together with others, and will often be a key player, providing motivation and drive to his team. Ruled by the Sun, the Leo man is outgoing, confident, and energetic. He is an ambitious sort, and once he sets his mind on something, he is determined to accomplish it. His eagerness, once stoked, is without limits and he is incredibly generous, loyal and honorable. 
+All the world is a stage, and the Leo man has the lead role in every scene. He would never shy away from the limelight and absolutely adores being in the center of attention. His flair for the dramatic and his innate talent often lead to professions in the arts, acting, writing, or fashion. Some famous, flamboyant Leos include Andy Warhol, Mick Jagger, Yves St Laurent, Peter OToole, and Hulk Hogan."</item>
+        <item>"Virgo man 
+He has a tremendous sense of duty and will work towards serving the greater good, be it his family, friends, work network, or community. He is skilled at fact finding and enjoys getting to grips with minutiae that many others would find overwhelming. He is usually Employee of the Month or Most Valued Player on any team, as everyone knows that you can count on the Virgo man to get things right the first time, and every time. He also loves to help out others. 
+Ruled by Mercury, you will never a find a Virgo man standing still for long. As fleet-footed as the Roman god that rules him, the Virgo man is a bundle of energy both mentally and physically. He is a powerhouse of achievement, often solving the next complex problem in his head while his hands do the work of the moment. He is also a very good communicator, as befits a sign ruled by the God of Messages."</item>
+        <item>"Libra man 
+He is a pacifist and dislikes conflict. Nothing can be achieved with a temper tantrum and a Libra man will go to any lengths to avoid confrontation. He much prefers peace and quiet. He strives for harmony and balance. Hed rather talk things through and try to understand your side of the story, than slam doors or throw plates. 
+A Libra man feels most complete when he is in a relationship and he will work hard to ensure it lasts. He treasures stability and equilibrium with his partner. Impartial and earnest, Librans mean well and would never use their words to hurt or wound on purpose. Dont ask him if your bum looks big in your new jeans though – you will likely receive a thorough analysis of the reasons for saying yes, and why he should tell you no in answer to your question."</item>
+        <item>"Scorpio man 
+He is incredibly curious, and wants to learn about everyone and everything, but he usually likes to figure these things out on his own. His keen sense of intuition helps him unearth the plain truth of things, and he is a master at asking questions that are both direct and penetrating. He rarely takes others answers at face value, however, and comes to his own conclusions. 
+Although a Scorpio man may seem unemotional, thats all just for show. Underneath his calm, cool, exterior is an electric undercurrent of roiling feelings. Like all water signs, he is much attuned to his own and others emotions and feels deeply. Not much of this is on display for the outside world, however, as Scorpios dislike losing control over their own feelings, at least not publicly."</item>
+        <item>"Sagittarius man 
+Sagittarius is represented by an Archer-Centaur. In Roman mythology of the past, centaurs were wise intellectuals, and the same parallel can be drawn for the intellectual Sagittarius man of the present. He is a clear, logical thinker, with a big picture approach to any situation. He is also an enthusiastic listener, who will absorb what you have to say, before processing the information and coming to his own conclusions and decisions. However, he does this so quickly that he can miss important details. 
+An eternal optimistic, he enjoys his explorations of life, wherever his path may take him. This is the adventurer of the zodiac, and some well known Sagittarius men are Bob Marley, John Travolta, James Dean, and Phil Collins."</item>
+        <item>"Capricorn man 
+Ambitious, determined, and practical - these traits sum up the Capricorn personality. He is happy to tread along a brow-beaten path, climbing steep hills and weathering nasty storms, as long as he knows that triumph awaits him at the mountains peak. He wants to get to the top to reap the rewards. The benefits of success are fame, prestige, money; the name of the game is perseverance. His attention to detail and patience stand him in good stead in the process of getting to his goals. 
+Capricorn is ruled by Saturn, and this may influence the Goat towards being patrician and authoritarian. The Capricorn man may rock the boat a little on his way to top goat, but rest assured none of it is personal. He is risk averse, preferring to play it safe than to lose all his stakes in one round. He often adopts a mature, serious demeanor that goes hand in hand with his focus on achieving."</item>
+        <item>"Aquarius man 
+Nothing about this man is conformist, from his wardrobe to his career choices to his lifestyle. Sometimes obstinate and stubborn, the Water Bearer is a fixed sign, and the Aquarius man will see through anything he starts to its bitter end. 
+Popular and gregarious, some Aquarius men seem to know everyone. However, this doesn’t necessarily mean that everyone understands him. His feelings are often hidden and his reactions complex. The prodding questions and indecipherable actions are just part of a game of discovery to find out what his friends really think or feel about people and places. Play along, and take his antics with a grain of salt. His findings will be interesting, however. Some Aquarians are more retiring, but they are usually quite intriguing and likeable in a distant kind of way."</item>
+        <item>"Pisces man 
+This sentimental emphasis also means that he is highly intuitive and he is able to sense what others are thinking or feeling almost telepathically. 
+Both adorable goldfish and predatory shark, a Piscean often displays a duality in his personality. Epitomizing his water element, he is fluid and easygoing, always swimming with the current and going with the flow. Like any current, this relaxed approach often belies a deeper underflow. The calm, collected facade of a Pisces man often hides his passionate and sensitive inner turmoil. He possesses a strong and vivid imagination, expressing his thoughts through writing, dance, or song. Extraordinary and creative, the Pisces man is often found making a splash in the arts industry."</item>
+    </string-array>
+    <string-array name="CONSTELLATION_DESC_FEMALE">
+        <item>"Aries woman 
+The impulsive Aries woman runs on high-octane and will often find herself taking on more tasks than shes able to complete. Ruled by the Ram, this ambitious lady thrives on challenge, but her impatient nature may have her moving to the next undertaking before the previous one is finished. 
+If you are lucky enough to capture the attention of an Aries woman, keeping that attention will be the challenge if you are up to it. She often prefers partners who have exciting personalities because this woman is in no way a shrinking violet. An Aries woman is very capable of getting along in this world without you. If you dont notice this on your own, she can tell you as much in no uncertain terms. She relates to all people as equals, yet she has a competitive streak as well. Her extravagant and romantic natures are intertwined. The partner who truly comes through for her will be made to feel like the most special person that walks the earth. She is direct, sometimes shockingly so, but has an approach that is extremely endearing."</item>
+        <item>"Taurus woman 
+Taureans are also persistent, sometimes determinedly so, obstinate in the face of adversity, and stubborn to the point of utter exasperation. This ability to hang on through tough times and bad, as well as her emotional strength, make Taurean women a force to be reckoned with. Some celebrity Taureans rushing headlong into the limelight include Cher, the Empress Catherine II of Russia, and Penelope Cruz. 
+Because she is basically unadventurous, change can be a threat to her. She is more likely to get into a rut, preferring to preserve the status quo, so that any change that happens in her life usually comes from outside. However, whatever experiences life brings to her she learns quickly from them and is unlikely to make the same mistake twice."</item>
+        <item>"Gemini woman 
+A Gemini woman is extremely clever and has the ability to discuss every subject under the sun - politics, religion, travel - then just as easily switch to talking about the latest celebrity faux pas. She is incessantly curious, prodding and poking at every angle and idea, her agile mind flitting from one thought to the other faster than lightning. She is witty, quick with one-liners, and will remember the tiniest, most obscure trivia. She loves to talk, but as a means to discuss, to gather ideas and information, not simply to fill empty spaces of silence. 
+Once she does meet a perfect partner, however, a Gemini woman will completely open up all aspects of her personality to that lucky person - and there are quite a few of them! Woe betide any who starts getting complacent about winning such a prize, however, as Gemini needs to grow when she is in love, and the phrase catching is not the same as keeping comes to mind when Gemini women are involved."</item>
+        <item>"Cancer woman 
+The Cancerian woman is sensitive - very sensitive - but not only to her needs, but to the needs of others, making her one of the most sympathetic and caring women of the Zodiac. If you criticize her she may very well take it personally and it may not be forgotten! 
+Slowly, slowly, as the Italians say. For any Cancer woman, romance is part and parcel of love - the gifts, flowers, and love notes that form the traditional woo-and-win process are essential to her. The Cancer woman is slow to fall in love and refuses to be rushed. Once there, however, she is a devoted and protective lover. She can be hurt unintentionally, so her partner must be tactful and sensitive."</item>
+        <item>"Leo woman 
+The main characteristics of Leos are their zest for life and warm spirit. Admirers flock around their energy and enthusiasm. A Leo woman is typically a social butterfly, her black book crammed with contacts, her diary often double booked. And no wonder, because Leos are generous creatures and tend to pamper their friends luxuriously. A Leo woman is the ultimate gal pal. She will stick by her girlfriends and forgive everything but the most serious of transgressions, which, to the Leo woman, is betrayal. 
+Sex is important to the Leo woman. Very important. The physicality is a bond, and also is the primary way you can show how desirable she is. Leos love sexy lingerie, and most Leo women love to take charge in the bedroom. She is adventurous and up for anything. A Leo woman is fiery and has a strong sex drive. She is highly skilled in love making, and both demands and gives satisfaction to her partner. This sign rules the spine, back, and heart, so seduce a Leo woman by gently caressing her skin, fingertips brushing her lower back."</item>
+        <item>"Virgo woman 
+The Virgo womans continuous search for self improvement regularly makes this ladys life far more complicated than is necessary. Rarely satisfied with the way things are, the overly analytical Virgo woman can be her own worst enemy when it comes to enjoying life, leisure, and relationships. 
+The Virgo woman tends to analyze the situation, searching for flaws, strengthening weaknesses, and exploring emotions. She only falls in love with one person at a time, and does not wear her heart on her sleeve, plunging deeply into love only after she has applied her critical mind to it."</item>
+        <item>"Libra woman 
+The very epitome of yin and yang, Libran women are a fascinating mix of rationale logic and erratic emotion, shooting holes in your flawed opinions then making up for winning the argument with her charm. However she is always open to reason and common sense and will good-naturedly admit her mistakes if you can logically talk her onto your side. 
+Libra women and their all-seeing, all-encompassing views establish strong relationships with their lovers because in arguments, they will always try to see the other partys point of view. Her rationality and cool logic often mean that hot-tempered arguments peter out into quiet talks and meek retractions instead. She oscillates between independent and subservient, depending on what is deemed correct at the time. Librans want a partner who can provide them with advice and support, and they seek a matched relationship that is harmonious and steady. Her most compatible partners are the Aquarius and Gemini signs."</item>
+        <item>"Scorpio woman 
+The Scorpio woman should never be taken lightly. They arent flaky, fluffy, or helpless creatures by any stretch of the imagination. Direct, and brilliantly sharp, Scorpio women only focus on the fundamental essence of any issue and disregard the superfluous. They like clear endings and beginnings, with no grey areas in between. A Scorpio woman wants her certainties to remain just so - absolutely rock steady and assured. She wants to understand everything and knows how to craft just the right question to obtain the answers she seeks. 
+In relationships Scorpio women want to make their partners lives as easy as possible, just as long as you let her win every now and again. She is caring and devoted, but you should never cross a scorpion - those stingers can give you a painful welt! Scorpio women often favor Aries and Virgo partners."</item>
+        <item>"Sagittarius woman 
+Recognized as the seeker of truth, the Sagittarius woman wants to discover what life is really all about. Everything fascinates this open-minded woman, especially new and controversial areas in religion, morality, and philosophy. Get her started and you’ll have yourself an intellectually stimulating conversation about what makes the world go around. 
+The Sagittarius woman loves companionship and wants a friend and partner who can share her love for truth and knowledge. Relationships with her are often active and spirited, filled with strange and faraway journeys, both metaphorical and literal. She is enthusiastic about all new things and her partner must be well-read and well-travelled. This is necessary in order to keep up with her on philosophy, the world, exotic lands, and exciting discoveries. The Archers aim is always true when in a relationship, and Sagittarians are loyal and devoted partners."</item>
+        <item>"Capricorn woman 
+The tenth sign of the zodiac, the Capricorn woman is a dependable individual who is not fond of indiscriminate gossip, but can listen to peoples problems and offer excellent advice. She is very loyal to her friends and is respectful of others needs. 
+The Capricorn woman longs for security. She can be traditional, organized, and responsible. Is she as serious and hard-working as her reputation? To a degree. Beneath her reserved exterior lurks a wonderful sense of humor. Ms. Capricorn can tell jokes with such an air of seriousness that it may surprise the listener. In reality, the Capricorn woman can be lighter and livelier than her male sun sign counterpart - but not so much as to confuse her with a Fire sign. There is almost always something guarded or reserved about her."</item>
+        <item>"Aquarius woman 
+Aquarius is an air sign, but unlike her other light-hearted zodiac sisters, an Aquarius woman is no gentle breeze or dreamy zephyr. She is a tempest filled with an inner force and power, which can be a little scary when you first come into contact with her. Hold on tight and go along for the ride. If you pass through the eye of the storm, you will find a smart, independent, and most of all, original woman at the heart of the hurricane. 
+The Aquarius woman is quirky. She is an enigma. She is unpredictable. And independent. This is a fixed sign which means she doesnt take kindly to people telling her what to do. But if you need help, she is a true humanitarian who is ready and willing to assist someone who might be short on cash or down on their luck."</item>
+        <item>"Pisces woman 
+Spiritual, curious, and gentle, the Pisces woman is a true dreamer. She puts a great deal of emphasis on the unseen in her life, whether it be her own intuition, her emotions, or the world of spirituality and religion. This is a woman who is always looking for - and finding - deeper meaning, from the grand scheme of life itself to her own social interactions. She absorbs the events around her, making connections that other people would never even see. 
+The Pisces woman is a daydreamer and can quickly escape the harsh realities of life by slipping into a world where she can be whatever she desires, wherever she wants. Some may think she runs from her problems; others believe shes simply found a creative way of handling them."</item>
+    </string-array>
+    <string-array name="CalConstellationName">
+        <item>Овен</item>
+        <item>Телец</item>
+        <item>Близнецы</item>
+        <item>Рак</item>
+        <item>Лев</item>
+        <item>Дева</item>
+        <item>Весы</item>
+        <item>Скорпион</item>
+        <item>Стрелец</item>
+        <item>Козерог</item>
+        <item>Водолей</item>
+        <item>Рыбы</item>
+    </string-array>
+    <string-array name="month_word">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+    <string-array name="menu_view_items">
+        <item>События</item>
+        <item>Выберите дату</item>
+        <item>Обратный отсчет</item>
+        <item>Настройка</item>
+    </string-array>
+    <string-array name="menu_view_items_en">
+        <item>События</item>
+        <item>Выберите дату</item>
+        <item>Настройка</item>
+    </string-array>
+    <string-array name="reply_items">
+        <item>Sim1</item>
+        <item>Sim2</item>
+    </string-array>
+    <string-array name="password_hint_entries">
+        <item>Школа</item>
+        <item>Высшая школа</item>
+        <item>Мой колледж</item>
+        <item>Мой любимый вид спорта</item>
+        <item>Нестандартный вопрос</item>
+    </string-array>
+    <string-array name="password_hint_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <integer-array name="BASIC_FONT_SIZE_ARRAY">
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </integer-array>
+    <string-array name="hu_lu">
+        <item>инь</item>
+        <item>мао</item>
+        <item>сы</item>
+        <item>у</item>
+        <item>сы</item>
+        <item>у</item>
+        <item>шэнь</item>
+        <item>ю</item>
+        <item>хай</item>
+        <item>цзы</item>
+    </string-array>
+    <string-array name="tian_gan_one">
+        <item>цзя</item>
+        <item>и</item>
+        <item>бин</item>
+        <item>дин</item>
+        <item>у</item>
+        <item>цзи</item>
+        <item>гэн</item>
+        <item>синь</item>
+        <item>жэнь</item>
+        <item>гуй</item>
+    </string-array>
+    <string-array name="tian_gan_two">
+        <item>у</item>
+        <item>цзи</item>
+        <item>гэн</item>
+        <item>синь</item>
+        <item>жэнь</item>
+        <item>гуй</item>
+        <item>цзя</item>
+        <item>и</item>
+        <item>бин</item>
+        <item>дин</item>
+    </string-array>
+    <string-array name="di_zhi_one">
+        <item>цзы</item>
+        <item>чоу</item>
+        <item>инь</item>
+        <item>мао</item>
+        <item>чэнь</item>
+        <item>сы</item>
+        <item>у</item>
+        <item>вэй</item>
+        <item>шэнь</item>
+        <item>ю</item>
+        <item>ксю</item>
+        <item>хай</item>
+    </string-array>
+    <string-array name="di_zhi_two">
+        <item>у</item>
+        <item>вэй</item>
+        <item>шэнь</item>
+        <item>ю</item>
+        <item>ксю</item>
+        <item>хай</item>
+        <item>цзы</item>
+        <item>чоу</item>
+        <item>инь</item>
+        <item>мао</item>
+        <item>чэнь</item>
+        <item>сы</item>
+    </string-array>
+    <string-array name="xiong_ji">
+        <item>"Радж: золото нужды дней де YuTang отдела жизнь QingLong MingTang
+Относишься: BaiHu дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый"</item>
+        <item>"Радж: золото нужды дней де YuTang отдела жизнь QingLong MingTang
+Относишься: день наказание бронзовый BaiHu дней в тюрьме базальтовая кредит чэнь"</item>
+        <item>"Радж: QingLong MingTang джин нужды дней де YuTang отдела жизнь
+Относишься: день наказание бронзовый BaiHu дней в тюрьме базальтовая кредит чэнь"</item>
+        <item>"Радж: QingLong MingTang золото: отдел от нужды дней де YuTang
+Относишься: галочка чэнь дней наказание бронзовый BaiHu дней в тюрьме базальтовая"</item>
+        <item>"Радж QingLong MingTang золото: отдел от нужды дней де YuTang
+Относишься: дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый BaiHu"</item>
+        <item>"Радж YuTang отдела: жизнь QingLong MingTang джин нужды дней де
+Относишься: BaiHu дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый"</item>
+        <item>"Радж: золото нужды дней де YuTang отдела жизнь QingLong MingTang
+Относишься: BaiHu дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый"</item>
+        <item>"Радж: золото нужды дней де YuTang отдела жизнь QingLong MingTang
+Относишься: день наказание бронзовый BaiHu дней в тюрьме базальтовая кредит чэнь"</item>
+        <item>"Радж: QingLong MingTang джин нужды дней де YuTang отдела жизнь
+Относишься: день наказание бронзовый BaiHu дней в тюрьме базальтовая кредит чэнь"</item>
+        <item>"Радж QingLong MingTang золото: отдел от нужды дней де YuTang
+Относишься: галочка чэнь дней наказание бронзовый BaiHu дней в тюрьме базальтовая"</item>
+        <item>"Радж QingLong MingTang золото: отдел от нужды дней де YuTang
+Относишься: дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый BaiH"</item>
+        <item>"Радж YuTang отдела: жизнь QingLong MingTang джин нужды дней де
+Относишься: BaiHu дней в тюрьме базальтовая кредит чэнь дней наказание бронзовый"</item>
+    </string-array>
+    <string-array name="sui_sha">
+        <item>Юг</item>
+        <item>Восток</item>
+        <item>Север</item>
+        <item>Запад</item>
+        <item>Юг</item>
+        <item>Восток</item>
+        <item>Север</item>
+        <item>Запад</item>
+        <item>Юг</item>
+        <item>Восток</item>
+        <item>Север</item>
+        <item>Запад</item>
+    </string-array>
+    <string-array name="animal_one">
+        <item>Крыса</item>
+        <item>Корова</item>
+        <item>Тигр</item>
+        <item>Кролик</item>
+        <item>Дракон</item>
+        <item>Змея</item>
+        <item>Лошадь</item>
+        <item>Овца</item>
+        <item>Обезьяна</item>
+        <item>Петух</item>
+        <item>Собака</item>
+        <item>Свинья</item>
+    </string-array>
+    <string-array name="animal_two">
+        <item>Лошадь</item>
+        <item>Овца</item>
+        <item>Обезьяна</item>
+        <item>Петух</item>
+        <item>Собака</item>
+        <item>Свинья</item>
+        <item>Крыса</item>
+        <item>Бык</item>
+        <item>Тигр</item>
+        <item>Кролик</item>
+        <item>Дракон</item>
+        <item>Змея</item>
+    </string-array>
+    <string-array name="peng_zu_bai_ji_one">
+        <item>1 не открывай амбар</item>
+        <item>2 не сади растения</item>
+        <item>3 не топи печь</item>
+        <item>4 не брей голову</item>
+        <item>5 не бери поле</item>
+        <item>6 не бери бумаги</item>
+        <item>7 не подключен</item>
+        <item>8 не качественный соус</item>
+        <item>9 не затрагивай воды</item>
+        <item>10 не иди в суд</item>
+    </string-array>
+    <string-array name="peng_zu_bai_ji_two">
+        <item>1 не касайся гадания</item>
+        <item>2 не красивый наряд</item>
+        <item>3 не приноси жертву</item>
+        <item>4 не рой колодец</item>
+        <item>5 не плач</item>
+        <item>6 не долго и отравишься в путешествие</item>
+        <item>7 не крой крышу соломой</item>
+        <item>8 не принимай лекарство</item>
+        <item>9 не по себе</item>
+        <item>10 не принимай гостей</item>
+        <item>11 не ешь собаку</item>
+        <item>12 не женись</item>
+    </string-array>
+    <string-array name="yi">
+        <item>Путешествия, офис, друзья, письмо, увидеть работу</item>
+        <item>В дополнение к одежде, лечении заболеваний, путешествия, снос, в дом</item>
+        <item>Помолитесь, поклонение, женятся, открытие торговли</item>
+        <item>Поклонение, строительство гробницы, окрашенная грязь, остальное не берут вещи</item>
+        <item>Сделка, Ли купоны, друзья, подписание, домашний скот удовлетворен</item>
+        <item>Помолитесь, поклонение, Молясь, брак, завет</item>
+        <item>Лечение, отправиться на экзамен, жертва, остальное не берут вещи</item>
+        <item>Бизнес, торговля, искать официальный, скот удовлетворен, новаторский</item>
+        <item>Молясь, школа, открытая, врача, чтобы служить</item>
+        <item>Жертвенный, стремиться к обогащению, подпись, женитьба и замужество, заказать союза</item>
+        <item>Лечение заболеваний, брак, торговля, складирование, поиск работы</item>
+        <item>Поклонение, сделки, финансовые доходы, захоронение</item>
+    </string-array>
+    <string-array name="ji">
+        <item>Революционные открытия, брак, добыча</item>
+        <item>Требуется сотрудник, офис, открытие, перемещение, посещение</item>
+        <item>Лекарства, лечение, посадка, новаторской, миграции</item>
+        <item>Миграции, в дом, брак, открытие, погребение</item>
+        <item>Выращивания, покупка дома, продажа полей, рытье колодцев, судостроение</item>
+        <item>Открытие рынка, торговли, переезда, путешествия</item>
+        <item>Новаторской, путешествия, миграции, открытия, построить</item>
+        <item>Альпинизм, весельная лодка, кровать, в доме</item>
+        <item>Судиться, митинг, переезд</item>
+        <item>Начать торговлю, кровать, похороны, особняк, начало</item>
+        <item>Похороны, начать стройку, иглоукалывание</item>
+        <item>Банкет, кровать, отправляться в путь, женитьба и замужество, миграция</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_one">
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_two">
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_three">
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_four">
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_five">
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_six">
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_seven">
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_eight">
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_nine">
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_ten">
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+        <item>мань</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_eleven">
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+        <item>чу</item>
+    </string-array>
+    <string-array name="yi_ji_zhuangtai_twelve">
+        <item>чу</item>
+        <item>мань</item>
+        <item>пин</item>
+        <item>дин</item>
+        <item>чжи</item>
+        <item>по</item>
+        <item>вэй</item>
+        <item>чен</item>
+        <item>шоу</item>
+        <item>кай</item>
+        <item>би</item>
+        <item>цзянь</item>
+    </string-array>
+    <string-array name="sterm_info">
+        <item>0</item>
+        <item>21208</item>
+        <item>42467</item>
+        <item>63836</item>
+        <item>85337</item>
+        <item>107014</item>
+        <item>128867</item>
+        <item>150921</item>
+        <item>173149</item>
+        <item>195551</item>
+        <item>218072</item>
+        <item>240693</item>
+        <item>263343</item>
+        <item>285989</item>
+        <item>308563</item>
+        <item>331033</item>
+        <item>353350</item>
+        <item>375494</item>
+        <item>397447</item>
+        <item>419210</item>
+        <item>440795</item>
+        <item>462224</item>
+        <item>483532</item>
+        <item>504758</item>
+    </string-array>
+    <string-array name="kyuuseijd">
+        <item>2404030</item>
+        <item>2404600</item>
+        <item>2404810</item>
+        <item>2408800</item>
+        <item>2409010</item>
+        <item>2413000</item>
+        <item>2413210</item>
+        <item>2417200</item>
+        <item>2417410</item>
+        <item>2421220</item>
+        <item>2421400</item>
+        <item>2421610</item>
+        <item>2425420</item>
+        <item>2425630</item>
+        <item>2429620</item>
+        <item>2429800</item>
+        <item>2430010</item>
+        <item>2433820</item>
+        <item>2434030</item>
+        <item>2438020</item>
+        <item>2438230</item>
+        <item>2442220</item>
+        <item>2442430</item>
+        <item>2446420</item>
+        <item>2446630</item>
+        <item>2450620</item>
+        <item>2450830</item>
+        <item>2454820</item>
+        <item>2455030</item>
+        <item>2458840</item>
+        <item>2459020</item>
+        <item>2459230</item>
+        <item>2463250</item>
+        <item>2467240</item>
+        <item>2467420</item>
+        <item>2467630</item>
+        <item>2471440</item>
+        <item>2471650</item>
+        <item>2475640</item>
+        <item>2475850</item>
+        <item>2477650</item>
+    </string-array>
+    <string-array name="kyuuseijdf">
+        <item>1</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>7</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>7</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>-3</item>
+        <item>1</item>
+        <item>7</item>
+        <item>-9</item>
+        <item>-9</item>
+    </string-array>
+    <string-array name="kyuusei">
+        <item>-1</item>
+        <item>-1</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="kyuusei_name_one">
+        <item>Белый</item>
+        <item>Черный</item>
+        <item>Синий</item>
+        <item>Зеленый</item>
+        <item>Желтый</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Белый</item>
+        <item>Фиолетовый</item>
+    </string-array>
+    <string-array name="kyuusei_name_two">
+        <item>Тай - звезда (вода) - добрый ангел</item>
+        <item>Фото - добыча (почвы) - демон</item>
+        <item>Звезда Регул (дерево) - нервы</item>
+        <item>Звездное чванство (дерево) - нервы</item>
+        <item>Tian Fu - звезда (почва) - демон</item>
+        <item>Цинлун - звезда (золото) - добрый ангел</item>
+        <item>Звезда Xianchi (золото) - демон</item>
+        <item>Лунная звезда (земля) - добрый ангел</item>
+        <item>Тяньисин (огонь) - добрый ангел</item>
+    </string-array>
+    <string-array name="zhi_ri_one">
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_two">
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_three">
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+    </string-array>
+    <string-array name="zhi_ri_four">
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+    </string-array>
+    <string-array name="zhi_ri_five">
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_six">
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+    </string-array>
+    <string-array name="zhi_ri_seven">
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_eight">
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_nine">
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+    </string-array>
+    <string-array name="zhi_ri_ten">
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+    </string-array>
+    <string-array name="zhi_ri_eleven">
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+    </string-array>
+    <string-array name="zhi_ri_twelve">
+        <item>The day of punishment (Mafia days)</item>
+        <item>Rosefinch (Japanese Mafia)</item>
+        <item>(Huang Daori)</item>
+        <item>Tiande (Huang Daori)</item>
+        <item>The white tiger (Black Sun)</item>
+        <item>Jade Tang (Huang Daori)</item>
+        <item>Prinson (Japanese Mafia)</item>
+        <item>Xuanwu (Japanese Mafia)</item>
+        <item>Siming (Huang Daori)</item>
+        <item>Polaris (Japanese Mafia)</item>
+        <item>Tsing Lung (Huang Daori)</item>
+        <item>Mingtang (Huang Daori)</item>
+    </string-array>
+    <string-array name="liu_yao">
+        <item>Первая победа</item>
+        <item>Ты в деле</item>
+        <item>Первый минус</item>
+        <item>Смерть Будды</item>
+        <item>Да</item>
+        <item>Красный рот</item>
+    </string-array>
+    <string-array name="xiu_ming_one">
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Восток</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Север</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Запад</item>
+        <item>Юг</item>
+        <item>Юг</item>
+        <item>Юг</item>
+        <item>Юг</item>
+        <item>Юг</item>
+        <item>Юг</item>
+        <item>Юг</item>
+    </string-array>
+    <string-array name="xiu_ming_two">
+        <item>Angle wood Jiao - Ji</item>
+        <item>Kang - fierce dragon</item>
+        <item>The whole earth raccoon - fierce</item>
+        <item>House day rabbit</item>
+        <item>Heart month Fox</item>
+        <item>Tail Fire Tiger - Ji</item>
+        <item>Leopard - Ji Ji</item>
+        <item>Dou Muxie - Kyrgyzstan</item>
+        <item>Niu Niu - fierce</item>
+        <item>Lady bat -.</item>
+        <item>Virtual day rat</item>
+        <item>Wei Yan Yan</item>
+        <item>Room fire pig - Ji</item>
+        <item>The wall of water - Yu Ji</item>
+        <item>The wolf and the wolf</item>
+        <item>Lou Jingou - Kyrgyzstan</item>
+        <item>Weituzhi Kyrgyzstan</item>
+        <item>The day of the chicken</item>
+        <item>Bi Ji Wu Ji</item>
+        <item>Mouth monkey - fierce fire</item>
+        <item>Mouth monkey - fierce fire</item>
+        <item>Well wood an Kyrgyzstan</item>
+        <item>Ghost Jinyang -.</item>
+        <item>Liu Zhang - hard soil</item>
+        <item>Star day horse</item>
+        <item>Zhang Yuelu Ji</item>
+        <item>Winged serpents - fierce</item>
+        <item>Water earthworm - Ji Zhen</item>
+    </string-array>
+    <string-array name="moonglk">
+        <item>Янв.</item>
+        <item>Фев.</item>
+        <item>Мар.</item>
+        <item>Апр.</item>
+        <item>Май</item>
+        <item>Июн.</item>
+        <item>Июл.</item>
+        <item>Авг.</item>
+        <item>Сен.</item>
+        <item>Окт.</item>
+        <item>Ноя.</item>
+        <item>Дек.</item>
+    </string-array>
+    <string-array name="sukuyou">
+        <item>Horn</item>
+        <item>Kang</item>
+        <item>Di</item>
+        <item>Room</item>
+        <item>Heart</item>
+        <item>Tail</item>
+        <item>Skip</item>
+        <item>Bucket</item>
+        <item>Корова</item>
+        <item>Female</item>
+        <item>Empty</item>
+        <item>Dangerous</item>
+        <item>Room</item>
+        <item>Wall</item>
+        <item>Kui</item>
+        <item>Lou</item>
+        <item>Stomach</item>
+        <item>The</item>
+        <item>BI</item>
+        <item>Mouth</item>
+        <item>Ginseng</item>
+        <item>Well</item>
+        <item>Ghost</item>
+        <item>Liu</item>
+        <item>Star</item>
+        <item>Zhang</item>
+        <item>Wing</item>
+        <item>Zhen</item>
+    </string-array>
+    <string-array name="nday_one">
+        <item>День</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="nday_two">
+        <item>1</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item></item>
+    </string-array>
+    <string-array name="wuxingnayin">
+        <item>Sea Gold</item>
+        <item>Fire in the furnace</item>
+        <item>Large forest</item>
+        <item>Roadside soil</item>
+        <item>The sword of gold</item>
+        <item>Santouka</item>
+        <item>Tunnel water</item>
+        <item>City wall soil</item>
+        <item>Bailajin</item>
+        <item>Yangliumu</item>
+        <item>Spring water</item>
+        <item>House soil</item>
+        <item>Thunderbolt of fire</item>
+        <item>Songbaimu</item>
+        <item>Long running water</item>
+        <item>Gold in the sand</item>
+        <item>Mountain fire</item>
+        <item>Flat wood</item>
+        <item>Wall soil</item>
+        <item>Jinbojin</item>
+        <item>Buddha lights</item>
+        <item>Tianhe water</item>
+        <item>Oeki soil</item>
+        <item>Gold hairpin Bracelet</item>
+        <item>Mulberry soil</item>
+        <item>Daxi water</item>
+        <item>Sand soil</item>
+        <item>Day get angry</item>
+        <item>Hippomane mancinella</item>
+        <item>Great sea water</item>
+    </string-array>
+    <string-array name="wuxing">
+        <item>Gold</item>
+        <item>Fire</item>
+        <item>Wood</item>
+        <item>Soil</item>
+        <item>Gold</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Soil</item>
+        <item>Gold</item>
+        <item>Wood</item>
+        <item>Water</item>
+        <item>Soil</item>
+        <item>Fire</item>
+        <item>Wood</item>
+        <item>Water</item>
+        <item>Gold</item>
+        <item>Fire</item>
+        <item>Wood</item>
+        <item>Soil</item>
+        <item>Gold</item>
+        <item>Fire</item>
+        <item>Water</item>
+        <item>Soil</item>
+        <item>Gold</item>
+        <item>Soil</item>
+        <item>Water</item>
+        <item>Soil</item>
+        <item>Fire</item>
+        <item>Wood</item>
+        <item>Water</item>
+    </string-array>
+    <string-array name="xishenfangwei">
+        <item>Северо-Восток</item>
+        <item>Северо-Запад</item>
+        <item>Юго-Запад</item>
+        <item>Юг</item>
+        <item>Юго-Восток</item>
+    </string-array>
+    <string-array name="fushenfangwei">
+        <item>Юго-Восток</item>
+        <item>Восток</item>
+        <item>Север</item>
+        <item>Юг</item>
+        <item>Юго-Запад</item>
+        <item>Северо-Запад</item>
+        <item>Запад</item>
+    </string-array>
+    <string-array name="caishenfangwei">
+        <item>Северо-Восток</item>
+        <item>Юго-Запад</item>
+        <item>Север</item>
+        <item>Восток</item>
+        <item>Юг</item>
+    </string-array>
+    <string-array name="wuhou">
+        <item>Pneumatic springs</item>
+        <item>Yanbei town</item>
+        <item>Magpie nest was</item>
+        <item>Fu was Robins</item>
+        <item>Chicken breast</item>
+        <item>Severe disease</item>
+        <item>Mizusawa abdominal Kennedy</item>
+        <item>Mizusawa abdominal Kennedy</item>
+        <item>East thaw</item>
+        <item>Thoroughfare Shizhen</item>
+        <item>Fish on ice</item>
+        <item>Otters sacrifice fish</item>
+        <item>When the</item>
+        <item>Vegetation germinating</item>
+        <item>Vegetation germinating</item>
+        <item>Peach siwha</item>
+        <item>Canggengming</item>
+        <item>The eagle is Molina</item>
+        <item>To t</item>
+        <item>Thunder is sound</item>
+        <item>Before electricity</item>
+        <item>Before electricity</item>
+        <item>Tongshihua</item>
+        <item>To understand the vole</item>
+        <item>The beginning of the rainbow</item>
+        <item>Ping was born</item>
+        <item>Ming dove whisk the feather</item>
+        <item>Yu Sang Dai Shengjiang</item>
+        <item>Yu Sang Dai Shengjiang</item>
+        <item>3 Guo Ming</item>
+        <item>Earthworm out</item>
+        <item>Wangguasheng</item>
+        <item>They show</item>
+        <item>No dead grass</item>
+        <item>To the harvest</item>
+        <item>To the harvest</item>
+        <item>Mantis health</item>
+        <item>Ju Ming start</item>
+        <item>Silent tongue</item>
+        <item>Antler solution</item>
+        <item>By the beginning of Ming</item>
+        <item>Pinellia Grows</item>
+        <item>Pinellia Grows</item>
+        <item>Wen Feng to</item>
+        <item>Cricket cricket in the wall</item>
+        <item>Just like an eagle</item>
+        <item>Grass fireflies</item>
+        <item>Soil moist heat</item>
+        <item>When the heavy rain</item>
+        <item>When the heavy rain</item>
+        <item>To cool</item>
+        <item>Bailujiang</item>
+        <item>Hanchanming</item>
+        <item>The eagle is the offering of birds</item>
+        <item>Heaven and earth Su</item>
+        <item>Henaideng</item>
+        <item>Henaideng</item>
+        <item>To goose</item>
+        <item>Swallows return</item>
+        <item>A flock of shame</item>
+        <item>Thunder is the sound of</item>
+        <item>Thoroughfare blank households</item>
+        <item>The water was dry</item>
+        <item>The water was dry</item>
+        <item>Among the guests</item>
+        <item>The birds into the water for the clam</item>
+        <item>Chrysanthemum with yellow flowers</item>
+        <item>The jackal is offering a beast</item>
+        <item>Yellow and yellow vegetation</item>
+        <item>Thoroughfare salty down</item>
+        <item>Thoroughfare salty down</item>
+        <item>Water ice</item>
+        <item>Ground freezing</item>
+        <item>Pheasants into the waters for the mirage</item>
+        <item>Rainbow hide not see</item>
+        <item>The weather Teng gas reduction</item>
+        <item>Block into winter</item>
+        <item>Block into winter</item>
+        <item>He is not singing</item>
+        <item>The tiger begins to turn in</item>
+        <item>Li Ting Chu</item>
+        <item>Earthworm knot</item>
+        <item>Elk solution</item>
+        <item>Pneumatic springs</item>
+    </string-array>
+    <string-array name="yiji">
+        <item>Day old broken, event should not be</item>
+        <item>Day value is broken, the event should not be</item>
+        <item>On the date of the new moon, events should not be</item>
+        <item>The value of Yang thirteen bogey, major unfavorable</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>В беззвучном режиме</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="prefValues_alerts_vibrateWhen">
+        <item>Всегда</item>
+        <item>Без звука</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="week_strings">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item> </item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+</resources>
