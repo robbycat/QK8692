@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="incoming_call_failed_low_battery">Входящий вызов не работает из-за низкого заряда батареи.</string>
+    <string name="device_is_hd_capable">Устройство HD совместимое</string>
+    <string name="call_hold_label">Удержание вызова :</string>
+    <string name="call_resume_label">Звонок Возобновить :</string>
+    <string name="error_msg_failed">Не удалось</string>
+    <string name="error_msg_cancelled">Отменено</string>
+    <string name="error_msg_reinvite_collision">Вновь пригласить коллизия</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Детский режим</string>
+    <string name="securitycode_txt">Пароль безопасности не установлен, установите надежный пароль</string>
+    <string name="longeachuse">Время использования</string>
+    <string name="cancel">Отмена</string>
+    <string name="sure">Определить</string>
+    <string name="modedescription">В Детском режиме запрещены все уведомления, всплывающие окна, запрещается сторонним приложениям отправка SMS сообщений, чтобы предотвратить финансовые операции</string>
+    <string name="title_activity_childrenapplications">Childrenapplications</string>
+    <string name="action_settings">Настройки</string>
+    <string name="hello_world">Hello world (тест)!</string>
+    <string name="childrenapplicans_info">Вы не установили детское приложение, загрузите его</string>
+    <string name="title_activity_main">Основная деятельность</string>
+    <string name="title_activity_add_time">Добавить время</string>
+    <string name="title_activity_back">Назад</string>
+    <string name="re_covery">Восстановление</string>
+    <string name="fingername_prefix">Отпечаток пальца</string>
+    <string name="remark_mode">После включения нажмите кнопку Назад</string>
+    <string name="childrenapps">Детские приложения</string>
+    <string name="use_mobile_network">Разрешить передачу данных</string>
+    <string name="use_time">Длительность использования</string>
+    <string name="laidian_lock">Блокировка звонков</string>
+    <string name="laidian_lock_info">Вам нужно разблокировать для приема вызовов</string>
+    <string name="loadingapps">Загрузка приложения ...</string>
+    <string name="Months">" шт."</string>
+    <string name="minuite">" минут"</string>
+    <string name="Anyduration">Любая продолжительность</string>
+    <string name="loading_enter">Загрузка приложения, введите позже</string>
+    <string name="applicationnumberlimit">Выберите приложение, которое превышает максимальное число</string>
+    <string name="applicationempty">Нет выбранных приложений, перейдите к выбору приложения!</string>
+    <string name="uncheckall">Очистить</string>
+    <string name="quit_message">Вы хотите выйти?</string>
+    <string name="exit">Выход</string>
+</resources>

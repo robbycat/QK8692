@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="provider_list">
+    <item>Авто</item>
+    <item>GPS</item>
+    <item>Сеть</item>
+  </string-array>
+  <string-array name="provider_list_value">
+    <item>Авто</item>
+    <item>gps</item>
+    <item>сеть</item>
+  </string-array>
+  <string-array name="distance_list">
+    <item>1м</item>
+    <item>5м</item>
+    <item>10м</item>
+    <item>50м</item>
+    <item>100м</item>
+  </string-array>
+  <string-array name="distance_list_value">
+    <item>1</item>
+    <item>5</item>
+    <item>10</item>
+    <item>50</item>
+    <item>100</item>
+  </string-array>
+  <string-array name="google_maps">
+    <item>Нормальный</item>
+    <item>Спутник</item>
+    <item>Гибрид</item>
+  </string-array>
+  <string-array name="interval_string">
+    <item>5 секунд</item>
+    <item>10 секунд</item>
+    <item>20 секунд</item>
+    <item>30 секунд</item>
+  </string-array>
+  <string-array name="interval_value">
+    <item>5</item>
+    <item>10</item>
+    <item>20</item>
+    <item>30</item>
+  </string-array>
+  <array name="empty_values" />
+</resources>

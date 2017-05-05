@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="time">
+        <item>Не открывать</item>
+        <item>Через 10 мин.</item>
+        <item>Через 30 мин.</item>
+        <item>Через 60 мин.</item>
+        <item>Через 90 мин.</item>
+        <item>Пользовательский</item>
+    </string-array>
+    <string-array name="time_value">
+        <item>0</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+    </string-array>
+    <string-array name="mmmusic_ringtone_list_single">
+        <item>Рингтон телефона</item>
+    </string-array>
+    <string-array name="mmmusic_ringtone_list">
+        <item>SIM1 рингтон</item>
+        <item>SIM2 рингтон</item>
+    </string-array>
+    <string-array name="online_artist_liudehua">
+        <item>Энди Лау</item>
+    </string-array>
+</resources>

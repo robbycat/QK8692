@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="protect_time">
+        <item quantity="other">На защите ваших данных уже %d дн.</item>
+        <item quantity="one">На защите ваших данных уже %d дн.</item>
+    </plurals>
+</resources>

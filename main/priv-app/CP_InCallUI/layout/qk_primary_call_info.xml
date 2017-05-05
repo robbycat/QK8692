@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom|center" android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/qk_call_card" android:background="@drawable/qk_primary_call_bg" android:paddingBottom="24.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_color" android:id="@id/qk_remote_call_prompt" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hangup_remote_call" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/name_net" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="@dimen/name_text_size" android:textColor="@color/white_color" android:ellipsize="marquee" android:id="@id/qk_name" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:marqueeRepeatLimit="1" />
+            <ImageView android:id="@id/qk_mainNet" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageView android:id="@id/hdAudioIcon" android:visibility="gone" android:layout_width="16.0dip" android:layout_height="16.0dip" android:src="@drawable/ic_hd_audio" android:scaleType="centerInside" android:tint="@color/incall_call_banner_subtext_color" android:baselineAlignBottom="true" android:alpha="1.0" />
+            <ImageView android:id="@id/manageConference" android:visibility="gone" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/qk_btn_manage_conference_selector" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/qk_Number_Conference_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="4.0dip">
+            <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/qk_phoneNumber" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="horizontal" android:visibility="gone" android:id="@id/qk_append_info_layout" android:layout_width="0.0dip" android:layout_height="0.0dip">
+            <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/qk_contacts_geo" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <ImageView android:id="@id/qk_unknown_num_info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/qk_unknown_number_info" />
+            <ImageView android:id="@id/qk_telecomm_secret" android:paddingRight="8.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/qk_upperTitle" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/card_title_incoming_call" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/qk_elapsedTime" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="2.0dip" />
+            <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/qk_contacted_info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/hold_call_area" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:id="@id/holdArea" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:layout_marginTop="10.0dip" style="@style/whiteDivid1pxHeightCall" />
+            <RelativeLayout android:id="@id/holdArea_name_net" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="12.0dip">
+                <TextView android:textSize="@dimen/name_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/holdName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:maxEms="17" android:singleLine="false" android:freezesText="false" android:layout_centerHorizontal="true" />
+                <ImageView android:id="@id/holdNet" android:layout_width="28.0dip" android:layout_height="28.0dip" android:layout_marginLeft="@dimen/main_net_margin_left" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:alpha="0.6" />
+            </RelativeLayout>
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/number_margin_top">
+                <TextView android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:gravity="center_horizontal" android:id="@id/holdNumber" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerHorizontal="true" />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/number_text_size" android:textColor="@color/white_alpha70_color" android:id="@id/holdDutartion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/call_hold" android:singleLine="true" android:layout_below="@id/holdNumber" android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+        </LinearLayout>
+        <Button android:textSize="16.0sp" android:textColor="@color/white_color" android:id="@id/unfold_hold_call_btn" android:background="@drawable/qk_btn_unfold_hold_call_info_selector" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hold_call_active" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

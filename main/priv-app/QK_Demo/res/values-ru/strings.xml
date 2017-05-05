@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Демо-режим</string>
+    <string name="recovery_apps">Восстановить приложения</string>
+    <string name="no_new_version">Нет новой версии</string>
+    <string name="not_existed_string_format">%1$s не существует</string>
+    <string name="querying">Запрос...</string>
+    <string name="new_version_found">Найдена новая версия</string>
+    <string name="update">Обновление</string>
+    <string name="recover">Восстановление</string>
+    <string name="done">ОК</string>
+    <string name="recover_info">Восстановление приложений...</string>
+    <string name="recover_done_info">Восстановление приложений завершено</string>
+    <string name="play">Играть</string>
+    <string name="installShortcutsToLauncher">Добавить в демо-режим и восстановить ярлык приложения в Launcher</string>
+    <string name="uninstallShortcutsFromLauncher">Удалить ярлык демо-режима </string>
+    <string name="downloadVideo">Загрузить видео</string>
+    <string name="downloadingVideo">"Загрузка: "</string>
+    <string name="downloadingVideoWithEllipsis">Загрузка видео...</string>
+    <string name="downloadVideoCompleted">"Загрузка завершена: "</string>
+    <string name="resumeDownloadingVideo">Возобновить загрузку...</string>
+    <string name="wifi_not_connected">Wi-fi не подключен</string>
+    <string name="finish_to_replace_video_file">Завершите демонстрационный режим для замены новым видео</string>
+</resources>

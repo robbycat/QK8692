@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="effect_lomo_title">
+        <item>@string/effect_normal</item>
+        <item>@string/effect_fashion_1</item>
+        <item>@string/effect_lomo_5</item>
+        <item>@string/effect_lomo_7</item>
+        <item>@string/effect_photo_8</item>
+        <item>@string/effect_lomo_6</item>
+        <item>@string/effect_lomo_9</item>
+        <item>@string/effect_lomo_12</item>
+        <item>@string/effect_lomo_10</item>
+        <item>@string/effect_lomo_14</item>
+        <item>@string/effect_filter_54</item>
+        <item>@string/effect_lomo_0</item>
+        <item>@string/effect_fashion_4</item>
+        <item>@string/effect_fashion_6</item>
+        <item>@string/effect_lomo_13</item>
+        <item>@string/effect_filter_80</item>
+    </string-array>
+    <integer-array name="effect_lomo_render_ids">
+        <item>1</item>
+        <item>70</item>
+        <item>12</item>
+        <item>32</item>
+        <item>30</item>
+        <item>31</item>
+        <item>29</item>
+        <item>23</item>
+        <item>24</item>
+        <item>51</item>
+        <item>54</item>
+        <item>97</item>
+        <item>93</item>
+        <item>96</item>
+        <item>98</item>
+        <item>80</item>
+    </integer-array>
+    <string-array name="effect_beauty_title">
+        <item>@string/effect_photo_1</item>
+        <item>@string/effect_photo_2</item>
+        <item>@string/effect_photo_3</item>
+        <item>@string/effect_photo_4</item>
+        <item>@string/effect_photo_5</item>
+        <item>@string/effect_photo_6</item>
+        <item>@string/effect_fashion_4</item>
+        <item>@string/effect_fashion_2</item>
+        <item>@string/effect_photo_7</item>
+        <item>@string/effect_photo_8</item>
+        <item>@string/effect_photo_9</item>
+        <item>@string/effect_photo_10</item>
+        <item>@string/effect_photo_11</item>
+    </string-array>
+    <integer-array name="effect_beauty_render_ids">
+        <item>29</item>
+        <item>62</item>
+        <item>63</item>
+        <item>44</item>
+        <item>64</item>
+        <item>71</item>
+        <item>7</item>
+        <item>6</item>
+        <item>28</item>
+        <item>58</item>
+        <item>24</item>
+        <item>34</item>
+        <item>54</item>
+    </integer-array>
+    <string-array name="effect_fashion_title">
+        <item>@string/effect_fashion_0</item>
+        <item>@string/effect_fashion_1</item>
+        <item>@string/effect_fashion_2</item>
+        <item>@string/effect_fashion_3</item>
+        <item>@string/effect_fashion_5</item>
+        <item>@string/effect_fashion_6</item>
+        <item>@string/effect_fashion_7</item>
+    </string-array>
+    <integer-array name="effect_fashion_render_ids">
+        <item>99</item>
+        <item>5</item>
+        <item>30</item>
+        <item>19</item>
+        <item>21</item>
+        <item>23</item>
+        <item>31</item>
+    </integer-array>
+    <string-array name="effect_art_title">
+        <item>@string/effect_art_0</item>
+        <item>@string/effect_art_1</item>
+        <item>@string/effect_art_2</item>
+        <item>@string/effect_art_3</item>
+        <item>@string/effect_art_4</item>
+        <item>@string/effect_art_5</item>
+        <item>@string/effect_art_6</item>
+    </string-array>
+    <integer-array name="effect_art_render_ids">
+        <item>99</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>75</item>
+        <item>15</item>
+        <item>31</item>
+        <item>5</item>
+    </integer-array>
+    <string-array name="topbar_tabpage_items">
+        <item>Телефон</item>
+        <item>Облако</item>
+    </string-array>
+    <string-array name="topbar_tabpage_items_forcloud">
+        <item>Облако</item>
+    </string-array>
+    <string-array name="topbar_tabpage_items_foralbum">
+        <item>Телефон</item>
+    </string-array>
+</resources>

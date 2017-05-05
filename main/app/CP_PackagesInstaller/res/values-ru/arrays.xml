@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="av_autostart_tab_titles">
+        <item>Приложения пользователя</item>
+        <item>Системное приложение</item>
+    </string-array>
+    <string-array name="av_autostart_header_titles">
+        <item>Принятый авто запуск</item>
+        <item>Принятый авто запуск</item>
+    </string-array>
+    <string-array name="av_packagepreview_permission_item_content_lables">
+        <item>Запись и удаление SMS</item>
+        <item>Запись и удаление контактов</item>
+        <item>Запись и удаление записи вызова</item>
+        <item>Установить приложение</item>
+        <item>Отправить SMS</item>
+        <item>Получить местоположение</item>
+        <item>Получить информация об устройстве</item>
+        <item>Панель уведомлений</item>
+        <item>Получить номер телефона</item>
+        <item>Монитор телефонных звонков</item>
+        <item>Вызов</item>
+        <item>Чтение списка установленных приложений</item>
+        <item>Открыть WiFi</item>
+        <item>Открыть сетевое подключение</item>
+        <item>Открыть Bluetooth</item>
+        <item>Отправить MMS</item>
+        <item>Открыть камеру</item>
+        <item>Запись с микрофона</item>
+        <item>Чтение MMS</item>
+        <item>Разрешить использование передачу данных</item>
+        <item>Разрешить использование Wi-Fi сеть</item>
+        <item>Автоматический запуск</item>
+        <item>Применить ROOT разрешения</item>
+        <item>Применить активацию диспетчера устройств</item>
+        <item>Создать Ярлык</item>
+        <item>Добавить плавающее окно</item>
+        <item>Читать контакты</item>
+        <item>Читать запись вызова</item>
+        <item>Чтение SMS</item>
+        <item>Запись и удаление MMS</item>
+    </string-array>
+    <array name="av_packagepreview_permission_item_content_drawable_names">
+        <item>@drawable/av_permission_item_sms_record</item>
+        <item>@drawable/av_permission_item_contacts</item>
+        <item>@drawable/av_permission_item_call</item>
+        <item>@drawable/av_permission_item_app_info</item>
+        <item>@drawable/av_permission_item_sms</item>
+        <item>@drawable/av_permission_item_gps</item>
+        <item>@drawable/av_permission_item_deviceinfo</item>
+        <item>@drawable/av_permission_item_deviceinfo</item>
+        <item>@drawable/av_permission_item_number</item>
+        <item>@drawable/av_permission_item_call_monitor</item>
+        <item>@drawable/av_permission_item_call</item>
+        <item>@drawable/av_permission_item_app_info</item>
+        <item>@drawable/av_permission_item_wifi</item>
+        <item>@drawable/av_permission_item_net</item>
+        <item>@drawable/av_permission_item_bluetooth</item>
+        <item>@drawable/av_permission_item_mms</item>
+        <item>@drawable/av_permission_item_camera</item>
+        <item>@drawable/av_permission_item_sound_record</item>
+        <item>@drawable/av_permission_item_mms</item>
+        <item>@drawable/av_permission_item_net</item>
+        <item>@drawable/av_permission_item_net</item>
+        <item>@drawable/av_permission_item_deviceinfo</item>
+        <item>@drawable/av_permission_item_root</item>
+        <item>@drawable/av_permission_item_device_mgr</item>
+        <item>@drawable/av_shield_item_icon_access_shortcut</item>
+        <item>@drawable/av_shield_item_icon_access_floatwindow</item>
+        <item>@drawable/av_permission_item_contacts</item>
+        <item>@drawable/av_permission_item_call</item>
+        <item>@drawable/av_permission_item_sms</item>
+        <item>@drawable/av_permission_item_mms</item>
+    </array>
+    <string-array name="av_shield_action_name">
+        <item>Принять</item>
+        <item>Спрашивать</item>
+        <item>Запретить</item>
+    </string-array>
+    <string-array name="av_shield_action_name_for_noti_interception">
+        <item>Принять</item>
+        <item>Спрашивать</item>
+        <item>Запретить</item>
+    </string-array>
+    <string-array name="av_shield_item_purpose_desc">
+        <item>Запись или удаление SMS</item>
+        <item>Запись или удаление контакта</item>
+        <item>Запись или удаление записи о вызовах</item>
+        <item>Установка приложений</item>
+        <item>Отправка SMS</item>
+        <item>Получение местоположения</item>
+        <item>Получение информации об устройстве</item>
+        <item>Отправка уведомлений</item>
+        <item>Получение номера телефона</item>
+        <item>Запись с микрофона</item>
+        <item>Телефонный звонок напрямую</item>
+        <item>Список установленных приложений</item>
+        <item>Включение и отключение Wi-Fi</item>
+        <item>Включение и отключение сетевого подключения</item>
+        <item>Включение и отключение bluetooth</item>
+        <item>Отправка MMS</item>
+        <item>Включение камеры</item>
+        <item>Запись</item>
+        <item>Чтение MMS</item>
+        <item>Использование передачи данных</item>
+        <item>Использование Wi-Fi сети</item>
+        <item>Автоматический запуск</item>
+        <item>Безопасность приложений неизвестно, доступ к КОРНЕВОМУ центру может привести к нестабильности системы, повреждению оборудования и других серьезных проблем. Пожалуйста, используйте осторожно!</item>
+        <item>Безопасность приложений неизвестно, активации диспетчера устройств может привести к приложение не может быть нормальным, пожалуйста, используйте осторожно!</item>
+        <item>Добавление ярлыка</item>
+        <item>Добавление всплывающего окна</item>
+        <item>Чтение контактов</item>
+        <item>Чтение журнала вызовов</item>
+        <item>Чтение SMS</item>
+        <item>Запись или удаление MMS</item>
+    </string-array>
+    <string-array name="av_shield_item_name_with_action">
+        <item>Запись и удаление SMS</item>
+        <item>Запись и удаление контактов</item>
+        <item>Запись и удаление записи вызова</item>
+        <item>Установить приложение</item>
+        <item>Отправить SMS</item>
+        <item>Получить местоположение</item>
+        <item>Получить информация об устройстве</item>
+        <item>Панель уведомлений</item>
+        <item>Получить номер телефона</item>
+        <item>Монитор телефонных звонков</item>
+        <item>Вызов</item>
+        <item>Чтение списка установленных приложений</item>
+        <item>Использование WiFi</item>
+        <item>Использовать сетевое подключение</item>
+        <item>Использование Bluetooth</item>
+        <item>Отправить MMS</item>
+        <item>Использование камеры</item>
+        <item>Запись с микрофона</item>
+        <item>Чтение MMS</item>
+        <item>Использование передачи данных</item>
+        <item>Использование Wi-Fi сети</item>
+        <item>Автоматический запуск</item>
+        <item>Применить ROOT разрешения</item>
+        <item>Применить активацию диспетчера устройств</item>
+        <item>Создать Ярлык</item>
+        <item>Добавить плавающее окно</item>
+        <item>Читать контакты</item>
+        <item>Читать журнал вызова</item>
+        <item>Чтение SMS</item>
+        <item>Запись и удаление MMS</item>
+    </string-array>
+    <string-array name="av_shield_item_alertview_tip">
+        <item>Попытка записать или удалить ваш</item>
+        <item>Запись SMS</item>
+        <item>Попытка записать или удалить ваш</item>
+        <item>Контакт</item>
+        <item>Попытка записать или удалить ваш</item>
+        <item>Вызов записи</item>
+        <item>Пробовать</item>
+        <item>Установка</item>
+        <item>Пробовать</item>
+        <item>Отправить СМС</item>
+        <item>Пытается получить ваш</item>
+        <item>Местоположение</item>
+        <item>Пытается получить ваш</item>
+        <item>Информация об устройстве</item>
+        <item>Пытается отправить</item>
+        <item>Уведомление</item>
+        <item>Пытается получить ваш</item>
+        <item>Номер телефона</item>
+        <item>Пробовать</item>
+        <item>Монитор вызова</item>
+        <item>Пробовать</item>
+        <item>Телефонный звонок</item>
+        <item>Пытается получить ваш</item>
+        <item>Установленные приложения список</item>
+        <item>Пытаясь открыть</item>
+        <item>Wi-Fi</item>
+        <item>Пытаясь открыть</item>
+        <item>Сетевое подключение</item>
+        <item>Пытаясь открыть</item>
+        <item>Bluetooth</item>
+        <item>Пытается отправить</item>
+        <item>MMS</item>
+        <item>Пробовать</item>
+        <item>Открыть камеру</item>
+        <item>Пробовать</item>
+        <item>Запись</item>
+        <item>Пытается отправить</item>
+        <item>MMS</item>
+        <item>Пробовать</item>
+        <item>Подключение к сети мобильной передачи данных</item>
+        <item>Пробовать</item>
+        <item>Подключение к сети Wi-Fi</item>
+        <item>Пробовать</item>
+        <item>Read MMS</item>
+        <item>Пытается получить</item>
+        <item>ROOT Разрешение</item>
+        <item>Попробуйте деятельность</item>
+        <item>Диспетчер устройств</item>
+        <item>Создание</item>
+        <item>Вырезать</item>
+        <item>Пытается добавить</item>
+        <item>Флоат-окно</item>
+        <item>Пытается получить</item>
+        <item>Контакт</item>
+        <item>Пытается получить</item>
+        <item>Журнал вызовов</item>
+        <item>Пытается сделать</item>
+        <item>SMS</item>
+        <item>Пытается писать или удалить</item>
+        <item>MMS</item>
+    </string-array>
+    <string-array name="av_shield_eventlog_what_content">
+        <item>Запись и удаление SMS</item>
+        <item>Запись и удаление контактов</item>
+        <item>Запись и удаление записи вызова</item>
+        <item>Чтение SMS</item>
+        <item>Получить местоположение (GPS)</item>
+        <item>Получить местоположение (станция)</item>
+        <item>Получить информация об устройстве</item>
+        <item>Получить номер телефона</item>
+        <item>Установка (приложений)</item>
+        <item>Панель уведомлений</item>
+        <item>Монитор телефонных звонков</item>
+        <item>Вызов</item>
+        <item>Поддельные SMS</item>
+        <item>Чтение списка установленных приложений</item>
+        <item>Открыть WiFi</item>
+        <item>Открыть сетевое подключение</item>
+        <item>Открыть Bluetooth</item>
+        <item>Отправить MMS</item>
+        <item>Открыть камеру</item>
+        <item>Запись</item>
+        <item>Получить пользователя учетной записи</item>
+        <item>Использование передачи данных</item>
+        <item>Использование Wi-Fi сети</item>
+        <item>Читать MMS</item>
+        <item>Получить адрес Wi-Fi</item>
+        <item>Тихая установка используя USB</item>
+        <item>Тихая установка используя ROOT</item>
+        <item>UnSilence установки</item>
+        <item>Тихая установка</item>
+        <item>Активный диспетчер устройств</item>
+        <item>Разрешение ROOT запроса</item>
+        <item>UnSilence установки</item>
+        <item>Создать Ярлык</item>
+        <item>Добавить плавающее окно</item>
+        <item>Читать контакты</item>
+        <item>Читать запись вызова</item>
+        <item>Чтение SMS</item>
+        <item>Запись и удаление MMS</item>
+    </string-array>
+    <array name="av_shield_item_icon_array">
+        <item>@drawable/av_shield_item_icon_access_sms</item>
+        <item>@drawable/av_shield_item_icon_access_contact</item>
+        <item>@drawable/av_shield_item_icon_access_call_log</item>
+        <item></item>
+        <item>@drawable/av_shield_item_icon_send_sms</item>
+        <item>@drawable/av_shield_item_icon_access_location</item>
+        <item>@drawable/av_shield_item_icon_access_phoneinfo</item>
+        <item></item>
+        <item>@drawable/av_shield_item_icon_access_phone_num</item>
+        <item>@drawable/av_shield_item_icon_anti_eavesdrop</item>
+        <item>@drawable/av_shield_item_icon_call_phone</item>
+        <item>@drawable/av_shield_item_icon_get_installedapp</item>
+        <item>@drawable/av_shield_item_icon_enable_wifi</item>
+        <item>@drawable/av_shield_item_icon_enable_mobiledata</item>
+        <item>@drawable/av_shield_item_icon_enable_bluetooth</item>
+        <item>@drawable/av_shield_item_icon_access_mms</item>
+        <item>@drawable/av_shield_item_icon_open_canmera</item>
+        <item>@drawable/av_shield_item_icon_open_audio</item>
+        <item>@drawable/av_shield_item_icon_access_mms</item>
+        <item>@drawable/av_shield_item_icon_open_audio</item>
+        <item>@drawable/av_shield_item_icon_open_audio</item>
+        <item>@drawable/av_shield_item_icon_access_mms</item>
+        <item>@drawable/av_shield_item_icon_access_root</item>
+        <item>@drawable/av_shield_item_icon_access_device</item>
+        <item>@drawable/av_shield_item_icon_access_shortcut</item>
+        <item>@drawable/av_shield_item_icon_access_floatwindow</item>
+        <item>@drawable/av_shield_item_icon_access_contact</item>
+        <item>@drawable/av_shield_item_icon_access_call_log</item>
+        <item>@drawable/av_shield_item_icon_access_sms</item>
+        <item>@drawable/av_shield_item_icon_access_mms</item>
+    </array>
+    <string-array name="shield_manager_popup_menu">
+        <item>Настройка функции</item>
+        <item>Оптимизированная запись</item>
+        <item>Конфиденциальность, мониторинг записи</item>
+    </string-array>
+    <string-array name="ps_autostart_tab_titles">
+        <item>Системные приложения</item>
+        <item>Перезапустите Logging</item>
+    </string-array>
+</resources>

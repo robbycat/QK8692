@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Запись стерео</string>
+    <string name="three_dimentional_recorder">3D Video</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
+    <string name="title_activity_stereo_record">Запись стерео</string>
+    <string name="tips">Держите телефон устойчиво и не двигайтесь слишком быстро снимая видео</string>
+    <string name="camera_window_state_tips">Записывайте в альбомном режиме</string>
+</resources>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_disguise_name">
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+        <item>China Post</item>
+        <item>S.F. Express</item>
+    </string-array>
+    <string-array name="array_disguise_phone">
+        <item>10086</item>
+        <item>10010</item>
+        <item>10000</item>
+        <item>11185</item>
+        <item>95338</item>
+    </string-array>
+    <string-array name="array_entery_type">
+        <item>Отпечаток пальца</item>
+        <item>Номеронабиратель</item>
+        <item>Значок рабочего стола</item>
+    </string-array>
+    <string-array name="array_password_type">
+        <item>Графический пароль</item>
+        <item>Цифровой пароль</item>
+    </string-array>
+    <string-array name="auto_change_mode_item">
+        <item>Режим ожидания немедленно возвращается в стандартный режим</item>
+        <item>Режим ожидания 5 минут после возвращается в стандартный режим</item>
+        <item>Режим ожидания 10 минут после возвращается в стандартный режим</item>
+        <item>Режим ожидания 30 минут после возвращается в стандартный режим</item>
+    </string-array>
+    <string-array name="notice_for_use_sub_string">
+        <item>В режиме конфиденциальности вы можете управлять конфиденциальностью других приложений (например, устанавливать конфиденциальность изображений из альбома). Будьте осторожны при отключении режима конфиденциальности, так как это может привести к риску для конфиденциальной информации.</item>
+        <item>Помните, что блокировка экрана и отключение экрана являются единственными способами защитить конфиденциальность информации. В общественном месте вы можете быстро отключить экран, нажав на кнопку блокировки экрана для защиты данных.</item>
+        <item>Конфиденциальность информации можно защитить с помощью отпечатка пальца или пароля.</item>
+        <item>Можно установить пароль для защиты конфиденциальности рабочего стола. Необходимо открыть клавиатуру и ввести пароль.</item>
+        <item>Можно установить отпечаток пальца для защиты конфиденциальности рабочего стола. Используйте сканер отпечатка пальца на экране блокировки, чтобы открыть рабочий стол телефона. (только для мобильных телефонов с поддержкой функции распознавания отпечатка пальца).</item>
+        <item>Нажмите Забыли пароль? на странице подтверждения и ответьте на контрольный вопрос, установленный для аккаунта 360, чтобы восстановить пароль. Вы также можете потянуть вниз панель Настройки >Экран блокировки и пароль, чтобы перейти в раздел конфиденциальности, удалить отпечаток пальца и установить вход по паролю.</item>
+        <item>Если вы установили разблокировку по отпечатку пальца, но телефон не распознает отпечаток пальца, вы можете перейти в раздел конфиденциальности и восстановить пароль.</item>
+        <item>Система потребует задать фиктивный пароль для входя в фиктивный раздел конфиденциальности.</item>
+        <item>Вы можете войти в настоящий раздел конфиденциальности, закрыв фиктивный раздел конфиденциальности и восстановив пароль.</item>
+    </string-array>
+    <string-array name="notice_for_use_title">
+        <item>О системе конфиденциальности</item>
+        <item>Выйти из системы конфиденциальности</item>
+        <item>Скрыть систему конфиденциальности</item>
+        <item>Пароль на набор номера</item>
+        <item>Отпечаток пальца в качестве пароля</item>
+        <item>Забыли пароль?</item>
+        <item>Что делать, если отпечаток пальца не распознается</item>
+        <item>Фиктивный раздел конфиденциальности</item>
+        <item>Что делать, если вы забыли пароль от фиктивного раздела конфиденциальности?</item>
+    </string-array>
+    <string-array name="image_file_suffix">
+        <item>bmp</item>
+        <item>gif</item>
+        <item>jpeg</item>
+        <item>jpg</item>
+        <item>png</item>
+    </string-array>
+    <string-array name="video_file_suffix">
+        <item>wmv</item>
+        <item>mpg4</item>
+        <item>mpg</item>
+        <item>mpeg</item>
+        <item>mpe</item>
+        <item>mp4</item>
+        <item>3gp</item>
+        <item>asf</item>
+        <item>avi</item>
+        <item>m4u</item>
+        <item>m4v</item>
+        <item>mov</item>
+        <item>dat</item>
+        <item>rm</item>
+        <item>rmvb</item>
+        <item>flv</item>
+    </string-array>
+    <array name="audio_file_suffix" />
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="share_limit_error">
+        <item quantity="other">Вы можете разделить %d картин за один раз.</item>
+        <item quantity="one">Вы можете разделить %d картину за один раз.</item>
+    </plurals>
+    <plurals name="number_of_items_total">
+        <item quantity="other">%d пунктов всего</item>
+        <item quantity="one">%d пункт всего</item>
+    </plurals>
+    <plurals name="sequence_in_set">
+        <item quantity="other">%d пункта(ов)</item>
+        <item quantity="one">%d пункт</item>
+    </plurals>
+    <plurals name="sequence_in_set1">
+        <item quantity="other">(%d всего):</item>
+        <item quantity="one">(%d всего):</item>
+    </plurals>
+    <plurals name="rename_album_has_image">
+        <item quantity="other">Альбом уже существует и содержит %d снимков. Переместить выбранный альбом снимков в этом альбоме?</item>
+        <item quantity="one">Альбом уже существует и содержит %d снимков. Переместить выбранный альбом снимков в этот альбом?</item>
+    </plurals>
+    <plurals name="onekeyshare_result">
+        <item quantity="other">%d куски были поделены успешно одним ключом,</item>
+        <item quantity="one">%d куски были поделены успешно одним ключом,</item>
+    </plurals>
+    <plurals name="onekeyshare_result1">
+        <item quantity="other">но части %d потерпели неудачу.</item>
+        <item quantity="one">но часть %d потерпела неудачу.</item>
+    </plurals>
+    <plurals name="timeline_count">
+        <item quantity="other">%d пункт</item>
+        <item quantity="one">%d пункт</item>
+    </plurals>
+    <plurals name="albumset_picture_count">
+        <item quantity="other">%d фотографии(й)</item>
+        <item quantity="one">%d фотография</item>
+    </plurals>
+    <plurals name="albumset_video_count">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="coolcloud_pic_rec_folder_content">
+        <item quantity="other">%d фотографии,</item>
+        <item quantity="one">%d фотография,</item>
+    </plurals>
+    <plurals name="coolcloud_pic_rec_folder_content1">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="other_str">
+        <item quantity="other">%d другие папки.</item>
+        <item quantity="one">%d другая папка</item>
+    </plurals>
+    <plurals name="save_tip">
+        <item quantity="other">Нажмите кнопку ОК, чтобы сохранить выбранные изображения, а оставшиеся изображения будут удалены. Сохранить эти фотографии %d?</item>
+        <item quantity="one">Нажмите кнопку ОК, чтобы сохранить выбранные изображения, а оставшиеся изображения будут удалены. Сохранить эту фотографию %d?</item>
+    </plurals>
+    <plurals name="delete_null_album">
+        <item quantity="other">Вы уверены в удалении?</item>
+        <item quantity="one">Вы уверены в удалении?</item>
+    </plurals>
+    <plurals name="delete_selection">
+        <item quantity="other">Удалить выбранные %1$d элемента(ов)?</item>
+        <item quantity="one">Удалить выбранный %1$d элемент?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">выбрано %1$d</item>
+        <item quantity="zero">выбрано %1$d</item>
+        <item quantity="one">выбрано %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Разрешить автономный Просмотр альбома</item>
+        <item quantity="one">Разрешить автономный Просмотр альбома</item>
+    </plurals>
+</resources>

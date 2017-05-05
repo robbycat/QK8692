@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drivemode_mms_speak_type_array">
+        <item>Только название</item>
+        <item>название и содержание</item>
+    </string-array>
+    <string-array name="drivemode_weixin_speak_type_array">
+        <item>Только уведомлять</item>
+        <item>уведомлять и содержание детали</item>
+    </string-array>
+    <string-array name="drivemode_rolecn_array">
+        <item>Мандарин, женский</item>
+        <item>Мандарин, мужской</item>
+    </string-array>
+    <string-array name="drivemode_voice_action_answer">
+        <item>Ответить</item>
+    </string-array>
+    <string-array name="drivemode_voice_action_reject">
+        <item>Не поднимать</item>
+        <item>Не отвечать</item>
+        <item>Повесить трубку</item>
+    </string-array>
+    <string-array name="drivemode_incall_block_type">
+        <item>Подозреваемые в мошенничестве</item>
+        <item>Телефоные домогательства</item>
+        <item>Реклама</item>
+        <item>Агенты по недвижимости</item>
+        <item>Курьер</item>
+        <item>Финансы и страхование</item>
+        <item>Такси</item>
+        <item>Судебный исполнитель</item>
+        <item>Номер сертификата</item>
+    </string-array>
+    <string-array name="smsmms_voice_action_sms">
+        <item>Вернуться к сообщениям</item>
+        <item>Вернуться к информации</item>
+    </string-array>
+    <string-array name="smsmms_voice_action_call">
+        <item>Обратный звонок</item>
+        <item>Обратный вызов</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTheme</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">"  Настр."</string>
+    <string name="common_ok">ОК</string>
+    <string name="common_Cancel">Отмена</string>
+    <string name="common_time_to">До</string>
+    <string name="common_scheduled">Запланированные</string>
+    <string name="EyeModeAppName">Режим защиты глаз</string>
+    <string name="EyeModeDescription">Этот режим защищает глаза от вредного синего цвета</string>
+    <string name="TimerOpen">Включение по расписанию</string>
+    <string name="StartEndTime">Время начала/окончания</string>
+    <string name="EyeLevelLabel">Баланс белого</string>
+    <string name="EyeLevelDes">более высокий уровень защиты глаз</string>
+    <string name="EyeLevelLowText">Низкий</string>
+    <string name="EyeLevelMedText">Средний</string>
+    <string name="EyeLevelHighText">Высокий</string>
+    <string name="OpenImmediately">Защита глаз</string>
+    <string name="eyemode_no_remind">"Не показывать снова"</string>
+</resources>

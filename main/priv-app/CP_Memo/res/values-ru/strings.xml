@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="topbar_text_font">sans-serif-light</string>
+    <string name="note_content_font">sans-serif</string>						
+    <string name="select_all">Выбрать все</string>
+    <string name="select_nothing">Снять выбор</string>
+    <string name="batch_content">Выбрано: %1$d</string>
+    <string name="menu_delete">Удалить</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="msg_attach_detected">Эта версия не поддерживает просмотр записей. Если вы хотите использовать эту функцию, выполните вход на сайте cloud.360shouji.com.</string>
+    <string name="search">Поиск</string>
+    <string name="delete_dialog_confirm">Удалить эту заметку?</string>
+    <string name="list_no_data">Нет данных</string>
+    <string name="days">дн.</string>
+    <string name="ago">%1$d %2$s назад</string>
+    <string name="today">Сегодня</string>
+    <string name="yesterday">Вчера</string>
+    <string name="future">Будущее</string>
+    <string name="error_title">Не удается создать изображение</string>
+    <string name="note_context_max_length_error_title">Не удается добавить контент</string>
+    <string name="note_context_max_length_error_message">Извините, в результате этой операции количество символов в заметке превысит лимит.</string>
+    <string name="dialog_call">Вызов</string>
+    <string name="dialog_send_message">Отправить сообщение</string>
+    <string name="dialog_add_contact">Добавить в контакты</string>
+    <string name="dialog_send_mail">Отправить по эл. почте</string>
+    <string name="dialog_add_mail_contact">Добавить адрес эл. почты в контакты</string>
+    <string name="share_dialog_send_method">Задачи</string>
+    <string name="menu_img_source">Выбрать изображение</string>
+    <string name="choose_picture_go_gallery">Выбрать изображение</string>
+    <string name="choose_picture_go_camera">Сделать снимок</string>
+    <string name="choose_picture_go_graffiti">Граффити</string>
+    <string name="image_note">Заметка к изображению</string>
+    <string name="querying_contacts">Поиск контактов...</string>
+    <string name="dialog_view_contact">Просмотреть контакт</string>
+    <string name="sdcard_size_too_small">Недостаточно места на диске</string>
+    <string name="missing_app">Приложения не найдены</string>
+    <string name="cannot_add_video">Видеофайл не поддерживается.</string>
+    <string name="cannot_add_audio">Аудиофайл не поддерживается</string>
+    <string name="storage_warning_title">Память заполнена, редактирование недоступно.</string>
+    <string name="share_by_img">Поделиться фото</string>
+    <string name="share_by_txt">Поделиться исходным текстом</string>
+    <string name="create_desk_shortcut">Создать ярлык на рабочем столе</string>
+    <string name="progress_waiting">Обработка...</string>
+    <string name="memo_security_hint_title">Приветствие Qiku Заметки</string>
+    <string name="memo_security_hint_content">У данного приложения будет доступ к вашим контактам во время синхронизации списка контактов, к вашему метаположению при использовании служб определения местоположения, также оно будет использовать передачу данных. Подробнее об особенностях оплаты можно узнать у вашего оператора связи. Qiku не допустит утечки ваших персональных данных.</string>
+    <string name="secrity_show_dialog">Не напоминать в следующий раз</string>
+    <string name="denied_required_permission">Нет прав доступа. Вы можете изменить их в меню Настройки > Приложения.</string>
+    <string name="app_name">Заметки</string>
+    <string name="preset_tip_1_basic">"Основные функции
+1.\u0009Создать заметку
+Находясь в списке заметок нажмите кнопку в правом нижнем углу экрана.
+2.\u0009Редактировать заметку
+Откройте заметку и нажмите в любом месте текста.
+3.\u0009Добавить/удалить изображение
+Во время создания иллюстрации нажмите кнопку со значком изображения в правом верхнем углу экрана. &lt;img w=1000 h=800 alt= src=tip.png>В случае необходимости добавленное изображение можно удалить. Для этого нажмите на него, в затем на значек корзины, который появится в левом верхнем углу изображения.
+4.\u0009Удалить заметку
+Чтобы войти в режим удаления заметок нажмите и удерживайте одну из них находясь в списке заметок. Выберите заметки который нужно удалить и нажмите кнопку со значком корзины в нижней части экрана.
+5.\u0009ContentАвтоматическое распознавание
+Телефонные номера, адрес электронной почты и веб-адрес в содержании заметки могут быть автоматически распознаны. Вы можете щелкнуть на узнанной информации на странице Подробные сведения, чтобы перейти на страницу связанной функции."</string>	
+    <string name="preset_tip_2_sync">"Синхронизация заметок
+Нажмите на значек облака в правом верхнем углу и вы сможете синхронизировать локальные заметки в облако 360. Просмотр и управление данными в аккаунте %1$s."</string>
+    <string name="preset_tip_3_share">"Отправка заметок в виде изображений.
+Вы можете отправлять заметки в другие приложения в виде изображений. Для этого откройте заметку, нажмите кнопку в верхнем правом углу экрана и выберите пункт \"В виде изображения\"."</string>
+</resources>

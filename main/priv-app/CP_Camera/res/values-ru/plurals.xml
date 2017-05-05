@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">выбрано %1$d</item>
+        <item quantity="zero">выбрано %1$d</item>
+        <item quantity="one">выбрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">выбрано %1$d</item>
+        <item quantity="zero">выбрано %1$d</item>
+        <item quantity="one">выбрано %1$d</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">выбрано %1$d</item>
+        <item quantity="zero">выбрано %1$d</item>
+        <item quantity="one">выбрано %1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Разрешить автономный просмотр альбома</item>
+        <item quantity="one">Разрешить автономный просмотр альбома</item>
+    </plurals>
+    <plurals name="number_of_photos">
+        <item quantity="other">%1$d фотографий</item>
+        <item quantity="one">%1$d фото</item>
+    </plurals>
+</resources>

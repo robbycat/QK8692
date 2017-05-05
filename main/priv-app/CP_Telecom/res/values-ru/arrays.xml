@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="qk_qiku_block_type">
+        <item>Мошеннические телефонные вызовы</item>
+        <item>Навязчивые телефонные вызовы</item>
+        <item>Реклама/продажи</item>
+        <item>Агенты по недвижимости</item>
+        <item>Экспресс-доставка</item>
+        <item>Страхование и финансы</item>
+        <item>Такси</item>
+        <item>Агенты по подбору персонала</item>
+        <item>Идентификационный номер</item>
+    </string-array>
+</resources>

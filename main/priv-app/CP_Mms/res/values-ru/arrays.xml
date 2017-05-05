@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="polyphone_cities">
+        <item>Чанчунь | Чан Чун</item>
+        <item>Чанша | Чан Ша</item>
+        <item>Сянтань, Чанша/Zhuzhou Сянтань, Zhuzhou | Чан Ша /</item>
+        <item>Чанчжи | Чан Чжи</item>
+        <item>Чунцин | Чун Цин</item>
+        <item>Шэньян | Шен Ян</item>
+        <item>Xiamen |</item>
+    </string-array>
+    <string-array name="system_group_name">
+        <item>Телефонные контакты</item>
+        <item>Личное</item>
+        <item>Сервисный номер</item>
+        <item>Не группировать</item>
+        <item>Не группированные</item>
+    </string-array>
+    <string-array name="people_week_strings">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="people_weeks_string">
+        <item> </item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="people_contact_emergency_array">
+        <item>Мать</item>
+        <item>Отец</item>
+        <item>Родители</item>
+        <item>Брат</item>
+        <item>Сестра</item>
+        <item>Дети</item>
+        <item>Друг</item>
+        <item>Супруга</item>
+        <item>Партнер</item>
+        <item>Ассистент</item>
+        <item>Босс</item>
+        <item>Доктор</item>
+        <item>Пользовательские</item>
+    </string-array>
+    <integer-array name="phone_type_label">
+        <item>2</item>
+        <item>1</item>
+    </integer-array>
+    <string-array name="smsmms_default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="smsmms_default_smiley_names">
+        <item>Радостный</item>
+        <item>Грустный</item>
+        <item>Подмигивает</item>
+        <item>Показывает язык</item>
+        <item>Удивлен</item>
+        <item>Поцелуй</item>
+        <item>Кричит</item>
+        <item>Крутой</item>
+        <item>Не болтай попусту</item>
+        <item>В замешательстве</item>
+        <item>Смущенный</item>
+        <item>Ангел</item>
+        <item>Нерешительный</item>
+        <item>Плачет</item>
+        <item>Не скажу</item>
+        <item>Смеется</item>
+        <item>Озадаченный</item>
+        <item>Сердце</item>
+        <item>Злой</item>
+        <item>Ухмыляется</item>
+        <item>Невозмутимый</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_download_retry_times">
+        <item>0 раз</item>
+        <item>1 раз</item>
+        <item>2 раза</item>
+        <item>3 раза</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_validate_gsm">
+        <item>1 час</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+        <item>Долгий</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_validate_cdma">
+        <item>1 час</item>
+        <item>2 дня</item>
+        <item>1 неделя</item>
+        <item>Определенный операторами</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_send_time">
+        <item>Мгновенно</item>
+        <item>1 час</item>
+        <item>8 часов</item>
+        <item>Долгий</item>
+    </string-array>
+    <string-array name="smsmms_array_mms_prior">
+        <item>Низкий</item>
+        <item>Средний</item>
+        <item>Высокий</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_store">
+        <item>Входящие</item>
+        <item>Карта</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_validate">
+        <item>1 час</item>
+        <item>6 часов</item>
+        <item>12 часов</item>
+        <item>1 день</item>
+        <item>1 неделя</item>
+        <item>Долгий</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_prior">
+        <item>Нормальный</item>
+        <item>Общий</item>
+        <item>Предварительный</item>
+        <item>Срочный</item>
+    </string-array>
+    <string-array name="smsmms_array_sms_setting_mode">
+        <item>Режим папки</item>
+        <item>Режим чата</item>
+    </string-array>
+    <string-array name="smsmms_array_send_network_cdma">
+        <item>Ручной выбор</item>
+        <item>Ответные сообщения по сети</item>
+        <item>Всегда отправлять сообщения на Карту 1</item>
+        <item>Всегда отправлять сообщения на Карту 2</item>
+    </string-array>
+    <string-array name="smsmms_array_send_network_gsm">
+        <item>Ручной выбор</item>
+        <item>Ответные сообщения по сети</item>
+        <item>Всегда отправлять сообщения на Карту 1</item>
+        <item>Всегда отправлять сообщения на Карту 2</item>
+    </string-array>
+    <string-array name="week_strings">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item> </item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <integer-array name="BASIC_FONT_SIZE_ARRAY">
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </integer-array>
+    <string-array name="smsmms_prefEntries_vibrateWhen">
+        <item>Всегда</item>
+        <item>Только когда тихо</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="smsmms_prefValues_vibrateWhen">
+        <item>Всегда</item>
+        <item>Тихо</item>
+        <item>Никогда</item>
+    </string-array>
+</resources>

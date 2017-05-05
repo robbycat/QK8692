@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="noti_caption_unsuccessful">
+        <item quantity="other">%1$d неудачно.</item>
+        <item quantity="one">%1$d неудачно.</item>
+    </plurals>
+    <plurals name="noti_caption_success">
+        <item quantity="other">%1$d удачно, %2$s</item>
+        <item quantity="one">%1$d удачно, %2$s</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Теперь вы на %1$d шагов от разработчика.</item>
+        <item quantity="one">Теперь вы на %1$d шага от разработчика.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Пароль должен содержать не менее %d букв.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 буквы.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Пароль должен содержать не менее %d строчных букв.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 строчную букву.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Пароль должен содержать не менее %d букв в верхнем регистре.</item>
+        <item quantity="one">Пароль должен содержать хотя бы одну букву в верхнем регистре.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Пароль должен содержать не менее %d цифр.</item>
+        <item quantity="one">Пароль должен содержать не менее 1 цифры.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Пароль должен содержать не менее %d специальных символов.</item>
+        <item quantity="one">Пароль должен содержать как минимум 1 специальный символ.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Пароль должен содержать не менее %d не буквенных символов.</item>
+        <item quantity="one">Пароль должен содержать как минимум один не буквенный символ.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Неверный PIN-код SIM, у вас осталось %d попыток.</item>
+        <item quantity="one">Неверный PIN-код SIM-карты, у вас осталось %d попытки, прежде чем вы должны связаться со своим оператором, чтобы разблокировать ваше устройство.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">Приложения %d могут читать уведомления</item>
+        <item quantity="one">Приложение %d могут читать уведомления</item>
+    </plurals>
+    <plurals name="manage_condition_providers_summary_nonzero">
+        <item quantity="other">Приложения %d обеспечивают условия</item>
+        <item quantity="one">Приложение %d обеспечивает условия</item>
+    </plurals>
+</resources>

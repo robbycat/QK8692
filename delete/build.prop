@@ -29,7 +29,9 @@ ro.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
 ro.product.cpu.abilist32=armeabi-v7a,armeabi
 ro.product.cpu.abilist64=arm64-v8a
 ro.product.manufacturer=QiKU
-ro.product.locale=zh-CN
+ro.product.locale=en-US
+ro.product.locale.language=ru
+ro.product.locale.region=RU
 ro.wifi.channels=
 ro.board.platform=msm8992
 # ro.build.product is obsolete; use ro.product.device
@@ -237,8 +239,8 @@ ro.hwui.text_large_cache_width=2048
 ro.hwui.text_large_cache_height=1024
 
 #define language and country
-persist.sys.language=zh
-persist.sys.country=CN
+persist.sys.language=ru
+persist.sys.country=RU
 
 
 # enable navigation bar
@@ -337,7 +339,7 @@ ro.config.calculagraph_alert=Calculagraph.ogg
 ro.qiku.version.tag=LC
 ro.qiku.sales.channel=0
 ro.config.copytosdcard=1
-persist.sys.timezone=Asia/Shanghai
+persist.sys.timezone=Asia/Almaty
 persist.qiku.ctstest=0
 persist.tegra.default_layout=pitch
 persist.service.logr.path=/sdcard/log

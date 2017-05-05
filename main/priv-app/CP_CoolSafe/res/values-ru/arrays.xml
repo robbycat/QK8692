@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="intent_action">
+        <item>android.intent.action.USER_PRESENT</item>
+        <item>android.intent.action.SCREEN_OFF</item>
+        <item>android.intent.action.SCREEN_ON</item>
+        <item>android.intent.action.TIME_SET</item>
+        <item>android.intent.action.DATE_CHANGED</item>
+        <item>android.intent.action.TIMEZONE_CHANGED</item>
+        <item>android.intent.action.CLEAR_DNS_CACHE</item>
+        <item>android.intent.action.ALARM_CHANGED</item>
+        <item>android.intent.action.BOOT_COMPLETED</item>
+        <item>android.intent.action.PACKAGE_INSTALL</item>
+        <item>android.intent.action.PACKAGE_ADDED</item>
+        <item>android.intent.action.PACKAGE_REPLACED</item>
+        <item>android.intent.action.PACKAGE_REMOVED</item>
+        <item>android.intent.action.MY_PACKAGE_REPLACED</item>
+        <item>android.intent.action.PACKAGE_FULLY_REMOVED</item>
+        <item>android.intent.action.WALLPAPER_CHANGED</item>
+        <item>android.intent.action.LOCALE_CHANGED</item>
+        <item>android.intent.action.BATTERY_CHANGED</item>
+        <item>android.intent.action.BATTERY_LOW</item>
+        <item>android.intent.action.BATTERY_OKAY</item>
+        <item>android.intent.action.ACTION_POWER_CONNECTED</item>
+        <item>android.intent.action.ACTION_POWER_DISCONNECTED</item>
+        <item>android.intent.action.DEVICE_STORAGE_FULL</item>
+        <item>android.intent.action.PRE_BOOT_COMPLETED</item>
+        <item>android.intent.action.AIRPLANE_MODE</item>
+        <item>android.net.conn.CONNECTIVITY_CHANGE</item>
+        <item>android.media.AudioManager.ACTION_HEADSET_PLUG</item>
+        <item>android.intent.action.INPUT_METHOD_CHANGED</item>
+        <item>android.intent.action.MEDIA_CHECKING</item>
+        <item>android.intent.action.MEDIA_EJECT</item>
+        <item>android.intent.action.MEDIA_MOUNTED</item>
+        <item>android.intent.action.MEDIA_REMOVED</item>
+        <item>android.intent.action.PHONE_STATE</item>
+        <item>android.intent.action.NEW_OUTGOING_CALL</item>
+        <item>android.intent.action.MEDIA_SCANNER_STARTED</item>
+        <item>android.intent.action.MEDIA_SCANNER_FINISHED</item>
+        <item>android.bluetooth.adapter.action.STATE_CHANGED</item>
+    </string-array>
+    <string-array name="intent_info">
+        <item>.Разблокировать экран</item>
+        <item>.Выключение экрана</item>
+        <item>.Включение экрана</item>
+        <item>.Изменять время</item>
+        <item>.Изменять дату</item>
+        <item>.Изменять часовой пояс</item>
+        <item>.Изменять DNS</item>
+        <item>.Изменять будильник</item>
+        <item>.Загрузка завершена</item>
+        <item>.Скачать и установка АПК</item>
+        <item>.При установке APK</item>
+        <item>.APK обновления</item>
+        <item>.АПК при удалении</item>
+        <item>.Замена АПК</item>
+        <item>.АПК полностью удалена</item>
+        <item>.Обои для рабочего стола изменения</item>
+        <item>.При изменении языка</item>
+        <item>.Замены батареи</item>
+        <item>.Когда низкая батарея</item>
+        <item>.Батарея полностью</item>
+        <item>.Во время внешнего питания</item>
+        <item>.Когда внешний блок питания отключен</item>
+        <item>.При хранении полной</item>
+        <item>.Открытые машины</item>
+        <item>.Переключить режим полета</item>
+        <item>.Изменения сетевого подключения</item>
+        <item>.При подключении в ухо</item>
+        <item>.При изменении IME</item>
+        <item>.При вставке карты SD</item>
+        <item>.При удалении SD-карты</item>
+        <item>.Когда вы вставьте SD-карту и установить полный</item>
+        <item>.Извлеките SD-карту после удаления</item>
+        <item>.Изменения состояния вызова</item>
+        <item>.Новые исходящие звонки</item>
+        <item>.При сканировании каталог</item>
+        <item>.Проверка каталога завершена</item>
+        <item>.Когда модуль Bluetooth будет включен или выключен</item>
+    </string-array>
+    <string-array name="heatsource_array_igoreprocess">
+        <item>init</item>
+        <item>ueventd</item>
+        <item>servicemanager</item>
+        <item>rild</item>
+        <item>zygote</item>
+        <item>zygote64</item>
+        <item>dex2oat</item>
+        <item>qmuxd</item>
+        <item>system_server</item>
+        <item>surfaceflinger</item>
+        <item>mediaserver</item>
+        <item>com.qiku.configcenter</item>
+        <item>com.yulong.android.coolsafe</item>
+        <item>android</item>
+        <item>com.yulong.android.launcher3</item>
+        <item>com.android.systemui</item>
+        <item>com.android.sc</item>
+    </string-array>
+    <string-array name="heatsource_array_shownokill">
+        <item>mm-qcamera-daemon</item>
+    </string-array>
+    <string-array name="heatsource_show_systemapp">
+        <item>com.qiku.gamecenter</item>
+        <item>com.yulong.gamecenter</item>
+        <item>com.yulong.android.settings</item>
+        <item>com.qihoo360.transfer</item>
+        <item>com.qihoo360.mobilesafe</item>
+        <item>com.qihoo.browser</item>
+        <item>com.qiku.bbs</item>
+        <item>com.android.bluetooth</item>
+        <item>com.yulong.android.soundrecorder</item>
+        <item>com.yulong.android.gpsview</item>
+        <item>com.android.providers.contacts</item>
+        <item>com.android.phone</item>
+        <item>com.android.wallpaper</item>
+        <item>com.android.settings.wifi</item>
+        <item>com.android.settings.bluetooth</item>
+        <item>com.qihoo.appstore</item>
+        <item>com.yulong.android.videoplayer</item>
+        <item>com.android.externalstorage</item>
+        <item>com.yulong.android.ota</item>
+        <item>com.android.htmlviewer</item>
+        <item>com.yulong.android.coolshop</item>
+        <item>com.yulong.android.coolshow</item>
+        <item>com.qiku.logsystem</item>
+        <item>com.yulong.logsystem</item>
+        <item>com.android.yulong.gmsupdate</item>
+        <item>com.android.qikupay.apk</item>
+        <item>com.yulong.android.calendar</item>
+        <item>com.qiku.android.engmode</item>
+        <item>com.yulong.android.engmode</item>
+        <item>com.qiku.android.cloudsync</item>
+        <item>com.android.dialer</item>
+        <item>com.android.mms</item>
+        <item>com.qiku.healthguard</item>
+        <item>com.android.camera</item>
+        <item>com.mediatek.mtklogger</item>
+        <item>com.android.gallery3d</item>
+        <item>com.yulong.android.xtime</item>
+    </string-array>
+    <string-array name="heatsource_convert_app">
+        <item>mm-qcamera-daemon=Обслуживание камеры</item>
+    </string-array>
+    <string-array name="security_question_items">
+        <item>Начальная школа</item>
+        <item>Высшая школа</item>
+        <item>Колледж</item>
+        <item>Любимый вид спорта</item>
+        <item>Произвольный вопрос</item>
+    </string-array>
+    <string-array name="security_relate_pass_find_items">
+        <item>Номер телефона родственника</item>
+        <item>Подсказка для пароля</item>
+    </string-array>
+    <string-array name="security_array_savepower_forbitalarms">
+        <item>com.google.android.gms</item>
+        <item>com.google.android.gsf</item>
+        <item>com.android.keyguard</item>
+        <item>com.android.cooperation</item>
+        <item>com.amap.android.location</item>
+        <item>com.yulong.android.network.widget</item>
+        <item>com.yulong.ttwindow</item>
+        <item>com.yulong.android.coolmart</item>
+        <item>com.yulong.android.backup</item>
+        <item>com.yulong.android.coolmartnew</item>
+        <item>com.yulong.android.ota</item>
+        <item>com.qihoo.appstore</item>
+        <item>com.alipay.security.mobile.authenticator</item>
+        <item>com.eg.android.AlipayGphone</item>
+        <item>com.icoolme.android.weather</item>
+        <item>com.icoolme.android.upgrade</item>
+        <item>com.icoolme.android.sharephoto</item>
+        <item>com.yulong.android.register</item>
+        <item>com.qiku.freecall</item>
+    </string-array>
+    <string-array name="security_array_savepower_whitealarm">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.immomo.momo</item>
+        <item>com.whatsapp</item>
+        <item>im.yixin</item>
+        <item>com.sec.chaton</item>
+        <item>com.hexin.plat.android</item>
+        <item>com.android.dazhihui</item>
+        <item>com.guosen.android</item>
+        <item>com.niuguwang.stock</item>
+        <item>com.imfclub.stock</item>
+        <item>wind.android</item>
+        <item>com.eastmoney.android.berlin</item>
+        <item>cn.emoney.level2</item>
+        <item>gf.king.app</item>
+        <item>com.cmschina</item>
+        <item>cn.etouch.ecalendar</item>
+        <item>com.when.coco</item>
+        <item>com.youloft.calendar</item>
+        <item>com.octinn.birthdayplus</item>
+        <item>com.keenvim.cnCalendar</item>
+        <item>com.lenovo.calendar</item>
+        <item>com.zdworks.android.zdcalendar</item>
+        <item>oms.mmc.app.almanac_inland</item>
+        <item>com.google.android.calendar</item>
+        <item>com.zdworks.android.zdclock</item>
+        <item>com.jianjian.clock.activity</item>
+        <item>org.woodroid.alarmlady</item>
+        <item>com.sugeun.stopwatch</item>
+        <item>com.leixun.nvshen</item>
+        <item>com.secretlisa.sleep</item>
+        <item>com.lhs.speakclock</item>
+        <item>com.elinasoft.alarmclock</item>
+        <item>com.tiantian.ttclock</item>
+        <item>com.youan.alarm</item>
+        <item>com.tencent.androidqqmail</item>
+        <item>com.google.android.gm</item>
+        <item>com.asiainfo.android</item>
+        <item>com.corp21cn.mail189</item>
+        <item>u0 cn.cj.pe</item>
+        <item>com.netease.mobimail</item>
+        <item>com.netease.mail</item>
+    </string-array>
+    <string-array name="security_array_savepower_mustwhitealarm">
+        <item>com.hexin.plat.android</item>
+        <item>com.android.dazhihui</item>
+        <item>com.guosen.android</item>
+        <item>com.niuguwang.stock</item>
+        <item>com.imfclub.stock</item>
+        <item>wind.android</item>
+        <item>com.eastmoney.android.berlin</item>
+        <item>cn.emoney.level2</item>
+        <item>gf.king.app</item>
+        <item>com.cmschina</item>
+        <item>cn.etouch.ecalendar</item>
+        <item>com.when.coco</item>
+        <item>com.youloft.calendar</item>
+        <item>com.octinn.birthdayplus</item>
+        <item>com.keenvim.cnCalendar</item>
+        <item>com.lenovo.calendar</item>
+        <item>com.zdworks.android.zdcalendar</item>
+        <item>oms.mmc.app.almanac_inland</item>
+        <item>com.google.android.calendar</item>
+        <item>com.zdworks.android.zdclock</item>
+        <item>com.jianjian.clock.activity</item>
+        <item>org.woodroid.alarmlady</item>
+        <item>com.sugeun.stopwatch</item>
+        <item>com.leixun.nvshen</item>
+        <item>com.secretlisa.sleep</item>
+        <item>com.lhs.speakclock</item>
+        <item>com.elinasoft.alarmclock</item>
+        <item>com.tiantian.ttclock</item>
+        <item>com.youan.alarm</item>
+        <item>com.tencent.androidqqmail</item>
+        <item>com.google.android.gm</item>
+        <item>com.asiainfo.android</item>
+        <item>com.corp21cn.mail189</item>
+        <item>com.netease.mobimail</item>
+        <item>com.netease.mail</item>
+        <item>com.yulong.android.delcom</item>
+        <item>com.wind.windruntimetest</item>
+    </string-array>
+    <string-array name="security_array_savepower_mustwhitealarm_intelligence">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.whatsapp</item>
+        <item>com.hexin.plat.android</item>
+        <item>com.android.dazhihui</item>
+        <item>com.guosen.android</item>
+        <item>com.niuguwang.stock</item>
+        <item>com.imfclub.stock</item>
+        <item>wind.android</item>
+        <item>com.eastmoney.android.berlin</item>
+        <item>cn.emoney.level2</item>
+        <item>gf.king.app</item>
+        <item>com.cmschina</item>
+        <item>cn.etouch.ecalendar</item>
+        <item>com.when.coco</item>
+        <item>com.youloft.calendar</item>
+        <item>com.octinn.birthdayplus</item>
+        <item>com.keenvim.cnCalendar</item>
+        <item>com.lenovo.calendar</item>
+        <item>com.zdworks.android.zdcalendar</item>
+        <item>oms.mmc.app.almanac_inland</item>
+        <item>com.google.android.calendar</item>
+        <item>com.zdworks.android.zdclock</item>
+        <item>com.jianjian.clock.activity</item>
+        <item>org.woodroid.alarmlady</item>
+        <item>com.sugeun.stopwatch</item>
+        <item>com.leixun.nvshen</item>
+        <item>com.secretlisa.sleep</item>
+        <item>com.lhs.speakclock</item>
+        <item>com.elinasoft.alarmclock</item>
+        <item>com.tiantian.ttclock</item>
+        <item>com.youan.alarm</item>
+        <item>com.tencent.androidqqmail</item>
+        <item>com.google.android.gm</item>
+        <item>com.asiainfo.android</item>
+        <item>com.corp21cn.mail189</item>
+        <item>com.netease.mobimail</item>
+        <item>com.netease.mail</item>
+        <item>com.yulong.android.delcom</item>
+        <item>com.wind.windruntimetest</item>
+    </string-array>
+    <string-array name="security_savepower_doze_initiallist">
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.whatsapp</item>
+    </string-array>
+    <string-array name="security_autorun_notdisplayed_whitelist">
+        <item>com.besttone.exchange2</item>
+        <item>cn.eshore.btsp.android</item>
+        <item>com.xdja.safeclient</item>
+        <item>com.xdja.jwt</item>
+        <item>com.mobiletools.systemhelper</item>
+        <item>com.yulong.android.seccenter</item>
+        <item>com.yulong.android.softmanager</item>
+        <item>com.yulong.android.savepowermanager</item>
+        <item>com.yulong.android.blacklist</item>
+        <item>com.yulong.android.ota</item>
+        <item>com.yulong.android.calendar</item>
+        <item>com.yulong.android.xtime</item>
+        <item>com.android.settings.wifi</item>
+        <item>com.yulong.android.secclearmaster</item>
+        <item>com.mobiletools.systemhelper</item>
+        <item>com.yulong.android.coolyou</item>
+        <item>com.xdja.safeclient</item>
+        <item>com.yulong.android.security</item>
+        <item>com.android.settings</item>
+        <item>cn.ingenic.indroidsync</item>
+        <item>com.redbend.notifications</item>
+        <item>com.yulong.android.settings</item>
+    </string-array>
+    <string-array name="security_uninstall_system_app_whitelist">
+        <item>com.redbend.notifications</item>
+        <item>com.yulong.android.dev.gcoption</item>
+    </string-array>
+    <string-array name="security_notkilled_whitelist">
+        <item>com.yulong.android.weatherwidget:remote</item>
+        <item>com.icoolme.android.weather:widget</item>
+        <item>com.android.providers.media</item>
+        <item>com.yulong.android.contacts</item>
+        <item>com.android.cooperation:push</item>
+        <item>com.android.screenrecord</item>
+        <item>com.yulong.ttwindow</item>
+        <item>com.qihoo360.mobilesafe</item>
+        <item>com.qihoo.antivirus</item>
+        <item>com.baidu.searchbox</item>
+        <item>com.android.systemui</item>
+        <item>com.whatsapp</item>
+    </string-array>
+    <string-array name="security_notkilled_and_notdisplayed_whitelist">
+        <item>com.android.defcontainer</item>
+        <item>com.yulong.android.seccenter</item>
+        <item>com.redbend.bluetooth</item>
+        <item>com.redbend.intentservice</item>
+        <item>com.redbend.client</item>
+        <item>com.redbend.vlm.vwifi</item>
+        <item>com.redbend.notifications</item>
+        <item>com.android.incallui</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.yulong.android.contacts.dial</item>
+        <item>com.yulong.android.agedlauncher</item>
+        <item>android</item>
+    </string-array>
+    <string-array name="security_super_savedpower_notkilled_whitelist">
+        <item>com.yulong.android.seccenter</item>
+        <item>com.yulong.android.softmanager</item>
+        <item>com.yulong.android.savepowermanager</item>
+        <item>com.yulong.android.blacklist</item>
+        <item>com.yulong.android.launcher3</item>
+        <item>com.yulong.android.xtime</item>
+        <item>com.yulong.android.xtimewidget</item>
+        <item>com.yulong.android.calendar</item>
+        <item>com.android.providers.calendar</item>
+        <item>com.android.systemui</item>
+        <item>com.yulong.android.dev.gcoption</item>
+        <item>com.yulong.android.dev.gcoption:remote</item>
+        <item>com.android.settings.wifi</item>
+        <item>com.yulong.android.settings</item>
+        <item>com.android.settings</item>
+        <item>com.android.bluetooth</item>
+        <item>com.yulong.logredirect</item>
+        <item>com.yulong.android.mwstarter</item>
+        <item>com.android.defcontainer</item>
+        <item>com.android.flashlight</item>
+        <item>com.yulong.android.cbutton</item>
+        <item>cn.ingenic.indroidsync</item>
+        <item>com.yulong.carmode</item>
+        <item>com.redbend.bluetooth</item>
+        <item>com.redbend.intentservice</item>
+        <item>com.redbend.client</item>
+        <item>com.redbend.vlm.vwifi</item>
+        <item>com.redbend.notifications</item>
+        <item>com.yulong.android.ota</item>
+        <item>com.yulong.android.contacts.dial</item>
+        <item>com.quicinc.fmradio</item>
+        <item>com.android.mms</item>
+        <item>com.android.contacts</item>
+        <item>com.yulong.android.contacts</item>
+        <item>com.android.incallui</item>
+        <item>com.yulong.ttwindow</item>
+        <item>com.icoolme.android.weather</item>
+    </string-array>
+    <string-array name="security_boot_forbidrun_applist">
+        <item>cn.com.wo</item>
+        <item>com.infinit.wostore.ui</item>
+        <item>com.neusoft.td.android.wo116114</item>
+        <item>com.sinovatech.unicom.ui</item>
+    </string-array>
+    <string-array name="security_boot_run_applist">
+        <item>com.anguanjia.security</item>
+        <item>com.baidu.searchbox</item>
+        <item>com.whatsapp</item>
+    </string-array>
+    <string-array name="security_autorun_applist">
+        <item>com.qihoo360.mobilesafe</item>
+        <item>com.qihoo.antivirus</item>
+        <item>com.baidu.searchbox</item>
+    </string-array>
+    <string-array name="security_autorun_displayed_whitelist">
+        <item>com.icoolme.android.weather</item>
+        <item>android.tests.devicesetup</item>
+        <item>com.android.cts.permissiondeclareapp</item>
+        <item>com.android.cts.permissiondeclareappcompat</item>
+        <item>com.android.cts.usespermissiondiffcertapp</item>
+        <item>com.whatsapp</item>
+    </string-array>
+    <integer-array name="SECURITY_BASIC_FONT_SIZE_ARRAY">
+        <item>24</item>
+        <item>20</item>
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+    </integer-array>
+    <string-array name="week_strings">
+        <item>Вс</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item>" "</item>
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Thur</item>
+        <item>Пт</item>
+        <item>Вс</item>
+    </string-array>
+    <string-array name="fb_city">
+        <item>Пекин</item>
+        <item>Тяньцзинь</item>
+        <item>Хэбэй</item>
+        <item>Шаньси</item>
+        <item>Внутренняя Монголия</item>
+        <item>Ляонин</item>
+        <item>Цзилинь</item>
+        <item>Хэйлунцзян</item>
+        <item>Шанхай</item>
+        <item>Провинция Цзянсу</item>
+        <item>Чжэцзян</item>
+        <item>Аньхой</item>
+        <item>Фуцзянь</item>
+        <item>В провинции Цзянси</item>
+        <item>Шаньдун</item>
+        <item>Хэнань</item>
+        <item>Хубэй</item>
+        <item>Хунань</item>
+        <item>Гуандун</item>
+        <item>В Гуанси</item>
+        <item>Хайнань</item>
+        <item>Чунцин</item>
+        <item>Сычуань</item>
+        <item>В провинции Гуйчжоу</item>
+        <item>Юньнань</item>
+        <item>Тибет</item>
+        <item>Шэньси</item>
+        <item>В провинции Ганьсу</item>
+        <item>В провинции Цинхай</item>
+        <item>Нинся-Хуэйский автономный район</item>
+        <item>В Синьцзяне</item>
+        <item>Тайвань</item>
+        <item>Гонконг</item>
+        <item>Макао</item>
+        <item>За рубежом</item>
+    </string-array>
+    <string-array name="fb_city_code">
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>71</item>
+        <item>81</item>
+        <item>82</item>
+        <item>91</item>
+    </string-array>
+</resources>

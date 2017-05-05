@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Perfix</string>
+  <string name="yes">Да</string>
+  <string name="no">Нет</string>
+  <string name="apply">Применить эту тему</string>
+  <string name="discard">Отменить</string>
+  <string name="save">Сохранить</string>
+  <string name="menu_show_reports">Список отчетов</string>
+  <string name="menu_edit_settings">Настройки</string>
+  <string name="menu_delete_reports">Удалить Отчеты</string>
+  <string name="no_reports">Нет отчета в кэше</string>
+  <string name="notification_bugreport_failed">Bugreport ошибка.</string>
+  <string name="notification_bugreport_timeout">Время сбора данных закончено</string>
+  <string name="notofication_cached_report_title">Ожидание отчета о ошибках</string>
+  <string name="notification_cached_report_network_title">Доступная сеть</string>
+  <string name="notofication_cached_report_info">У вас есть %1$d отчетов %2$s загружено</string>
+  <string name="notification_invalid_device_id_title">Неверный UID устройства</string>
+  <string name="notification_invalid_device_id_msg">Обратитесь за помощью к администратору устройства.</string>
+  <string name="notification_title_battery_suspended">Загрузка приостановлена</string>
+  <string name="notification_message_battery_suspended">Подключите устройство к внешнему источнику питания для возобновления работы.</string>
+  <string name="notification_title_incomplete_setup">Требуется установка</string>
+  <string name="notification_msg_incomplete_setup">Bugreport настройка не завершена</string>
+  <string name="report_list">Кэшированные отчеты об жалобах</string>
+  <string name="report_list_menu_view">Вид</string>
+  <string name="report_list_menu_edit">Изменить</string>
+  <string name="report_list_menu_send">Отправить</string>
+  <string name="report_list_menu_delete">Убрать</string>
+  <string name="settings_category_userinfo">Контактная информация пользователя</string>
+  <string name="settings_category_engineer">Конфигурация инженерного режима</string>
+  <string name="settings_fname">Имя</string>
+  <string name="settings_dialog_title_edittext_fname">Введите ваше имя</string>
+  <string name="settings_email">Адрес электронной почты</string>
+  <string name="settings_dialog_title_edittext_email">Введите ваш адрес электронной почты</string>
+  <string name="settings_phone">Номер телефона</string>
+  <string name="settings_dialog_title_edittext_phone">Введите свой номер телефона</string>
+  <string name="settings_coreid">Идентификатор ID сотрудника</string>
+  <string name="settings_dialog_title_edittext_coreid">Введите ваш Qiku ID сотрудника</string>
+  <string name="settings_additional_logs">Дополнительные журналы</string>
+  <string name="settings_add_screenshot">Прикрепить скриншоты</string>
+  <string name="settings_collect_location">Собрать мои местоположения</string>
+  <string name="settings_upload">Варианты загрузки</string>
+  <string name="settings_wifi_only">Загрузить через WiFi</string>
+  <string name="settings_wifi_only_summary_on">Загрузка через WiFi разрешена</string>
+  <string name="settings_wifi_only_summary_off">Загрузка через WiFi запрещена</string>
+  <string name="settings_mobile_upload">Загрузка через 2G сети</string>
+  <string name="settings_mobile_upload_summary_on">Загрузка через 3G/2G допускается</string>
+  <string name="settings_mobile_upload_summary_off">Загрузка через 3G/2G запрещена</string>
+  <string name="settings_battery_level">Минимальный уровень заряда батареи</string>
+  <string name="settings_battery_level_summary">Загрузка приостанавливается, когда уровень заряда аккумулятора ниже указанного процента, если устройство не находится на внешнем источнике питания</string>
+  <string name="settings_notification">Уведомления</string>
+  <string name="settings_deam_notification">Уведомление об ошибке в системе</string>
+  <string name="settings_deam_notification_on">Показывать уведомление при создании и загрузке ошибок, обнаруженных системой</string>
+  <string name="settings_deam_notification_off">"Не показывать уведомления при создании и загрузке ошибок, обнаруженных системой."</string>
+  <string name="settings_auto_collect_title">Ошибки системы отчетов</string>
+  <string name="settings_auto_collect_summary_on">Об ошибках, обнаруженных системой, сообщается</string>
+  <string name="settings_auto_collect_summary_off">Об ошибках, обнаруженных системой, не сообщается</string>
+  <string name="settings_auto_upload">Загружать автоматически</string>
+  <string name="settings_auto_upload_summary_on">Новые отчеты будут загружены, как только они будут готовы.</string>
+  <string name="settings_auto_upload_summary_off">Новые отчеты будут приостановлены в папке «Исходящие», пока они не будут загружены вручную</string>
+  <string name="settings_coreid_required">Идентификатор сотрудника необходим для группы устройств</string>
+  <string name="upload_pending">Сеть недоступна, задача находится в ожидании.</string>
+  <string name="upload_not_allowed">Загрузка через 3G/2G запрещена, задача находится в ожидании.</string>
+  <string name="upload_already_exist">Отчет о жалобах уже находится в очереди на загрузку.</string>
+  <string name="upload_msg_failed">Не удалось отправить отчет о жалобах на отправку.</string>
+  <string name="upload_msg_canceled">Загрузка отменена.</string>
+  <string name="upload_msg_conpression_failed">Сжатие не удалось.</string>
+  <string name="upload_msg_invalid_log">Недопустимый файл журнала.</string>
+  <string name="toast_invalid_email">Неверный email</string>
+  <string name="toast_log_collection_started">Начат сбор журналов.</string>
+  <string name="toast_log_collection_completed">Сбор журналов завершен.</string>
+  <string name="toast_save_as_draft">Отчет сохранен как черновик</string>
+  <string name="alert_dialog_collector_failed_msg">Не получена отладочная информация с устройства, повторите попытку позже..</string>
+  <string name="alert_dialog_sd_missing_msg">На устройстве не осталось свободного места, вставьте SD-карту или очистите память и повторите попытку..</string>
+  <string name="alert_dialog_no_summary_title">Требуется краткое описание проблемы.</string>
+  <string name="alert_dialog_no_summary_msg">Введите отчет о проблеме перед отправкой этого отчета.</string>
+  <string name="alert_dialog_no_category_title">Требуемая категория проблемы.</string>
+  <string name="alert_dialog_no_category_msg">Перед отправкой этого отчета выберите категорию.</string>
+  <string name="alert_dialog_collection_on_going">Дождитесь завершения сбора журнала.</string>
+  <string name="alert_dialog_delete_report">Вы действительно хотите удалить этот отчет?</string>
+  <string name="alert_dialog_delete_reports">Вы действительно хотите удалить эти отчеты?</string>
+  <string name="alert_dialog_upload_reprot">Вы действительно хотите загрузить этот отчет?</string>
+  <string name="alert_dialog_cancel_upload">Вы действительно хотите отменить загрузку?</string>
+  <string name="alert_dialog_title_discard_or_save_report">Отменить или Сохранить?</string>
+  <string name="alert_dialog_msg_discard_or_save_report">Отменить или сохранить отчет?</string>
+  <string name="alert_dialog_title_discard_report">Отменить отчет?</string>
+  <string name="alert_dialog_msg_discard_report">Вы действительно хотите отменить этот отчет?</string>
+  <string name="alert_dialog_title_contactinfo">Необходимо указать контактную информацию</string>
+  <string name="alert_dialog_message_contactinfo">Убедитесь, что вся необходимая информация в настройках настроена перед отправкой этого отчета об жалобах.</string>
+  <string name="alert_dialog_title_error">Информация об ошибке</string>
+  <string name="alert_dialog_message_error">PanicReport произошла ошибка. Повторите попытку позже..</string>
+  <string name="alert_dialog_title_use_magic_key">Magic keys</string>
+  <string name="alert_dialog_message_use_magic_key">Пожалуйста, нажмите magic key, чтобы вызвать сбор журнала. Обратитесь к администратору вашего устройства за точными клавишами для этого.</string>
+  <string name="alert_dialog_title_invalid_logfile">Недопустимый файл журнала</string>
+  <string name="alert_dialog_message_invalid_logfile">Файл журнала не существует, нажмите \"OK\" для удаления этого отчета или \"Cancel\" чтобы отменить загрузку.</string>
+  <string name="alert_dialog_message_change_group">Вы уверены, что хотите сменить группу на %s?</string>
+  <string name="alert_dialog_title_discard_changes">Отменить изменения</string>
+  <string name="alert_dialog_message_discard_changes">Вы действительно хотите отменить все изменения?</string>
+  <string name="alert_dialog_title_save_changes">Применить изменения</string>
+  <string name="alert_dialog_message_save_changes">Вы хотите применить изменения, которые вы сделали?</string>
+  <string name="alert_dialog_delete_attach">Вы действительно хотите удалить это приложение?</string>
+  <string name="alert_dialog_title_attach_screenshot">Прикрепить скриншот</string>
+  <string name="alert_dialog_message_attach_screenshot">Вы хотите прикрепить скриншот для этой проблемы?</string>
+  <string name="alert_dialog_dont_show_again">"Больше не показывать это."</string>
+  <string name="alert_dialog_title_file_mgr_required">Нет файлового менеджера.</string>
+  <string name="alert_dialog_message_file_mgr_required">Установите диспетчер файлов или совместимое приложение. Вы хотите загрузить его сейчас?</string>
+  <string name="alert_dialog_incompatible_system">Установленная версия PanicReport не совместима с вашим системным программным обеспечением</string>
+  <string name="alert_dialog_report_incompleted">Вы выбрали неполный отчет. Вы хотите отредактировать его сейчас?</string>
+  <string name="alert_dialog_about_title">О программе</string>
+  <string name="alert_dialog_about_msg">"Версия: %1$s
+Устройства UID: %2$s
+"</string>
+  <string name="alert_dialog_about_author">Эксперт по ошибкам</string>
+  <string name="report_selected">Выбрано</string>
+  <string name="bug_prompt">Ошибки:</string>
+  <string name="transmit_paused">Пауза</string>
+  <string name="resuming_upload">возобновление....</string>
+  <string name="complete_upload">завершено</string>
+  <string name="contacting_server">обращение на сервер....</string>
+  <string name="cancelling_upload">отмена....</string>
+  <string name="type_auto">Авто</string>
+  <string name="type_user">Mann</string>
+  <string name="auto_notification">Только что произошла повторяющаяся проблема. Нажмите кнопку напоминания, чтобы изменить свои действия.</string>
+  <string name="building_report">Building</string>
+  <string name="waiting_user_input_report">Waiting user input</string>
+  <string name="ready_to_upload_report">Ready_to_upload</string>
+  <string name="ready_to_compress_report">Ready_to_compress</string>
+  <string name="compressing_report">Compressing</string>
+  <string name="compressing_paused_report">Compressing_paused</string>
+  <string name="ready_to_transmit_report">Ready_to_transmit</string>
+  <string name="transmitting_report">Transmitting</string>
+  <string name="ready_to_complete_report">Ready_to_complete</string>
+  <string name="completing_report">Completing</string>
+  <string name="ready_to_archive_report">Ready_to_archive</string>
+  <string name="archived_full_report">Archived_full</string>
+  <string name="archived_partial_report">Archived_partial</string>
+  <string name="build_failed_report">Build_failed</string>
+  <string name="compress_failed_report">Compress_failed</string>
+  <string name="transmit_failed_report">Transmit_failed</string>
+  <string name="complete_failed_report">Complete_failed</string>
+  <string name="user_deleted_outbox_report">User_deleted_outbox</string>
+  <string name="user_deleted_draft_report">User_deleted_draft</string>
+  <string name="queued_for_upload">Queued_for_upload</string>
+  <string name="action_bar_delete">Убрать</string>
+  <string name="report_type">Тип:</string>
+  <string name="report_tag">Тег:</string>
+  <string name="report_date">Дата:</string>
+  <string name="report_status">Статус:</string>
+  <string name="report_log_path">Путь:</string>
+  <string name="report_log_size">Размер:</string>
+  <string name="report_description">"Описание: "</string>
+  <string name="report_attachments">Вложение:</string>
+  <string name="app_settings">Настройки</string>
+  <string name="app_help">Помощь</string>
+  <string name="app_about">О программе</string>
+  <string name="toast_no_data_connection">Нет соединения для передачи данных.</string>
+  <string name="action_bar_edit">Изменить</string>
+  <string name="action_bar_view">Вид</string>
+  <string name="action_bar_send">Отправить</string>
+  <string name="action_bar_discard">Отменить</string>
+  <string name="action_bar_save_draft">Сохранить как черновик</string>
+  <string name="action_bar_attach_screen">Прикрепить скриншот</string>
+  <string name="action_bar_attach_file">Прикрепить файл</string>
+  <string name="action_bar_select_all">Выбрать все</string>
+  <string name="action_bar_upload">Загрузить</string>
+  <string name="action_bar_pause">Пауза</string>
+  <string name="and">" и"</string>
+  <string name="launcher_report_drafts">Список отчетов</string>
+  <string name="launcher_report_bug">Сообщение об ошибке</string>
+  <string name="launcher_manage_reports">Управление отчетами</string>
+  <string name="launcher_setup_wizard">Мастер настройки</string>
+  <string name="launcher_dlg_msg_magic_key_known">Знаете ли вы, что вы можете запускать отчеты напрямую, нажав %s одновременно? Попробуй это сейчас!</string>
+  <string name="launcher_dlg_btn_proceed">Обработка</string>
+  <string name="editor_select_cateogry">Выберите категорию</string>
+  <string name="editor_category_hint">Выбор категории</string>
+  <string name="editor_summary_hint">Сводка</string>
+  <string name="editor_description_hint">Описание</string>
+  <string name="editor_compose_bug">Сформировать отчет об ошибке</string>
+  <string name="report_list_tab_sent">Отправлено</string>
+  <string name="report_list_tab_drafts">Черновики</string>
+  <string name="report_list_tab_outbox">Исходящие</string>
+  <string name="report_list_tab_invalid">Неверно</string>
+  <string name="setup_wizard_is_qiku_employee">Я сотрудник Qiku.</string>
+  <string name="setup_reset">Сброс</string>
+  <string name="setup_done">Готово</string>
+  <string name="setup_skip">Начать</string>
+  <string name="KEYCODE_3">Главный экран</string>
+  <string name="KEYCODE_24">Громкость вверх</string>
+  <string name="KEYCODE_25">Громкость вниз</string>
+  <string name="KEYCODE_26">Power</string>
+  <string name="KEYCODE_82">Меню</string>
+  <string name="help_title">Qiku bugreport/Помощь</string>
+  <string name="help_content">"
+Q:Передать только на wifi? 
+A:выберите это, и отчет будет представлен только по Wi-Fi, отчет сохранится на TS, если нет Wi-Fi. продолжит отправку, когда Wi-Fi будет доступен .
+
+Q:План пользовательского опыта ? 
+A:выберите это, Система будет собирать журнал и отправлять сообщения при сбое приложения. Это поможет нам продолжить оптимизацию. Много потоков данных может произойти, когда вы его выбираете. Вы можете выбрать отправить только по Wi-Fi .
+
+Q:Вы можете связаться с нами по другому методу
+A:Если у вас есть какие-либо вопросы, вы можете позвонить по горячей линии 4008-360-360（The payment of the city call）or access http://bbs.qiku.com to report problem and get more product information .
+    "</string>
+  <string name="help_answer_magic_keys">\"Отчет об ошибках\"</string>
+  <string name="editor_reminder">Вежливое напоминание:Только что на вашем телефоне возникли системные проблемы. Вы помните свои шаги? Если да, могли бы вы их записать и представить? Большое спасибо!</string>
+  <string name="audio_record">Начало записи</string>
+  <string name="submit_report">Отправить</string>
+  <string name="attachmentbutton">Загрузить изображение</string>
+  <string name="problem_description_introduction">Предложение</string>
+  <string name="problem_description_hint">Пожалуйста, опишите свою проблему или предложите нам постоянно улучшать</string>
+  <string name="problem_description_image_introduction">Скриншот</string>
+  <string name="problem_description_button_cancel">Отмена</string>
+  <string name="problem_description_button_next">Далее</string>
+  <string name="problem_description_dialog_cancel">Отмена</string>
+  <string name="problem_description_dialog_info">Отчет еще не отправлен, отказаться от него?</string>
+  <string name="problem_description_dialog_ok">ОК</string>
+  <string name="problem_description_toast_info">Предложить или добавить изображение</string>
+  <string name="problem_description_error_select_img">Не удается открыть изображение, попробуйте еще раз.</string>
+  <string name="problem_description_dialog_prompt">Советы</string>
+  <string name="problem_description_select_same_file">Изображение уже существует</string>
+  <string name="problem_description_max_length_toast">Не более чем 2000 слов в problem_description</string>
+  <string name="problem_description_add_more">Добавить еще</string>
+  <string name="problem_description_no_add_more">Сложить</string>
+  <string name="problem_user_info_thanks">Спасибо!</string>
+  <string name="problem_user_info_phone">Номер телефона</string>
+  <string name="problem_user_info_email">Почта</string>
+  <string name="problem_user_info_pre">Назад</string>
+  <string name="problem_user_info_commit">Готово</string>
+  <string name="problem_setting_wifi_commit">Загрузить только по Wi-Fi</string>
+  <string name="problem_setting_user_plan">Программа работы с пользователем</string>
+  <string name="problem_setting_user_plan_introduction_on">Автоматически отправлять системный журнал при обнаружении ошибки</string>
+  <string name="problem_setting_user_plan_introduction_off">Вручную отправлять системный журнал при обнаружении ошибки</string>
+  <string name="problem_setting_category_other">Другие</string>
+  <string name="report_list_item_no_title">без заголовка</string>
+  <string name="report_list_item_no_desc">без описания</string>
+  <string name="power_screen">Экран</string>
+  <string name="power_flashlight">Фонарик</string>
+  <string name="power_wifi">WiFi</string>
+  <string name="power_bluetooth">Bluetooth</string>
+  <string name="power_cell">Связь с сетью</string>
+  <string name="power_phone">Голосовые вызовы</string>
+  <string name="power_idle">Режим ожидания</string>
+  <string name="power_unaccounted">Разное</string>
+  <string name="power_overcounted">Неучтенные</string>
+  <string name="running_process_item_removed_user_label">Удален пользователь</string>
+  <string name="process_kernel_label">ОС Android</string>
+  <string name="process_mediaserver_label">Медиа-сервер</string>
+  <string name="managed_user_title"> Рабочий Профиль</string>
+  <string name="unknown">Неизвестно</string>
+  <string name="running_process_item_user_label">Пользователь: %1$sxliff:g&gt;</string>
+  <string name="ok">ОК</string>
+  <string name="cancel">Отмена</string>
+  <string name="send_successed">Отзыв отправлен</string>
+  <string name="telephone">Контактная информация (Выберите опцию: номер/QQ/почта)</string>
+  <string name="send">Отправить</string>
+  <string name="mustmore">Пожалуйста, оставьте свой отзыв</string>
+  <string name="alert_neterror">Нет сети; Включите Wi-Fi</string>
+  <string name="add_affix">Изображение</string>
+  <string name="delete_affix_title">Удалить изображение</string>
+  <string name="delete_affix_Message">Вы действительно хотите удалить это изображение?</string>
+  <string name="item_text_for_describe">Описание проблемы</string>
+  <string name="hint_for_telephone">Ваша информация будет строго конфиденциальной.</string>
+  <string name="text_for_all_apps">Все приложения</string>
+  <string name="add_attachment">Добавить изображение</string>
+  <string name="more_type">еще</string>
+  <string name="log_path_mtk">/mtklog/</string>
+  <string name="log_mobile_mtk">/mtklog/mobilelog</string>
+  <string name="log_mobile_qcom">/log</string>
+  <string name="log_path">/log/</string>
+  <string name="log_zip_original">/smartlog/offline/</string>
+  <string name="log_offline">/smartlog/offlineauto/</string>
+  <string name="snaplog_path">/snaplog/</string>
+  <string name="snaplog_data_path">/snaplog/data/</string>
+  <string name="snaplog_bk_path">/snaplog/bk/</string>
+  <string name="snaplog_brs_path">/snaplog/brs/</string>
+  <string name="camera_log_path">/cameralog/</string>
+  <string name="fast_log_path">/fastlog/</string>
+  <string name="snaplog_recovery_path">/snaplog/recovery/</string>
+  <string name="smart_log_path">/smartlog/</string>
+  <string name="smart_log_zip_path">/smartlog/savedfiles/</string>
+  <string name="smart_log_mail_path">/smartlog/mailfiles/</string>
+  <string name="diagnose_log_dir">/smartlog/diagnose/uploadFile/</string>
+  <string name="none">Нет</string>
+  <string name="uac_dialog_cancel">Отмена</string>
+  <string name="sending_data_wait">Отправка данных</string>
+  <string name="welcome_tip">Мы отправим вам отзывы, которые вы заполнили, и занесем в журнал отчеты, которые вы использовали для QiKU сервер; если происходит прерывание сети, отправка возобновится, когда WLAN будет успешно подключена в следующий раз.</string>
+  <string name="welcome_title">Подсказка</string>
+  <string name="contin">Продолжить</string>
+  <string name="wifi_tip">Использовать сеть для передачи данных?</string>
+  <string name="log_tip">Этот журнал содержит информацию в течение приблизительно 1 минуты активности. Чтобы инженер мог легко анализировать и находить проблемы, Вам рекомендуется начать ведение журнала, выбрав «Начать журнал» на главном интерфейсе.</string>
+  <string name="zip_file">Сжатие файлов</string>
+  <string name="crawl_state_log">Извлечение журнала состояния</string>
+  <string name="wifi_send_sure_tip">Вы заполняете содержание обратной связи, и сообщения об ошибках будут отправляться нашей компании, а отзывы только для системного анализа, не содержащие личной информации; обратная связь будет загружена в среде WiFi, если процесс загрузки прекратиться из-за аномалии сети, после успеха следующего соединения WiFi будет продолжена передача.</string>
+  <string name="start">Старт</string>
+  <string name="stop">Стоп</string>
+  <string name="log_export">Экспортировать журнал</string>
+  <string name="log_export_location">Сохранить журнал в /storage/scard/smartlog/savedfiles/</string>
+  <string name="log_crawl_step">Этапы операции</string>
+  <string name="log_crawl_step_1">1. Нажмите кнопку «Пуск» в нижней части экрана;</string>
+  <string name="log_crawl_step_2">2. Когда эта проблема снова возникает во время работы, она будет автоматически обнаружена системой в фоновом режиме;</string>
+  <string name="log_crawl_step_3">3. После завершения операции, нажмите раскрывающуюся панель уведомлений, чтобы вернуться к интерфейсу обратной связи пользователя;</string>
+  <string name="log_crawl_step_4">4. Нажмите кнопку «Готово» в нижней части экрана, чтобы закончить запись; заполните форму и отправьте проблему.</string>
+  <string name="log_export_step">Нажмите кнопку «Стоп» и отправьте отзыв.</string>
+  <string name="recording">Обнаружение...</string>
+  <string name="wait_to_open">Подождите, чтобы начать</string>
+  <string name="other_problem">Другие проблемы</string>
+  <string name="log_record">Определить запись</string>
+  <string name="qi_bbs">360 Сообщество мобильных телефонов</string>
+  <string name="after_sale_service_hotline">Горячая линия сервисного обслуживания</string>
+  <string name="after_sale_service_network">Сервисное обслуживание</string>
+  <string name="qiku_service">360 Обслуживание клиентов мобильных телефонов</string>
+  <string name="open_log">Начать обнаружение</string>
+  <string name="communication_log">Обнаружение связи</string>
+  <string name="communication_log_space">Занимает большое пространство (1G), используйте при возникновении проблем с голосовыми вызовами и текстовыми сообщениями</string>
+  <string name="working_hour">8:30–21:00, С понедельника по воскресенье</string>
+  <string name="open_str">Старт</string>
+  <string name="close_str">Закрыть</string>
+  <string name="complete">Готово</string>
+  <string name="battery_question">Проблема с аккумулятором</string>
+  <string name="active">Присоединиться;Программа улучшения пользовательского опыта;</string>
+  <string name="active_on_summary">Мы будем табулировать данные об использовании вашего продукта, чтобы помочь нам улучшить наши продукты и услуги.</string>
+  <string name="menu_title">Программа улучшения пользовательского опыта</string>
+  <string name="delete_record">Удалить запись</string>
+  <string name="sure_delete_record">Удалить запись?</string>
+  <string name="cancel_record">Отменить запись</string>
+  <string name="sure_cancel_record">Отменить запись</string>
+  <string name="has_uploaded">Пользователь уже отправил!</string>
+  <string name="wait_wifi">Ожидание wifi, для автоматической выгрузки</string>
+  <string name="system_question">Системные вопросы</string>
+  <string name="comm_question">Коммуникационные вопросы</string>
+  <string name="feed_record">Запись фида</string>
+  <string name="cancel_detect">Отменить обнаружение</string>
+  <string name="sure_cancel_detect">Отменить обнаружение уверен</string>
+  <string name="cancel_commit">Отменить фиксацию</string>
+  <string name="sure_cancel_commit">Конечно, отменить фиксацию</string>
+  <string name="first_to_upload_task">Сначала загружать записи</string>
+  <string name="upload_limit">загрузка Ограничение по размеру 10</string>
+  <string name="checking">Проверка</string>
+  <string name="experience_program">"Дорогие клиенты, 
+
+\u0009\u0009\u0009\u0009Thank you for choosing 360 OS. Be sure to carefully read and thoroughly understand the policies stated herein before you participate in the 360 OS User Experience Improvement Program. You have the right to opt out of the 360 OS User Experience Improvement Program. By participating in the program, you understand and agree to all content of the Program stated herein. 
+
+\u0009\u0009\u0009\u0009You understand and agree to the following policies of the 360 OS User Experience Improvement Program: 
+
+\u0009\u0009\u0009\u00091. After you opt in the 360 OS User Experience Improvement Program, 360 OS will collect such data as some configuration data, application statistical data of your device, and data on device usage behavior (hereinafter referred to as user data), and therefore, will use a small amount of data traffic.
+ 
+\u0009\u0009\u0009\u00092. The user data will be anonymously collected and encrypted before being sent to QiKU Internet Network Scientific (Shenzhen) Co., Ltd. (hereinafter referred to as QiKU or We). QiKU will then perform statistics and analysis on the user data to identify areas for improvement for QiKU product and service, and take actions to provide users with improved user experience and customized product and service. During this process, the collected and processed user data does not contain any personally identifiable information. 
+
+\u0009\u0009\u0009\u00093. You can opt in or opt out at any time by changing your settings in Setup &gt; General &gt; About Phone &gt; User Experience Improvement Program. If you opt out of the User Experience Improvement Program, QiKU will stop collecting the user data. 
+
+\u0009\u0009\u0009\u00094. The user data will be properly stored on QiKU's server. QiKU will not disclose or spread the user data, nor use it for non-QiKU products. 
+
+\u0009\u0009\u0009\u00095. The user data stored on QiKU's server will be destroyed upon completion of data statistics and analysis by QiKU. 
+
+\u0009\u0009\u0009\u00096. QiKU shall not be liable for any user data collected and disclosed by any third-party application or non-QiKU program. 
+
+\u0009\u0009\u0009\u00097. QiKU may modify and update the User Experience Improvement Program from time to time. We will inform you of such modification and update to the extent possible via practicable channel and method. Please visit our website to query the latest version of User Experience Improvement Program. 
+ \u0009\u0009\u0009\u00098. For more details about user privacy involved in the User Experience Improvement Program, please refer to #the Privacy Policy in the QiKU User Agreement##."</string>
+  <string name="wizard_privacy_policy_content">"\u0009\u0009\u0009\u0009You may use our services through different means, such as logging in QiKU Website to buy QiKU products, using QiKU products and services, etc. When you share information with us (for example, creating a QiKU account), we can provide you with a better service by displaying more relevant product updates and advertisements, and by helping you connect with others or share with others more quickly and easily. For this purpose, we will explain to you the way we collect and use information, and what you can do to protect your privacy. 
+
+\u0009\u0009\u0009\u0009Our Privacy Policy includes the following aspects: 
+
+\u0009\u0009\u0009\u0009What information do we collect? 
+
+\u0009\u0009\u0009\u0009How do we collect and use information? 
+
+\u0009\u0009\u0009\u0009How can you provide the information optionally, and how to access and update the information? 
+
+\u0009\u0009\u0009\u0009Sharing and security of the information, and the applicable scope and modification of the Privacy Policy 
+
+\u0009\u0009\u0009\u0009The information we collect 
+
+\u0009\u0009\u0009\u0009We collect two types of your information, i.e., personal information (the data that can be used to uniquely identify or contact a person) and non-personal information (the data that will not be directly associated with any particular individual). If we combine the non-personal information with the personal information, such information is deemed as personal information during the period of combination. 
+
+\u0009\u0009\u0009\u0009How do we collect and use information? 
+
+\u0009\u0009\u0009\u0009Collection and use of personal information 
+
+\u0009\u0009\u0009\u0009When you interact with QiKU Internet Network Scientific (Shenzhen) Co., Ltd. (hereinafter referred to as QiKU or we) and its affiliated companies, you may be required to provide certain personal information, which are prerequisites for you to use our basic products and services.  
+
+\u0009\u0009\u0009\u0009The personal information may be combined with other information to improve our products and services. 
+
+\u0009\u0009\u0009\u0009The following are types of personal information that may be collected by QiKU, as well as some examples of how we use the information. 
+
+\u0009\u0009\u0009\u0009Collection of Personal Information 
+
+\u0009\u0009\u0009\u0009When you create a QiKU account, download and update QiKU software, register in the online store of QiKU phones, participate in an online survey or in other interactions with QiKU, you will be required to provide personal information, including but not limited to your name, phone number, e-mail address, postal address, etc. 
+
+\u0009\u0009\u0009\u0009When you purchase QiKU products and services, we will collect relevant personal information, including but not limited to: delivery details, bank account numbers, credit card details, billing address, credit checks and other financial information, records of contacts and communications, etc. 
+
+\u0009\u0009\u0009\u0009When you use a QiKU product to share your content with your family and friends, send messages and products, or invite others on QiKU BBS, QiKU will collect the personal information that you have provided as the personal information of the person concerned, such as name, postal address, e-mail address and telephone number, etc. 
+
+\u0009\u0009\u0009\u0009When you use and activate a QiKU mobile device for the first time, your mobile user identification information, unique identification code for the mobile device and the approximate location information of your device will be sent to QiKU. Collection of the above information may also apply to instances when you update your system or software, restoring to factory default settings, and so on. 
+
+\u0009\u0009\u0009\u0009When you use the upgrading service of a QiKU product, QiKU may collect such information of your QiKU product as device name, device identification (IMEI, ESN, MEID, SN), system and application version, operating system and browser version, region and language settings, operator’s network ID, etc. QiKU's collection and use of such information is only for the purpose of informing you of available updates for the system and applications. 
+
+\u0009\u0009\u0009\u0009In case abnormalities occur in your QiKU product or applications, and you choose to send relevant information to QiKU so that QiKU or its partner can provide a failure analysis service, QiKU may collect relevant information, including device model, name and version of the application, device identification number, error logs, etc. 
+
+ 
+
+\u0009\u0009\u0009\u0009QiKU may collect certain information for statistics and analysis, which may include your device name, device version, device identification (IMEI, ESN, MEID, SN), approximate location information (such as the network location code of the device), operator's network ID (PLMN), applications' condition, the IP address and other addresses of the Internet you access. QiKU collects and processes such information for the purpose of providing you with the best customized user experience, analyzing our operational efficiency, performing statistics on market shares, improving the security of the network and services, and enabling your after-sales support services. 
+
+ 
+
+\u0009\u0009\u0009\u0009When certain services provided by QiKU allow you to synchronize, share and store data, QiKU will collect and store the data that you choose to upload, download or realize such functions. 
+
+\u0009\u0009\u0009\u0009Use of Personal Information 
+
+\u0009\u0009\u0009\u0009QiKU will strictly abide by this Privacy Policy and the content specified by its update when using your personal information. Your personal information will be used only for the purpose that has been determined and with your consent upon collection. We will seek for your consent in advance in case of any other purpose.  
+
+\u0009\u0009\u0009\u0009The personal information we collect will be used to provide you with QiKU products and services, as well as process your order or fulfill the contract between you and QiKU, so as to ensure the functionality and security of our products and services, to verify your identity, and to prevent and investigate fraud and other misuses.  
+
+\u0009\u0009\u0009\u0009The personal information we collect will be used to develop our products and services, although under normal circumstances, we use only comprehensive information and statistical information for this purpose. 
+
+\u0009\u0009\u0009\u0009The personal information we collect will be used to communicate with you. For example, upon the updating and releasing of QiKU products or services, we will send a notice to you immediately. 
+
+\u0009\u0009\u0009\u0009The personal information we collect will be used to customize the design of products, and provide you with a more customized service. For example, in our services, we will recommend and display content and advertisement exclusively designed for you or for research. 
+
+\u0009\u0009\u0009\u0009If you participate in any lucky draw, contest or similar promotional activities that are held by QiKU, we will use your personal information for the management of such activities. 
+
+\u0009\u0009\u0009\u0009Your mobile user identification information, unique identification code of the mobile device and the location information may be used to activate the warranty service and certain software licenses for you and you may be invited to participate in a survey. We may also use this information to improve our products and to analyze the efficiency of our business operations. However, we will not use such information to track your location. 
+
+\u0009\u0009\u0009\u0009Collection and Use of Non-personal Information 
+
+\u0009\u0009\u0009\u0009At the same time, for the purpose of operation and improving its technologies and services, QiKU will collect and use your non-personal information on its own, which will help QiKU provide you with a better user experience and improve the quality of services. 
+
+\u0009\u0009\u0009\u0009The following are types of non-personal information that may be collected by us, as well as some examples of how we use the information. 
+
+\u0009\u0009\u0009\u0009Collection of Non-Personal Information 
+
+\u0009\u0009\u0009\u0009When you create a QiKU account, download QiKU software and its updates, register in the online store of QiKU phones, participate in an online survey or other interactions with QiKU, we will collect your information such as occupation, language, postal code, area code and the time zone of the place where the QiKU product is used. 
+
+\u0009\u0009\u0009\u0009Information on user habits and problems discovery - when you participate in the User Experience Improvement Program, we'll perform statistics anonymously on your use of the various functions of the product when needed, so as to collect relevant information on your habits in using QiKU official Website, products and services. In case the system abnormally exits and crashes, we will collect the information on the current status of the phone to facilitate fault diagnosis. 
+
+\u0009\u0009\u0009\u0009Information recorded by the server - when you use the QiKU theme, voice assistant, browser and other products, QiKU will collect your information that is recorded by the server, i.e., the data relevant to the user's behaviors such as uploading, downloading, synchronizing, browsing, etc. These data are deemed as non-personal information. 
+
+\u0009\u0009\u0009\u0009Location information - when you use the location-based program services and functions provided by QiKU, we need to collect your location information. For example, when you are performing a location-based search, using a location-based advertisement, optimizing the weather function by applying location or obtaining map information, your location information may be sent back to QiKU, so that QiKU can provide you with the right content. 
+
+\u0009\u0009\u0009\u0009Information collected by cookies and other technology – QiKU Website, online services, interactive applications, e-mail messages and advertisements may use cookies and other technologies such as pixel tags and web beacons to collect and store your non-personal information. 
+
+\u0009\u0009\u0009\u0009Log information - when you access a QiKU server, the server will automatically record certain log information which may contain the following information: IP address, browser type, language of the browser, referrer page, operating system, date/time stamp and click-stream data. 
+
+\u0009\u0009\u0009\u0009Use of Non-Personal Information 
+
+\u0009\u0009\u0009\u0009The non-personal information we collect, such as occupation, language, postal code, area code and the time zone of the place where the QiKU product is used, can help us better understand user behavior and improve our products, services and advertisements. 
+
+\u0009\u0009\u0009\u0009We are able to continuously enhance the operating experience of our products and services, operating performance, troubleshooting and improvement in the design of functions by analyzing the statistical data obtained from the User Experience Improvement Program of QiKU. 
+
+\u0009\u0009\u0009\u0009The information we collect by using cookies and other technologies (for example, pixel tags) will bring you a better user experience and improve the overall quality of our service. For example, by saving your language preferences, we can display our services in your preferred language. We can send e-mails to our users in a readable format by using pixel tags, and inform them whether the message is opened. We can use this information to reduce sending or refrain from sending e-mails to users. 
+
+\u0009\u0009\u0009\u0009How can users optionally provide information? 
+
+\u0009\u0009\u0009\u0009Everyone has a different concern for privacy, based on which we can clearly specify the ways we collect information so as to provide the way you choose to accept the information. 
+
+\u0009\u0009\u0009\u0009You may set freely whether or not to participate in the User Experience Improvement Program, i.e., you may turn off the option for the User Experience Improvement Program and exit the program.  
+
+\u0009\u0009\u0009\u0009You may alter the positioning settings of your device, for example, you may change or disable positioning methods or positioning servers or modify the accuracy of your location information, so as to change the location information you have provided to QiKU. 
+
+\u0009\u0009\u0009\u0009You may alter your browser setting to decline or accept cookies based on your needs, and you may also delete it from your storage device from time to time, or to notify you when cookies are written. 
+
+\u0009\u0009\u0009\u0009Access and Updating of Personal Information 
+
+\u0009\u0009\u0009\u0009By clicking [https://cloud.qiku.com/] to log in your account, you can access and update your personal information, and you can also delete some of your personal information or require us to delete your personal account, provided that we must retain the information for legal reasons. 
+
+\u0009\u0009\u0009\u0009Whenever you use our services, we strive to allow you to access your personal information. In case of any incorrect information, we will try to enable you to quickly update or delete information by different means (provided that we must retain the information for legitimate business or legal reasons). When updating your personal information, we may require you to verify your identity before processing your request. 
+
+\u0009\u0009\u0009\u0009We may reject unreasonable repetitive requests, requiring too much technical input, resulting in risks for the privacy of others or simply unrealistic. 
+
+\u0009\u0009\u0009\u0009As long as we can allow you to access and modify your information, and it does not require much investment, we will provide such service free of charge. We strive to provide improved maintenance for our services in order to protect information from accidental or malicious destruction. Therefore, after you have deleted information from our services, we may not immediately delete the residual copies of the information from the server in use, nor remove the relevant information from the backup system. 
+
+\u0009\u0009\u0009\u0009Sharing Information with Third Party 
+
+\u0009\u0009\u0009\u0009Except the limited sharing specified in this Privacy Policy, we will keep your personal information strictly confidential and will not share your personal information to any third party. 
+
+\u0009\u0009\u0009\u0009You hereby authorize us to share your personal information with a third party without your consent under any of the following circumstances: 
+
+\u0009\u0009\u0009\u0009We are required to share the personal information with a third party due to legal investigations, litigations, law enforcement or other mandatory provisions or requirements. 
+
+\u0009\u0009\u0009\u0009We will provide our subsidiaries, affiliated companies or other reliable businesses or individuals with the personal information so that they may process the personal information on our behalf. The aforesaid parties are required to agree to deal with the personal information in accordance with our regulations, this Privacy Policy and any other appropriate measures on confidentiality and security. 
+
+\u0009\u0009\u0009\u0009In case of restructuring, merger or sale, we will continually follow the current Privacy Policy before we transfer all personal information we have collected, to ensure its confidentiality, and will inform all affected users. 
+
+\u0009\u0009\u0009\u0009Based on operational needs and user protection, for example, to show an overall use trend of our products or services, we may share aggregated non-personal information with the public and partners in a reasonable manner. 
+
+\u0009\u0009\u0009\u0009Information Security 
+
+\u0009\u0009\u0009\u0009We strive to provide security for QiKU users to prevent the information we saved from being accessed, tampered with, disclosed or damaged without authorization. For this, we especially take the following measures: 
+
+\u0009\u0009\u0009\u0009We use SSL encryption for many of our services.  
+
+\u0009\u0009\u0009\u0009We will review the practices for collection, storage and processing (including physical security measures) of information to protect the systems against unauthorized access. 
+
+\u0009\u0009\u0009\u0009Only QiKU employees and personnel authorized to deal with the services on behalf of the company, and help to deal with personal information and have the need to know the information, are allowed to access personal information. They are required to strictly fulfill the contractual confidentiality obligations, and in the event of any failure to fulfill these obligations, they may be held liable or their relationship with QiKU will be terminated. 
+
+\u0009\u0009\u0009\u0009Your privacy is important to QiKU. So we will strive continually to secure your personal information, and implement security means, for example, applying security encryption to storage and transmission at all times to prevent your information from being accessed, used or disclosed without authorization. Concurrently, with regard to certain specific content of the encrypted data, no one shall be authorized to access other than the user. 
+
+\u0009\u0009\u0009\u0009Applicable Scope of the Privacy Policy 
+
+\u0009\u0009\u0009\u0009Our Privacy Policy shall not apply to third-party products and/or services. QiKU products and services may contain third-party products and services, and when you use or receive third-party services, they may obtain your information. Thus we hereby remind you to read the privacy policies of third parties. 
+
+\u0009\u0009\u0009\u0009This Privacy Policy shall not apply to the conduct of data collection by an external website after you click the link. 
+
+\u0009\u0009\u0009\u0009Collection and use of minor's personal information 
+
+\u0009\u0009\u0009\u0009We recommend children under the age of 13 use QiKU products or services with the permission and under the guidance of their legal guardian. 
+
+\u0009\u0009\u0009\u0009QiKU will not knowingly collect personal information from minors, nor will QiKU disclose the personal information to any third party. Guardians have the right to refuse further collection of the minor's personal information by QiKU and its affiliated companies, or require QiKU and its affiliated companies to delete the personal information thereof. In the event that we have collected personal information from children under the age of 13, we will take measures to delete such information as soon as possible. 
+
+\u0009\u0009\u0009\u0009Amendment of the Privacy Policy 
+
+\u0009\u0009\u0009\u0009This Privacy Policy may be altered. Without your expressed consent, we will not impair your due rights under this Privacy Policy, provided that we send you a notice to the e-mail address you have provided or release a notice on the Website. 
+
+\u0009\u0009\u0009\u0009The following are privacy practices specific to some QiKU products and services that you may use. 
+
+\u0009\u0009\u0009\u0009QiKU Cloud Services 
+
+\u0009\u0009\u0009\u0009With regard to your use of QiKU cloud service products, services and Websites (collectively referred to as QiKU cloud services), the terms in this Privacy Policy shall also apply. 
+
+\u0009\u0009\u0009\u0009QiKU is the provider of QiKU cloud service, through which you may use certain Internet services, including storing your personal content (such as text messages, contacts, photos, screenshots, notes, e-mails, calendar, etc.) on your compatible devices and computers and for access. In the event that you retrieve phone services by using QiKU cloud synchronization, your personal information to be uploaded will also include location information. Once you have enabled the QiKU cloud synchronization service, your personal content will be sent to QiKU and will be stored by QiKU automatically. After that, you can access such information or wirelessly push such information to other devices or computers on which the QiKU cloud synchronization service function has been enabled. 
+"</string>
+  <string name="user_private_argreement">Политика управления конфиденциальности пользователей</string>
+  <string name="log_complete">Обнаружение выполнено</string>
+  <string name="time000000">00:00:00</string>
+  <string name="time0">0%</string>
+  <string name="time000001">00:00:01</string>
+  <string name="user_log">Журнал пользователя</string>
+  <string name="send_failed">Не удалось отправить</string>
+  <string name="remote_diagnosis">Удаленная диагностика</string>
+  <string name="waiting">Пожалуйста подождите...</string>
+  <string name="log_size">Размер журнала</string>
+  <string name="open_comm_tip">Пожалуйста, выполните эту операцию, затем повторно выберите параметры журнала сообщений.!</string>
+  <string name="store_is_not_enough">Недостаточно места для хранения, Очистите пространство, попробуйте снова</string>
+  <string name="connect_wifi_to">Подключитесь к WIFI и повторите попытку позже.</string>
+  <string name="feed_tip">Пожалуйста, задайте вопрос, чтобы его снова попросили помочь нам более точно диагностировать проблему.</string>
+  <string name="re_detect">Re Обнаружение</string>
+  <string name="comfirm_submit">Подтвердить отправку</string>
+  <string name="system_question_feedback">Системная обратная связь</string>
+  <string name="system_question_feedback_tip">Сообщите нам о проблемах с системой или приложением..</string>
+  <string name="common_question_feedback">Обратная связь по проблеме связи</string>
+  <string name="common_question_feedback_tip">После того, как будет проблема с звонком или сетевым соединением обратитесь к нам</string>
+  <string name="on_your_side">На твоей стороне</string>
+  <string name="make_service_ready">Сделайте сервис готовым</string>
+  <string name="detect_time_too_short">Слишком короткое время тестирования</string>
+  <string name="alert_dialog_desktop_optimization_title">Оптимизация рабочего стола</string>
+  <string name="alert_dialog_desktop_optimization_message">По большим данным, мы настраиваем оптимизацию рабочего стола для вас, пожалуйста, нажмите OK для оптимизации.</string>
+  <string name="alert_dialog_desktop_optimization_ok">ОК</string>
+  <string name="alert_dialog_desktop_optimization_cancle">Отмена</string>
+  <string name="alert_dialog_desktop_optimization_receiver_message">Оптимизация Рабочего стола в процессе, пожалуйста, подождите...</string>
+  <string name="alert_dialog_desktop_optimization_over_message">Оптимизация Рабочего стола готово.</string>
+  <string name="desktop_optimization_start_btn">Оптимизировать сейчас</string>
+  <string name="desktop_optimization_ongoing_btn">Оптимизация</string>
+  <string name="desktop_optimization_end_btn">Успех</string>
+  <string name="not_efused">Нет предохранителя</string>
+  <string name="not_verified">Не подтверждено</string>
+  <string name="not_illegal">Незаконный загрузчик</string>
+  <string name="system_changed">Система изменена</string>
+  <string name="root_warning">У вас рутирован телефон, возможно потеря данных!</string>
+</resources>

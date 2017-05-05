@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="username_prompt_suffix_list">
+        <item>\@gmail.com</item>
+        <item>\@hotmail.com</item>
+        <item>\@yahoo.com.cn</item>
+        <item>\@yahoo.cn</item>
+        <item>\@sina.cn</item>
+        <item>\@sina.com</item>
+        <item>\@163.com</item>
+        <item>\@qq.com</item>
+        <item>\@126.com</item>
+        <item>\@sohu.com</item>
+        <item>\@yeah.net</item>
+        <item>\@189.cn</item>
+        <item>\@139.com</item>
+        <item>\@yulong.com</item>
+        <item>\@wo.com.cn</item>
+        <item>\@tom.com</item>
+        <item>\@21cn.com</item>
+    </string-array>
+    <string-array name="array_sex">
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <string-array name="contact_assistant_list">
+        <item>Помощник</item>
+        <item>Братья</item>
+        <item>Дети</item>
+        <item>Совместно проживающие</item>
+        <item>Отец</item>
+        <item>Друзья</item>
+        <item>Менеджер</item>
+        <item>Мать</item>
+        <item>Родители</item>
+        <item>Партнеры</item>
+        <item>Рекомендующий</item>
+        <item>Родные</item>
+        <item>Сестры</item>
+        <item>Супруги</item>
+        <item>Определяемые пользователем</item>
+    </string-array>
+    <string-array name="contact_birthday_remind_freq_list">
+        <item>Оповещение в текущий день</item>
+        <item>Один день перед событием</item>
+        <item>За два дня перед событием</item>
+        <item>За три дня перед событием</item>
+        <item>За семь дней перед событием</item>
+        <item>Пол месяца перед событием</item>
+        <item>Один месяц перед событием</item>
+    </string-array>
+    <string-array name="array_notice">
+        <item>Обычное SMS</item>
+        <item>Обычное SMS, SMS в банк</item>
+        <item>Обычное SMS, оповещение по SMS</item>
+    </string-array>
+    <string-array name="coolcloud_cloud_crecord_menu_list">
+        <item>Все Записи</item>
+        <item>Пропущенный звонок</item>
+        <item>Операторский пакет</item>
+        <item>Корзина</item>
+    </string-array>
+    <string-array name="coolcloud_cloud_sms_menu_list">
+        <item>Операторский пакет</item>
+        <item>Корзина</item>
+    </string-array>
+    <string-array name="coolcloud_cloud_contact_menu_list">
+        <item>Сортировать по времени</item>
+        <item>Сортировать в алфавитном порядке</item>
+        <item>Операторский пакет</item>
+        <item>Корзина</item>
+    </string-array>
+    <string-array name="coolcloud_cloud_group_menu_list">
+        <item>Создать группу</item>
+        <item>Пакетное удаление</item>
+    </string-array>
+    <string-array name="coolcloud_netdisk_actionbar_navigation_menu_list">
+        <item>Изображение</item>
+        <item>Музыка</item>
+        <item>Видео</item>
+        <item>Документы</item>
+        <item>Все файлы</item>
+    </string-array>
+    <string-array name="coolcloud_netdisk_actionbar_navigation_menu_more">
+        <item>Просмотр по категориям</item>
+        <item>Список передачи</item>
+        <item>Сортировать</item>
+        <item>Установить</item>
+    </string-array>
+    <string-array name="coolcloud_netdisk_actionbar_navigation_menu_list_1">
+        <item>Список загрузок</item>
+        <item>Список выгрузки</item>
+    </string-array>
+    <string-array name="coolcloud_netdisk_actionbar_more_menu_list">
+        <item>Параметры сети</item>
+        <item>Эскизы</item>
+        <item>Поиск</item>
+        <item>Обновить</item>
+        <item>Новая папка</item>
+        <item>Установить</item>
+    </string-array>
+    <string-array name="coolcloud_netdisk_character_to_filter_on_make_dir">
+        <item>\\</item>
+        <item>/</item>
+        <item>:</item>
+        <item>*</item>
+        <item>\?</item>
+        <item>\"</item>
+        <item>&lt;</item>
+        <item>></item>
+        <item>|</item>
+    </string-array>
+    <string-array name="cooperation_help_list">
+        <item>Вступление</item>
+        <item>Меры предосторожности</item>
+        <item>FAQ</item>
+    </string-array>
+    <string-array name="coolyou_problem_array">
+        <item>How do I view synchronized and backed up data on the 360 OS cloud service?</item>
+        <item>Does the 360 OS Cloud service use much data?</item>
+        <item>How do I recover data I deleted by mistake?</item>
+        <item>How do I recover data if I want to use a new phone or I lost my phone?</item>
+        <item>Why am I notified of a permission issue?</item>
+        <item>What do I do if contacts are duplicated?</item>
+        <item>What do I do if I forget my password for 360 OS Cloud service?</item>
+        <item>How many accounts can be registered for a phone?</item>
+        <item>How do I update and download the 360 OS Cloud service?</item>
+        <item>What is the hotline number for the 360 OS Cloud service?</item>
+    </string-array>
+    <string-array name="coolyou_problem_answer_array">
+        <item>A: Access the website cloud.360shouji.com using a registered account to conveniently view and manage your data. The website can be accessed via a phone as well, which facilitates use.</item>
+        <item>A: 360 OS Cloud service synchronizes variable data only. By compression, synchronizing information of 100 contacts consumes 5 KB data only.</item>
+        <item>A: To allow you to restore data deleted by mistake, 360 OS provides a recycle bin in the web version. Access the website cloud.360shouji.com and restore the deleted data from the recycle bin for different modules.</item>
+        <item>A: Log in to 360 OS Cloud service using your account on your new phone. The 360 OS Cloud service will synchronize contacts,your calendar, notepad and other information from the cloud to your new phone. For messages and call records, press Restore to restore data you have backed up.</item>
+        <item>"A: Possible causes of a permission issue include: 
+ 1 Smartphone permission setting error 
+ \u0009\u0009. (1). Caused by security software. Check whether your phone has any security software. For cloud security 
+ \u0009\u0009, find 360 OS Cloud service in Data Protection, and set it to Trusted. For Cool Manager 
+ \u0009\u0009, go to Data Protection - Contact > Call Record > Short Message > Calendar > Position Permission to find 360 OS Cloud service, and set it to Permitted. For 360 mobile security 
+ \u0009\u0009, go to Security Tool > Privacy Monitor > All Software to find 360 OS Cloud service, and set it to Trusted. For Tencent mobile manager 
+ \u0009\u0009, go to Privacy Protection > Privacy Monitor > Trusted Software to find the 360 OS Cloud service, and set it to Trusted. For other types of security software 
+\u0009\u0009, give the 360 OS Cloud service the permission to read contacts, calendar, messages, call record, and location information; 
+\u0009\u0009 (2). Caused by system. For the MIUI system 
+\u0009\u0009, go to System Setting > Application to find 360 OS Cloud service, and set it to My Trusted Program in Permission Management. 
+ 2 Smartphone adaptation issue 
+\u0009\u0009. Please dial the 360 OS Cloud service hotline 4008881388, and tell the contact your issue and phone model. We will handle the issue in promptly."</item>
+        <item>A: Access cloud.360shouji.com and use the Deduplication function in the Contact module to collate the contacts.</item>
+        <item>A: Press Forgotten password on the 360 OS Cloud service screen and enter your registered email address or phone number. A link will be sent to the email or phone for you to reset your password. Press the link to reset the password.</item>
+        <item>A: A phone can register up to five 360 OS Cloud service accounts.</item>
+        <item>A: We will post the latest version of 360 OS Cloud service on cloud.360shouji.com for you to download the version by a phone or PC .</item>
+        <item>A: 4008881388. Contact us anytime.</item>
+    </string-array>
+    <string-array name="coolcloud_week_strings">
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="coolcloud_weeks_string">
+        <item> </item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+</resources>

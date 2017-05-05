@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screenshot_saving_ticker">Сохранение записи экрана...</string>
+    <string name="screenshot_saving_title">Сохранение записи экрана....</string>
+    <string name="screenshot_saving_text">сохранить записи экрана..</string>
+    <string name="screenshot_saved_title">захват экрана..</string>
+    <string name="screenshot_saved_text">Коснитесь для просмотра ваших записей экрана..</string>
+    <string name="screenshot_failed_title">"Не удалось захватить экран."</string>
+    <string name="screenshot_failed_text">"Не удалось сохранить захват экрана. Хранилище используется."</string>
+    <string name="screenshot_delete_text">Удалить это видео?</string>
+    <string name="screenshot_delete_title">Удалить</string>
+    <string name="screenshot_start_screenrecord">Начало записи экрана</string>
+    <string name="screenshot_stop_screenrecord">Запись экрана остановлена</string>
+    <string name="screenshot_shutoff_screenrecord">Запись экрана закончена из-за функциональных противоречий</string>
+    <string name="screenshot_cannot_start_screenrecord">Запись экрана не удается запустить из-за функциональных противоречий</string>
+    <string name="screenshot_recording_message">Нажмите кнопку питания для остановки</string>
+    <string name="remind_insert_sdcard">Пожалуйста, вставьте SD-карту</string>
+    <string name="remind_space_not_enough">Недостаточно места на SD-карте</string>
+    <string name="screenrecord_title">Время записи:</string>
+    <string name="screenrecord_time">00:00</string>
+    <string name="screenrecord_stop">стоп</string>
+    <string name="soundrecord_stop">Остановка записи звука</string>
+    <string name="soundrecord_start">Начать записывать звук</string>
+    <string name="application_name">Служба записи экрана</string>
+    <string name="screenrecord_share">Предоставить общий доступ</string>
+    <string name="screenrecord_delete">удалить</string>
+</resources>

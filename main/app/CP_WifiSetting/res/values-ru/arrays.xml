@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_array">
+        <item>@string/none_password</item>
+        <item>@string/security_wep</item>
+        <item>@string/wap_wap2</item>
+        <item>@string/security_eap</item>
+    </string-array>
+    <string-array name="spinner_array">
+        <item>@string/none_password</item>
+        <item>@string/security_wep</item>
+        <item>@string/wap_wap2</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Сканирование...</item>
+        <item>Подключение...</item>
+        <item>Проверка подлинности...</item>
+        <item>Получение IP-адреса...</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение...</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+        <item>Подключено (Требуется проверка подлинности)</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Сканирование...</item>
+        <item>Подключение к %1$s...</item>
+        <item>Проверка подлинности с %1$s...</item>
+        <item>Получение IP-адреса из %1$s...</item>
+        <item>Подключение к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s...</item>
+        <item>Отключено</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>@string/wifi_security_wapi_psk</item>
+        <item>@string/wifi_security_wapi_cert</item>
+    </string-array>
+    <string-array name="wifi_security_unsupport_wapi">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+    </string-array>
+    <string-array name="wifi_security_no_eap">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa</item>
+        <item>@string/wifi_security_wpa2</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+   <string-array name="mobile_wifi_eap_method_sim">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Push button</item>
+        <item>PIN from peer device</item>
+        <item>PIN from this device</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Связан</item>
+        <item>Приглашение</item>
+        <item>Неудачно</item>
+        <item>Доступно</item>
+        <item>Вне диапазона</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 мин.</item>
+        <item>5 мин.</item>
+        <item>1 час</item>
+        <item>Всегда</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Плохой</item>
+        <item>Посредственный</item>
+        <item>Хороший</item>
+        <item>Отличный</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Всегда</item>
+        <item>Только при питании от сети</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Авто</item>
+        <item>5 GHz только</item>
+        <item>2.4 GHz только</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Нет</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Нет</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статический</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+        <item>Автонастройка</item>
+    </string-array>
+    <string-array name="wifi_auto_select_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="tether_channel_settings">
+        <item>авто</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="wifi_network_standard_settings">
+        <item>b-только</item>
+        <item>b/g смешанный</item>
+        <item>b/g/n смешанный</item>
+        <item>g-только</item>
+        <item>n-только</item>
+    </string-array>
+    <string-array name="wifi_hotspot_power_save_entries">
+        <item>Отключение при простое в течение 10 мин</item>
+        <item>Отключение при простое в течение 30 мин</item>
+        <item>Никогда</item>
+    </string-array>
+    <string-array name="softap_max_connect_number_settings">
+        <item>1 пользователь</item>
+        <item>2 пользователя</item>
+        <item>3 пользователя</item>
+        <item>4 пользователя</item>
+        <item>5 пользователей</item>
+        <item>6 пользователей</item>
+        <item>7 пользователей</item>
+        <item>8 пользователей</item>
+    </string-array>
+    <string-array name="wifi_wapi_psk_mode">
+        <item>WAPI PSK ASCII</item>
+        <item>WAPI PSK hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_auto_select_entries">
+        <item>По запросу</item>
+        <item>Ручное подключение WLAN</item>
+        <item>Авто подключение к WLAN</item>
+    </string-array>
+    <string-array name="wifi_setting_array_freewifi">
+        <item>@string/wifi_menu_wps_pbc</item>
+        <item>@string/wifi_menu_wps_pin</item>
+        <item>@string/wifi_menu_p2p</item>
+        <item>@string/wifi_display_settings_title</item>
+        <item>@string/wifi_menu_advanced</item>
+        <item>@string/free_wifi_enable</item>
+    </string-array>
+    <string-array name="wifi_setting_array">
+        <item>@string/wifi_menu_wps_pbc</item>
+        <item>@string/wifi_menu_wps_pin</item>
+        <item>@string/wifi_menu_p2p</item>
+        <item>@string/wifi_display_settings_title</item>
+        <item>@string/wifi_menu_advanced</item>
+    </string-array>
+    <string-array name="wifi_display_resolution">
+        <item>Авто</item>
+        <item>HD1080P</item>
+        <item>HD720P</item>
+        <item>SD480P</item>
+    </string-array>
+    <string-array name="wifi_speed_limit_resolution">
+        <item>Без ограничений</item>
+        <item>100 Кб</item>
+        <item>200 Кб</item>
+        <item>500 Кб</item>
+    </string-array>
+    <string-array name="progress_value_options" formatted="false">
+        <item>Цикл от 0% до 100%</item>
+        <item>0%</item>
+        <item>10%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="progress_color_options">
+        <item>По умолчанию</item>
+        <item>Красный</item>
+        <item>Пурпурный</item>
+    </string-array>
+    <string-array name="wheel_color_options">
+        <item>По умолчанию</item>
+        <item>Светло-серый</item>
+        <item>Серый</item>
+    </string-array>
+</resources>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="entry_log_limit_size">
+    <item>без лимита</item>
+    <item>1GB</item>
+    <item>2GB</item>
+  </string-array>
+  <string-array name="entryvalue_log_limit_size">
+    <item>1</item>
+    <item>0</item>
+    <item>2</item>
+  </string-array>
+  <string-array name="entry_log_format">
+    <item>time</item>
+    <item>long</item>
+    <item>brief</item>
+    <item>threadtime</item>
+  </string-array>
+  <string-array name="entryvalue_log_format">
+    <item>time</item>
+    <item>long</item>
+    <item>brief</item>
+    <item>threadtime</item>
+  </string-array>
+  <string-array name="entry_logout_dir">
+    <item>/mnt/sdcard/log</item>
+    <item>/data/log</item>
+    <item>/storage/sdcard1/log</item>
+    <item>/storage/external/log</item>
+  </string-array>
+  <string-array name="entryvalue_logout_dir">
+    <item>/mnt/sdcard/log</item>
+    <item>/data/log</item>
+    <item>/storage/sdcard1/log</item>
+    <item>/storage/external/log</item>
+  </string-array>
+  <string-array name="entry_log_type">
+    <item>Основной буфер</item>
+    <item>Буфер радио</item>
+    <item>Буфер события</item>
+    <item>Буфер системы</item>
+    <item>Буфер сбоев</item>
+  </string-array>
+  <string-array name="entryvalue_log_type">
+    <item>main</item>
+    <item>radio</item>
+    <item>events</item>
+    <item>system</item>
+    <item>crash</item>
+  </string-array>
+  <string-array name="entry_log_priority">
+    <item>Подробно</item>
+    <item>Отладка</item>
+    <item>Инфо</item>
+    <item>Предупреждения</item>
+    <item>Ошибки</item>
+  </string-array>
+  <string-array name="entryvalue_log_priority">
+    <item>Подробно</item>
+    <item>Отладка</item>
+    <item>Инфо</item>
+    <item>Предупреждения</item>
+    <item>Ошибки</item>
+  </string-array>
+  <string-array name="entry_log_content">
+    <item>no</item>
+    <item>10MB</item>
+    <item>30MB</item>
+    <item>50MB</item>
+    <item>100MB</item>
+  </string-array>
+  <string-array name="entryvalue_log_content">
+    <item>no</item>
+    <item>10MB</item>
+    <item>30MB</item>
+    <item>50MB</item>
+    <item>100MB</item>
+  </string-array>
+  <string-array name="entryvalue_log_time">
+    <item>@string/one_day</item>
+    <item>@string/two_day</item>
+    <item>@string/three_day</item>
+    <item>@string/four_day</item>
+  </string-array>
+  <string-array name="entry_log_time">
+    <item>@string/one_day</item>
+    <item>@string/two_day</item>
+    <item>@string/three_day</item>
+    <item>@string/four_day</item>
+  </string-array>
+  <string-array name="select_trouble_time">
+    <item>5 минут</item>
+    <item>10 минут</item>
+    <item>30 минут</item>
+    <item>1 час</item>
+    <item>2 часа</item>
+    <item>5 часов</item>
+    <item>10 часов</item>
+    <item>1 день</item>
+    <item>2 дня</item>
+  </string-array>
+</resources>

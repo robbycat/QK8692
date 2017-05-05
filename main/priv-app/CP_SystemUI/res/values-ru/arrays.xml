@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Поиск…</item>
+        <item>Подключение…</item>
+        <item>Аутентификация в сети…</item>
+        <item>Получение IP-адреса…</item>
+        <item>Подключено</item>
+        <item>Приостановлено</item>
+        <item>Отключение…</item>
+        <item>Отключен</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Поиск…</item>
+        <item>Соединение с сетью %1$s…</item>
+        <item>Аутентификация в сети %1$s…</item>
+        <item>Получение IP-адреса от %1$s…</item>
+        <item>Подключено к %1$s</item>
+        <item>Приостановлено</item>
+        <item>Отключение от %1$s…</item>
+        <item>Отключена</item>
+        <item>Сбой</item>
+        <item>Заблокировано</item>
+        <item>Временно избегать плохого соединения</item>
+    </string-array>
+    <string-array name="lockscreen_num_pad_klondike">
+        <item>+</item>
+        <item></item>
+        <item>ABC</item>
+        <item>DEF</item>
+        <item>GHI</item>
+        <item>JKL</item>
+        <item>MNO</item>
+        <item>PQRS</item>
+        <item>TUV</item>
+        <item>WXYZ</item>
+    </string-array>
+    <integer-array name="qiku_array_example_keyguard">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <string-array name="qiku_origin_carrier_names">
+        <item>CHINA MOBILE</item>
+        <item>China_Mobile</item>
+        <item>CMCC</item>
+        <item>CHN-UNICOM</item>
+        <item>UNICOM</item>
+        <item>China Mobile</item>
+        <item>China Unicom</item>
+        <item>China Telecom</item>
+    </string-array>
+    <string-array name="qiku_locale_carrier_names">
+        <item>CMCC</item>
+        <item>CMCC</item>
+        <item>CMCC</item>
+        <item>CUCC</item>
+        <item>CUCC</item>
+        <item>CMCC</item>
+        <item>CUCC</item>
+        <item>CTCC</item>
+    </string-array>
+    <string-array name="qiku_locale_tw_carrier_names">
+        <item>CMCC</item>
+        <item>CMCC</item>
+        <item>CMCC</item>
+        <item>CUCC</item>
+        <item>CUCC</item>
+        <item>CMCC</item>
+        <item>CUCC</item>
+        <item>CTCC</item>
+    </string-array>
+    <string-array name="keyguard_weather_pollution_array">
+        <item>Отлично</item>
+        <item>Хорошо</item>
+        <item>Световое загрязнение</item>
+        <item>Умеренное загрязнение</item>
+        <item>Сильное загрязнение</item>
+        <item>Серьезные загрязнения</item>				 
+    </string-array>
+    <integer-array name="batterymeter_color_levels">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <array name="batterymeter_color_values">
+        <item>@android:color/battery_saver_mode_color</item>
+        <item>#ffffffff</item>
+    </array>
+    <integer-array name="batterymeter_bolt_points">
+        <item>73</item>
+        <item>0</item>
+        <item>392</item>
+        <item>0</item>
+        <item>201</item>
+        <item>259</item>
+        <item>442</item>
+        <item>259</item>
+        <item>4</item>
+        <item>703</item>
+        <item>157</item>
+        <item>334</item>
+        <item>0</item>
+        <item>334</item>
+    </integer-array>
+    <integer-array name="qiku_array_example">
+        <item>15</item>
+        <item>100</item>
+    </integer-array>
+    <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+        <item>WAPI PSK</item>
+        <item>WAPI Certificate</item>
+    </string-array>
+    <string-array name="wifi_eap_method_sim_aka">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+    </string-array>
+    <string-array name="mobile_wifi_eap_method_sim">
+        <item>PEAP</item>
+        <item>SIM</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>(нет данных)</item>
+        <item>Слот Sim1</item>
+        <item>Слот Sim2</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>None</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_WEP_index">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Нет</item>
+        <item>Вручную</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Статический</item>
+    </string-array>
+    <array name="config_mobile_hotspot_provision_app" />
+    <string-array name="volume_stream_titles">
+        <item>Голосовые вызовы</item>
+        <item>Система</item>
+        <item>Уведомления</item>
+        <item>Мелодия</item>
+        <item>Будильник</item>
+        <item></item>
+        <item>Вызовы по Bluetooth</item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>

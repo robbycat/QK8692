@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hf_default_value">
+        <item>5$</item>
+        <item>10$</item>
+        <item>30$</item>
+        <item>50$</item>
+        <item>100$</item>
+        <item>200$</item>
+    </string-array>
+    <string-array name="traffic_default_value">
+        <item>10M</item>
+        <item>30M</item>
+        <item>50M</item>
+        <item>100M</item>
+        <item>200M</item>
+        <item>500M</item>
+    </string-array>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="password_hint_entries">
+        <item>Моя начальная школа</item>
+        <item>Средняя школа</item>
+        <item>Мой колледж</item>
+        <item>Мой любимый вид спорта</item>
+        <item>Пользовательский вопрос</item>
+    </string-array>
+    <string-array name="password_hint_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <integer-array name="BASIC_FONT_SIZE_ARRAY">
+        <item>18</item>
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </integer-array>
+    <string-array name="browser_security_titles">
+        <item>Сейф</item>
+        <item>Запись звонков</item>
+        <item>Обычная запись</item>
+    </string-array>
+    <string-array name="browser_common_titles">
+        <item>Запись звонков</item>
+        <item>Обычная запись</item>
+    </string-array>
+    <string-array name="record_mode_sub_title">
+        <item>Обычный режим</item>
+        <item>Режим интервью</item>
+        <item>Режим записи</item>
+        <item>Режим стерео</item>
+    </string-array>
+    <string-array name="record_path_mode_sub_title">
+        <item>Приоритет телефона</item>
+        <item>Приоритет SD-карты</item>
+    </string-array>
+    <string-array name="record_mode_propet">
+        <item>Режим интервью: Микрофоны чувствительны к звуку на верхней и нижней части мобильного телефона. Передние и задние звуки вокруг устройства будут записаны.</item>
+        <item>Режим записи: Микрофон чувствителен только к звуку одном направлении. Будет записан звук с нижнего микрофона.</item>
+        <item>Режим стерео: Все окружающие звуки будут записаны.</item>
+    </string-array>
+    <string-array name="record_channel_values">
+        <item>aac——Mono</item>
+        <item>aac——Stereo</item>
+        <item>amr</item>
+        <item>3gpp</item>
+    </string-array>
+    <string-array name="week_strings">
+        <item>Воскресенье</item>
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+    <string-array name="weeks_string">
+        <item> </item>
+        <item>ВС</item>
+        <item>ПН</item>
+        <item>ВТ</item>
+        <item>СР</item>
+        <item>ЧТ</item>
+        <item>ПТ</item>
+        <item>СБ</item>
+    </string-array>
+    <string-array name="progress_value_options" formatted="false">
+        <item>Цикл от 0% до 100%</item>
+        <item>0%</item>
+        <item>10%</item>
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="progress_color_options">
+        <item>По умолчанию</item>
+        <item>Красный</item>
+        <item>Пурпурный</item>
+    </string-array>
+    <string-array name="wheel_color_options">
+        <item>По умолчанию</item>
+        <item>Светло-серый</item>
+        <item>Серый</item>
+    </string-array>
+</resources>

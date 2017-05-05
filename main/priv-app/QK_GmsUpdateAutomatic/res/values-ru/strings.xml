@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, installGmsPackage!</string>
+    <string name="app_name">GmsUpdateAutomatic</string>
+    <string name="messageInstall">Ваш телефон перезагрузится и установится пакет GMS.</string>
+    <string name="messageNotfound">Вы хотите загрузить и установить пакет GMS?</string>
+    <string name="gmstitle">GMS установка.</string>
+    <string name="template_user_agent">%1$s/%2$s (Linux; Android)</string>
+    <string name="GMS_SERVER_PREFIX">http://ota1.os.qiku.com/updsvr/gms/</string>
+    <string name="GMS_MANAGE_SERVER">http://ota1.os.qiku.com</string>
+    <string name="GMS_DOWNLOADING">Downloading GMS package,please waiting!</string>
+    <string name="REMIND_INSERT_SDCARD">Пожалуйста вставьте SD карту!</string>
+    <string name="REMIND_SPACE_NOT_ENOUGH">Места на SD карте не достаточно!</string>
+    <string name="REMIND_SYSTEM_NOT_MOUNTE">Ошибка монтирования раздела System!</string>
+    <string name="REMIND_SYSTEM_NOT_ENOUGH">Места в разделе System не достаточно. Пожалуйста, удалите некоторые приложения!</string>
+    <string name="REMIND_POWER_NOT_ENOUGH">Низкий заряд, отмена установки!</string>
+    <string name="REMIND_INTERNET_NOT_CONNECT">Вставьте SIM-карту или подключитесь в сети!</string>
+    <string name="GMS_CANCEL_DOWNLOADING">GMS загрузка,отменить или нет!</string>
+    <string name="GMS_TITLE_DOWNLOADING">Загрузка GMS!</string>
+    <string name="REMIND_DOWNLOAD_FAILED">Не удалось загрузить GMS, повторите попытку!</string>
+    <string name="REMIND_WAITING_SERVICE">Подключение к серверу, подождите!</string>
+    <string name="REMIND_COMPLETE_DOWNLOAD">GMS загружен, нажмите для установки!</string>
+    <string name="REMIND_TITLE_DOWNLOAD">GMS установлен!</string>
+    <string name="gms_uninstall_title">Удалить пакет GMS</string>
+    <string name="uninstall_messageNotfound">Загрузить uninstall.zip и удалить GMS пакет?</string>
+    <string name="GMS_UNINSTALL_DOWNLOADING">Загрузка uninstall.zip для удаления GMS пакета, подождите!</string>
+    <string name="UNINSTALL_REMIND_COMPLETE_DOWNLOAD">Пакет удаления GMS загружен, нажмите для продолжения.</string>
+    <string name="message_unInstall">Ваш телефон будет перезагружен для удаления GMS приложений.</string>
+    <string name="message_is_not_Install">GMS пакет не установлен.</string>
+    <string name="messageInstalled">GMS пакет был установлен.</string>
+    <string name="message_not_support_model">Телефон не поддерживает эту функцию</string>
+    <string name="message_zip_verify_fail">GMS пакет поврежден, пожалуйста, повторно загрузите</string>
+</resources>

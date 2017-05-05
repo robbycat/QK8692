@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Компас</string>
+    <string name="degress">°</string>
+    <string name="north">Север</string>
+    <string name="east">Восток</string>
+    <string name="south">Юг</string>
+    <string name="west">Запад</string>
+    <string name="eastnorth">Северо-восток</string>
+    <string name="eastsouth">Юго-восток</string>
+    <string name="westsouth">Юго-запад</string>
+    <string name="westnorth">Северо-запад</string>
+    <string name="disturb_string_one">Магнитные помехи</string>
+    <string name="disturb_string_two">Поворачивайте мобильный телефон по траектории круга, чтобы откалибровать компас.</string>
+    <string name="calibration">Калибровка выполнена успешно</string>
+    <string name="longitude">Долгота</string>
+    <string name="latitude">Широта</string>
+    <string name="eastLongitude">Восточная долгота</string>
+    <string name="westLongitude">Западная долгота</string>
+    <string name="southLatitude">Южная широта</string>
+    <string name="northLatitude">Северная широта</string>
+    <string name="pressure">Давление воздуха</string>
+    <string name="hpa">гПа</string>
+    <string name="altitude">Высота над уровнем моря</string>
+    <string name="meter">м</string>
+    <string name="no_value">Не применимо</string>
+    <string name="screen_up_hint">Пожалуйста, поверните устройство экраном вверх.</string>
+    <string name="location_service_hint">Включите службу определения местоположения для получения данных о широте и долготе.</string>
+    <string name="alert_title">Получение данных местоположения</string>
+    <string name="alert_message">Разрешить компасу получать данные о местоположении посредством GPS или Интернета?</string>
+    <string name="positive_button">Да</string>
+    <string name="negative_button">нет</string>
+</resources>

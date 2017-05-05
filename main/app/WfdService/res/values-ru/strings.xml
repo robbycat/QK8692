@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wfd Сервис</string>
+    <string name="perm_label">QC Wi-Fi Стек Дисплея</string>
+    <string name="perm_desc">Доступ к Qualcomm Wi-Fi Стек Дисплея API-и</string>
+</resources>

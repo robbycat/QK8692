@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Widget3D</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="temperature">%1$s ℃</string>
+    <string name="Mon">Пн</string>
+    <string name="Tue">Вт</string>
+    <string name="Wed">Ср</string>
+    <string name="Thur">Чт</string>
+    <string name="Fri">Пт</string>
+    <string name="Sat">Сб</string>
+    <string name="Sun">Вс</string>
+    <string name="default_city">Mahilyow</string>
+    <string name="default_weather">Sun</string>
+    <string name="default_temp">0</string>
+    <string name="train_station">%1$s Отъезд</string>
+    <string name="train_seat">%1$sCar%2$sNum</string>
+    <string name="timeleft">%1$02d</string>
+    <string name="timeright">%1$02d</string>
+    <string name="flight_number_label">Рейс</string>
+    <string name="flight_station">%1$s Отъезд</string>
+    <string name="Train_line">Линия</string>
+    <string name="Train_num">Номер</string>
+    <string name="data_total">Общий объем данных %1$sMB</string>
+    <string name="health_card_wanshui1">Вы %1$s мужчина</string>
+    <string name="health_card_wanshui">Спите еще</string>
+    <string name="health_card_shuohaode">"Пришло время"</string>
+    <string name="health_card_xiuxishijian">для отдыха</string>
+    <string name="drive_Mode">За рулем</string>
+    <string name="vip_Mode">VIP режим</string>
+    <string name="eye_Mode">Защита глаз</string>
+    <string name="children_Mode">\"Детский\"</string>
+    <string name="none_mode">Выберите режим</string>
+    <string name="storage_space">Места для хранения</string>
+    <string name="storage_label1">Осталось места</string>
+    <string name="storage_label2">Процесс</string>
+    <string name="dataUsage_buy">Покупать</string>
+    <string name="dataUsage_remain">Данные ниже</string>
+    <string name="garbage_clean">Очистить</string>
+    <string name="garbage_label1">Очистка</string>
+    <string name="garbage_label2">Сверх</string>
+    <string name="button_open">Открыть</string>
+    <string name="button_close">Закрыть</string>
+    <string name="setting">"   Настр."</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="note_database_upgrade">"Обновление системы, не отключайте питание!"</string>
+    <string name="app_label">Память номеров/SMS/MMS</string>
+    <string name="read_only">только_чтение</string>
+    <string name="ppp_number">ppp_номер</string>
+</resources>

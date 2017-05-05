@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc">Это специфическое оборудование и ему должно быть назначены только OEM-приложения или услуги.</string>
+    <string name="label">Разрешен доступ к службам и ресурсам IZAT.</string>
+</resources>

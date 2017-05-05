@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="headline_title_fontFamily">sans-serif-light</string>
+    <string name="app_name">Пополнение</string>
+    <string name="pay_order">Платежное поручение</string>
+    <string name="number_invalid_hint">Пожалуйста, выберите правильный номер телефона</string>
+    <string name="pick_number_title">Пожалуйста, выберите значение для числа</string>
+    <string name="continue_buy">Продолжить покупку</string>
+    <string name="no_number">Номер телефона</string>
+    <string name="no_address">Нет никаких адресных книг по умолчанию</string>
+    <string name="bill">Состояние заряда</string>
+    <string name="bill_detail">Детали заряда</string>
+    <string name="traffic_packet">Пакет потока</string>
+    <string name="no_network_error">Сетевое подключение отсутствует</string>
+    <string name="valid_value">В конце вступления в силу имеющихся национальных сразу же промежуток</string>
+    <string name="input_hint">Пожалуйста, введите номер мобильного телефона</string>
+    <string name="no_read_contact_permission">Не имеет разрешения на чтение контакт</string>
+    <string name="pay_value">%1$sY</string>
+    <string name="inputnum_error">Телефонный номер был введен неправильно, пожалуйста, повторно введите</string>
+    <string name="get_product_error">Получить трафик продукт терпит неудачу, проверьте разрешения на использование текущей сети.</string>
+    <string name="pay_ali">Оплата платежей по</string>
+    <string name="pay_type_ali">Оплата po</string>
+    <string name="user_cancel_pay">Вы отменили платеж</string>
+    <string name="user_pay_fail">Этот платеж не удалось, пожалуйста попробуйте еще раз</string>
+    <string name="net_error">Сетевое подключение не удалось, пожалуйста, повторите попытку позже!</string>
+    <string name="traffic_ing">...</string>
+    <string name="traff_value">%1$sM</string>
+    <string name="order_status_charge_ok">Счет пополнен</string>
+    <string name="order_status_charge_fail">Не удалось добавить значение</string>
+    <string name="charge_number">Сменить номер</string>
+    <string name="order_create_time">Время создания заказа</string>
+    <string name="loading">Загрузка...</string>
+    <string name="traffic_guard">Хранитель трафика</string>
+    <string name="view_detail">, Нажмите кнопку Показать подробности.</string>
+    <string name="two_more_order_status_hint">Изменения пакета состояния заряда несколько трафика, нажмите кнопку Просмотреть подробности.</string>
+    <string name="order_status_hint">Поток изменения состояния пополнения пакета, нажмите кнопку Просмотреть сведения.</string>
+    <string name="pay_type">Способ оплаты</string>
+    <string name="order_id">Номер заказа</string>
+    <string name="refund_status">Статус возврата</string>
+    <string name="refund_status_ok">Возврат оплаты был po</string>
+    <string name="refund_status_fail">Без возврата оплаты po</string>
+    <string name="refund_status_fail_hint">Сумма не была возвращена платить PO 360OS, обратитесь в центр обслуживания клиентов</string>
+    <string name="order_info">Сведения о заказе</string>
+    <string name="pay_info">Продукт состоит из сторонних производителей, могут возникнуть небольшая задержка. Трафик на счет после того, как 360 защитников трафика будет уведомлять вас.</string>
+    <string name="pay_success">Успех покупки</string>
+</resources>
