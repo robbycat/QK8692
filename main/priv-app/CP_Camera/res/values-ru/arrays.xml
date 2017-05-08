@@ -19,91 +19,91 @@
         <item>Hungarian</item>
     </string-array>
     <string-array name="pref_camera_scenemode_entryvalues">
-        <item>авто</item>
-        <item>пляж</item>
-        <item>портрет</item>
-        <item>пейзаж</item>
-        <item>спорт</item>
-        <item>ночь</item>
-        <item>фейерверк</item>
-        <item>закт</item>
-        <item>стабилизация</item>
+        <item>auto</item>
+        <item>beach</item>
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>sports</item>
+        <item>night</item>
+        <item>fireworks</item>
+        <item>sunset</item>
+        <item>steadyphoto</item>
     </string-array>
     <string-array name="pref_camera_whitebalance_entryvalues">
-        <item>авто</item>
-        <item>лампа накаливания</item>
-        <item>дневной свет</item>
-        <item>люминесцентная лампа</item>
-        <item>облачный день</item>
-        <item>вручную</item>
+        <item>auto</item>
+        <item>incandescent</item>
+        <item>daylight</item>
+        <item>fluorescent</item>
+        <item>cloudy-daylight</item>
+        <item>manual</item>
     </string-array>
     <array name="pref_camera_effect_icons" />
     <string-array name="pref_camera_effect_entryvalues">
-        <item>нет эффектов</item>
-        <item>моно</item>
-        <item>негатив</item>
-        <item>засветка пленки</item>
-        <item>сепия</item>
-        <item>постер</item>
+        <item>none</item>
+        <item>mono</item>
+        <item>negative</item>
+        <item>solarize</item>
+        <item>sepia</item>
+        <item>posterize</item>
     </string-array>
     <string-array name="pref_camera_gpu_effect_entryvalues">
         <item>Cate</item>
-        <item>Сцена</item>
-        <item>Хром</item>
-        <item>Желтизна</item>
-        <item>Нет эффектов</item>
-        <item>Сентиментальное</item>
-        <item>Фильм</item>
-        <item>Япония</item>
-        <item>Ломо</item>
-        <item>Удаление дымки</item>
+        <item>Scenery</item>
+        <item>Chrome</item>
+        <item>Yellow</item>
+        <item>none</item>
+        <item>Sentimental</item>
+        <item>Film</item>
+        <item>Japan</item>
+        <item>Lomo</item>
+        <item>dehazing</item>
     </string-array>
     <string-array name="pref_camera_flashmode_entryvalues">
-        <item>авто</item>
-        <item>вкл</item>
-        <item>выкл</item>
-        <item>фонарь</item>
+        <item>auto</item>
+        <item>on</item>
+        <item>off</item>
+        <item>torch</item>
     </string-array>
     <string-array name="pref_camera_video_flashmode_entryvalues">
-        <item>выкл</item>
-        <item>авто</item>
-        <item>фонарь</item>
+        <item>off</item>
+        <item>auto</item>
+        <item>torch</item>
     </string-array>
     <string-array name="pref_camera_settingmore_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_effects_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_hdrmode_entryvalues">
-        <item>выкл</item>
-        <item>авто</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>auto</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_exposuremeter_entryvalues">
-        <item>центро-взвешенная</item>
-        <item>точечный</item>
-        <item>усредненный</item>
+        <item>center-weighted</item>
+        <item>spot-metering</item>
+        <item>frame-average</item>
     </string-array>
     <string-array name="pref_camera_focusmode_entryvalues">
-        <item>авто</item>
-        <item>следящий-непрерывный</item>
-        <item>бесконечность</item>
-        <item>макро</item>
+        <item>auto</item>
+        <item>continuous-picture</item>
+        <item>infinity</item>
+        <item>macro</item>
     </string-array>
     <string-array name="pref_camera_storage_path_entryvalues">
-        <item>внутренняя</item>
-        <item>внешняя</item>
+        <item>internal</item>
+        <item>external</item>
     </string-array>
     <string-array name="pref_camera_recordlocation_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_timestamp_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_cameramode_entryvalues">
         <item>picfocus</item>
@@ -143,25 +143,25 @@
         <item>picfocus</item>
     </string-array>
     <string-array name="pref_camera_shutter_sound_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_grid_line_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_scene_detect_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_secure_box_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_jpegquality_entryvalues">
-        <item>наилучшее</item>
-        <item>хорошее</item>
-        <item>норма</item>
+        <item>superfine</item>
+        <item>fine</item>
+        <item>normal</item>
     </string-array>
     <string-array name="pref_camera_videosize_entryvalues">
         <item>3840x2176</item>
@@ -177,132 +177,132 @@
         <item>60</item>
     </string-array>
     <string-array name="pref_camera_video_stabilization_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_antishaking_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_focusmode_default_array">
-        <item>следящий-изображение</item>
-        <item>авто</item>
+        <item>continuous-picture</item>
+        <item>auto</item>
     </string-array>
     <string-array name="pref_video_focusmode_default_array">
-        <item>следящий-видео</item>
-        <item>бесконечность</item>
+        <item>continuous-video</item>
+        <item>infinity</item>
     </string-array>
     <string-array name="pref_camera_trackSolid_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_antibanding_default_array">
-        <item>авто</item>
-        <item>выкл</item>
+        <item>auto</item>
+        <item>off</item>
         <item>50hz</item>
     </string-array>
     <string-array name="pref_camera_touch_shutter_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_preview_after_shutter_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_volume_button_entryvalues">
-        <item>громкость</item>
-        <item>захват</item>
-        <item>увеличение</item>
+        <item>volume</item>
+        <item>capture</item>
+        <item>zoom</item>
     </string-array>
     <string-array name="pref_camera_keep_capture_mode_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_font_camera_mirror_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_font_video_mirror_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_save_as_rawdata_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_screen_bright_entryvalues">
-        <item>низкая</item>
-        <item>средняя</item>
-        <item>высокая</item>
+        <item>low</item>
+        <item>medium</item>
+        <item>high</item>
     </string-array>
     <string-array name="pref_camera_network_remind_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_professional_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_voice_shutter_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_time_watermark_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="pref_camera_fast_capture_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_face_detect_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_original_beauty_photo_save_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_gesture_capture_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_finger_capture_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_private_capture_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_barcode_scaner_entryvalues">
-        <item>вкл</item>
-        <item>выкл</item>
+        <item>on</item>
+        <item>off</item>
     </string-array>
     <string-array name="pref_camera_vide_rate_entryvalues">
-        <item>высокая</item>
-        <item>средняя</item>
-        <item>низкая</item>
+        <item>high</item>
+        <item>medium</item>
+        <item>low</item>
     </string-array>
     <string-array name="pref_camera_videodis_entryvalues">
-        <item>выкл</item>
-        <item>вкл</item>
+        <item>off</item>
+        <item>on</item>
     </string-array>
     <string-array name="sceneFilterNames">
-        <item>Без фильтров</item>
-        <item>Время</item>
-        <item>Любовь</item>
-        <item>Дождь</item>
-        <item>Движение</item>
-        <item>Фейерверк</item>
-        <item>Новый год</item>
+        <item>None</item>
+        <item>Times</item>
+        <item>Love</item>
+        <item>Raining</item>
+        <item>Moving</item>
+        <item>Fireworks</item>
+        <item>Newyear</item>
     </string-array>
     <string-array name="abroadSceneFilterNames">
-        <item>Без фильтров</item>
-        <item>Время</item>
-        <item>Любовь</item>
-        <item>Дождь</item>
-        <item>Движение</item>
+        <item>None</item>
+        <item>Times</item>
+        <item>Love</item>
+        <item>Raining</item>
+        <item>Moving</item>
     </string-array>
     <string-array name="camera_capture_mode_minientries_array">
         <item>Обычный</item>
